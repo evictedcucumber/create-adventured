@@ -99,3 +99,8 @@ metafile = true
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "c3c618df6fa8e9f4b8de628c050cde77fec5fac7778a38ac94b28f42183e3a2a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/soft-weather.pw.toml"
+hash = "a76052f76e4eeb7f6114f3bad62fc1e967b8f39425bfb1e369c2ead7d56519b0"
+metafile = true
