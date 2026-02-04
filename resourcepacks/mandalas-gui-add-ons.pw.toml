@@ -1,0 +1,13 @@
+name = "Mandala's GUI - Add-Ons"
+filename = "MandalasGUI_AddOn+DarkModded_V6.5.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ceff4bb9b85aa99b699bfd55deafbbfd0668abcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7573234
+project-id = 969681
