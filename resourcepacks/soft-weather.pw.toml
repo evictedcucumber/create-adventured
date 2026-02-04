@@ -1,0 +1,13 @@
+name = "Soft Weather"
+filename = "Soft-Weather-1.0-Universal.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a47863b55f54b94473295960ca69f3e35d3ba4d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6724067
+project-id = 537890
