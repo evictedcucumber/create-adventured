@@ -79,3 +79,8 @@ metafile = true
 file = "resourcepacks/fresh-moves.pw.toml"
 hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+metafile = true
