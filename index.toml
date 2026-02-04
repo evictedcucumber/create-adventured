@@ -64,3 +64,8 @@ metafile = true
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
 hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
+metafile = true
