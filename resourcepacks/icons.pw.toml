@@ -1,0 +1,13 @@
+name = "Icons"
+filename = "Icons v.1.13.2.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cfb672a0cb5f102a324c7feacbe01fc2bbaffae1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7568427
+project-id = 422346
