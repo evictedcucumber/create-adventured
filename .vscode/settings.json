@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "mod",
-        "vscode"
+        "vscode",
+        "packwiz"
     ]
 }
