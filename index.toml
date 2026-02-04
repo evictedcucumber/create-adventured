@@ -4,3 +4,8 @@ hash-format = "sha256"
 file = "mods/entity-model-features.pw.toml"
 hash = "381a26678e6812b162d9524c4e1a5a952d70ec9ababae81e09bba1ef21b61cdc"
 metafile = true
+
+[[files]]
+file = "mods/esf-entity-sound-features.pw.toml"
+hash = "56b7d8b533d28f68cbaf1b0bd56ef41f35cefbf6f2868af8d090dc91b3ceecba"
+metafile = true
