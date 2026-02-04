@@ -57,75 +57,75 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"
-hash = "5736ae114ce1c28bf4b03cf8228277758c08be8bbb2caa7d0977c9b1020603bc"
+hash = "6774d90dd525b77c08814f8cdeaaa5fdf2d4dc265d45c9a7a3bfcd2da2494981"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
+hash = "5af5f0e483f294ad7db881e4a42fc27959929f748c6e8a4079dce047b7b08c8a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "3742efd536b417560395d9aab9643e2a97c105a60fd7f37c9a825024c7479359"
+hash = "dd6929c4e38eeb90105d587a36352365bf1e297a37207720e2ab95304f1887fa"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
+hash = "6a361be792283eb0dc65c8c4bb39c1c41cc9d959f167e7306bdf559a171c967d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-moves.pw.toml"
-hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
+hash = "125d893daa0b0f57a39f3f295344223681201b45020ff83e39540766c982e769"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-3d-items.pw.toml"
-hash = "e43f0b9e7ac02b779d36594c526fe330fbc64ddd10c0c1896f922acd9a0766b0"
+hash = "d86229049d870034cea564802dbada9246fac5f6773332e594c9e477a05bbfb7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-block-transitions.pw.toml"
-hash = "29e7e41a66e1c26606f33d59912139cd534ab14ef2c70bbba1da81702716422e"
+hash = "3d5152df2501abf43532d7d3428c07090082cbbe5893a0d174caceff5ee9f7a0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-connected-blocks.pw.toml"
-hash = "b5395a87ff650ccd9253568779f85deebf8186645219d4c6461f78645f03f0bd"
+hash = "d3c9542ee04fc53ce47fe4eb3859af84b0514a34d9798d91b001b3b7d683196b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
-hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+hash = "b5adc604f7875ced2804536228739046b56ec384d46bd31077025ed4ab21c528"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-emissive-ores.pw.toml"
-hash = "034b0be4433c1a410237bfc455542a217f4f3389014b5c06704f6bb6b9b2ad54"
+hash = "799f1b20d340e66837ccd5bcba2a1fc9bd4567c403a664d4087c8c7bd6a98061"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-stacking-items.pw.toml"
-hash = "0f29b597c6bbd952546109cc1ce4f5bdc09cef9c4ca9ad056e70c8705a750a40"
+hash = "734593f3f25cd9539f4455cb72deadb13e18afeb7ed6fc261a7892974371b0d9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "61a4566505db6e39003776e8035c7535cee9fc8091514040dfadf02580eb0fe4"
+hash = "f2d9fa4914c0eefcc1be552cf1362ce255962a16ece14916a6bf2ad70e76b281"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
-hash = "0eee40180a90d6616be68d87236b3ce7eda3ed1c747615356fc65b2681981c29"
+hash = "d4da54574446fa7fcdf4f50c02c216a740ba8550eb9d76cf086a33fb70d69522"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "c3c618df6fa8e9f4b8de628c050cde77fec5fac7778a38ac94b28f42183e3a2a"
+hash = "2c07e15405dab1b132cd6fe3713ee821e693b20db0a465bc3c7ba7a6442b0feb"
 metafile = true
 
 [[files]]
 file = "resourcepacks/soft-weather.pw.toml"
-hash = "a76052f76e4eeb7f6114f3bad62fc1e967b8f39425bfb1e369c2ead7d56519b0"
+hash = "174a0d836cbf584636001deab3291ddf64e9dacbc2644ed8aa843248bc175d1e"
 metafile = true
