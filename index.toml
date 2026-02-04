@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "381a26678e6812b162d9524c4e1a5a952d70ec9ababae81e09bba1ef21b61cdc"
+metafile = true
