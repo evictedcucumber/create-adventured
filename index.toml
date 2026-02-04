@@ -54,3 +54,8 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
+
+[[files]]
+file = "resourcepacks/create-lootr.pw.toml"
+hash = "5736ae114ce1c28bf4b03cf8228277758c08be8bbb2caa7d0977c9b1020603bc"
+metafile = true
