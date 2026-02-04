@@ -19,3 +19,8 @@ metafile = true
 file = "mods/esf-entity-sound-features.pw.toml"
 hash = "56b7d8b533d28f68cbaf1b0bd56ef41f35cefbf6f2868af8d090dc91b3ceecba"
 metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
+metafile = true
