@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "mod",
         "vscode",
-        "packwiz"
+        "packwiz",
+        "resourcepack"
     ]
 }
