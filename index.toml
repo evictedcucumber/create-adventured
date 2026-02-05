@@ -1,8 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/neoforge-client.toml"
+hash = "0330146d0a94cf5aac3a2d819ca1f788f54950d9cb35e8127a3810ecf201cfd5"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "724b9f78fe26360fcdc7089cc67a47cee6b96ea69d4ca42613f84b33e31e6986"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "6611dae920f7e2972e24e386e906a63ce8334abea5f4cdb32847bdeee938d66f"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "e512e11369083a978006ba303cef54a27563fb0cbe2fccfff0df173c276e8b4f"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "6f3f7debff90e705be828eb601c673765398d7a4a1bb22863329fc2a2eb4b1d6"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "d8ebc5a26f6f4fc0d27c3746a3aa6ec8d2652873bd3cec6f254be1628f0472f7"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "9aa8eee35129bd1938f5933063a138b20d6675a371017e7c0fe7181791c0e66f"
+hash = "d93330fdf970bd7c7a8379aded27b149ebb1eb9b36f657c31303d4f185a7c372"
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
