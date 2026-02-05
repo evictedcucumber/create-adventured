@@ -4,6 +4,7 @@
         "vscode",
         "packwiz",
         "resourcepack",
-        "shaderpack"
+        "shaderpack",
+        "server"
     ]
 }
