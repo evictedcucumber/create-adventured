@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
+hash = "a03b7bdf3eb3442d8cf9fa9008d02f5137195ef36d52ff8bbdd1558cf8c421a4"
 metafile = true
 
 [[files]]
@@ -67,8 +67,13 @@ hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
 
 [[files]]
+file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
+hash = "94e32fccda566bfc579aea3c4a05bee9cab7cacb06c5d22ae526a5931e88d06a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-leaf-culling.pw.toml"
-hash = "3bb7ffd04e7046fb97971271036de62b95188fbfcd56bc5cfe8907eace655aec"
+hash = "f0216b84b2670ef5234cda01f4b86d4d46b7e2b000d775e28269ce61e6725d5a"
 metafile = true
 
 [[files]]
