@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/CoroUtil/General.toml"
+hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
+
+[[files]]
 file = "configureddefaults/config/cerulean-client.toml"
 hash = "7c60bd4181287c189bfb246f5b37b572f58b639834ac8f88bba3249f921762f8"
 
@@ -21,16 +25,48 @@ file = "configureddefaults/config/chunkactivitytracker-server.toml"
 hash = "0a15b3e3c85bee2a73cb82e9d34e01f4259f396a0837c6134971c1a404a22911"
 
 [[files]]
+file = "configureddefaults/config/clavis.yaml"
+hash = "3d783af59134dd957a81977c6d1d0d4e4a82c4c9546cf71743f2c3305247ed2b"
+
+[[files]]
 file = "configureddefaults/config/configured-client.properties"
 hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
+
+[[files]]
+file = "configureddefaults/config/curios-client.toml"
+hash = "b468ebb087a8f2f93c0502dd62f9fa13def6a5731c69007877a2210552e0ebbb"
+
+[[files]]
+file = "configureddefaults/config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "configureddefaults/config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
 
 [[files]]
 file = "configureddefaults/config/despawntweaks-common.toml"
 hash = "e031348aeb851c4f83c8601e7db0643974930d2b9c9b9850f270c79ffc46fe8c"
 
 [[files]]
+file = "configureddefaults/config/displaydelight-common.toml"
+hash = "c3b979ca6d4cc07cb07e02fa452a3722ff94355d5f7faa04dc6cb28c07cea82a"
+
+[[files]]
+file = "configureddefaults/config/distraction_free_recipes-client.toml"
+hash = "cbed1f90bd420b058cf790bc3141a7c85aa77dd236da0d30e98aab8cfc8fba51"
+
+[[files]]
 file = "configureddefaults/config/does_it_tick-common.toml"
 hash = "4fd438bdf291a6b8b9067c3a17f6c0e580ddc99feb8b9eec5f532fed3ece6d71"
+
+[[files]]
+file = "configureddefaults/config/emi.css"
+hash = "ef18522eb13ad52f3866c4d61cd33d86566fea3e5efd34e381b34b7fd579ed04"
+
+[[files]]
+file = "configureddefaults/config/emi_loot_config.toml"
+hash = "d9cdd42aa7b10f8848d7cfbe9c30887c4fcae0c5ba0ef6d5f0fd803033b74bcf"
 
 [[files]]
 file = "configureddefaults/config/entity_model_features.json"
@@ -50,11 +86,27 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "68edac901bb8fffc1990fb6809f8d48c3180a7c07b87e2c582893d6cabb4053d"
+hash = "3b14d934ce42e823e229fa4bc1b7fcbb0f605e9955187393259136b0a9ec81ad"
+
+[[files]]
+file = "configureddefaults/config/farmersdelight-client.toml"
+hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
+
+[[files]]
+file = "configureddefaults/config/farmersdelight-common.toml"
+hash = "c834c382b3f43f6cc98e1bdcd9d96ed8a83984653215c4e4c45a44098a4a738e"
 
 [[files]]
 file = "configureddefaults/config/fml.toml"
 hash = "3787d7aacb14baa39b1a4b3cf57a3fbd4973804e0b7c9cd51f74aa4a7cd936f1"
+
+[[files]]
+file = "configureddefaults/config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "configureddefaults/config/immersivearmorhud-client.toml"
+hash = "840390cbba6d8755e7c0600031497f62d471d1f5aa645d2037ffad8d95a8eac6"
 
 [[files]]
 file = "configureddefaults/config/iris-excluded.json"
@@ -62,7 +114,43 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "7601bb71add63baa377af1ed717b2d317730a205103b094d36ffa99a0a1c338a"
+hash = "50c2c2150ae274e1a1abb16af35921e1dfa5d9f682136caa128ee40a08c0525b"
+
+[[files]]
+file = "configureddefaults/config/jei-server.toml"
+hash = "7630d4afb7bb2a11b7fb92705e77e0fcb9f1b3388d8412946fa2f2b98259dd4d"
+
+[[files]]
+file = "configureddefaults/config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "configureddefaults/config/jei/jei-client.ini"
+hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
+
+[[files]]
+file = "configureddefaults/config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "configureddefaults/config/jei/jei-debug.ini"
+hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
+
+[[files]]
+file = "configureddefaults/config/jei/jei-mod-id-format.ini"
+hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
+
+[[files]]
+file = "configureddefaults/config/jei/recipe-category-sort-order.ini"
+hash = "a10e3e91ffd5501394ae36f197db2135275083da3267fb3a10359b3219244ba2"
+
+[[files]]
+file = "configureddefaults/config/lootr-client.toml"
+hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
+
+[[files]]
+file = "configureddefaults/config/lootr-common.toml"
+hash = "c6c60ac2f8042e633ab68d440f50feefed7eeab3cad5d85d7542860fbc9614d1"
 
 [[files]]
 file = "configureddefaults/config/neoforge-client.toml"
@@ -77,8 +165,20 @@ file = "configureddefaults/config/neoforge-server.toml"
 hash = "6611dae920f7e2972e24e386e906a63ce8334abea5f4cdb32847bdeee938d66f"
 
 [[files]]
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
+hash = "808097df2643fdf730cf85d39f72d8f97dcef8074a86622def71ba6c10173742"
+
+[[files]]
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
+hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
 file = "configureddefaults/config/randomenchantfix-common.toml"
 hash = "d296a8d0d25bc555744ae1c47efb76dbbfadde0a35d39a3251f880f759839362"
+
+[[files]]
+file = "configureddefaults/config/relics.yaml"
+hash = "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278"
 
 [[files]]
 file = "configureddefaults/config/sodium-fingerprint.json"
@@ -101,8 +201,37 @@ file = "configureddefaults/config/sodiumextras-client.toml"
 hash = "9169076141063f1a6a5ae39413d072e9463cb26d8b797b3d0de8efa56654294d"
 
 [[files]]
+file = "configureddefaults/config/treechop-client.toml"
+hash = "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
+
+[[files]]
+file = "configureddefaults/config/treechop-common.toml"
+hash = "8eff30ac3654e54d35a2ae7d7d711eea910d1b538b88776c2e4c724565de4e23"
+
+[[files]]
+file = "configureddefaults/config/watut-client.toml"
+hash = "cc750724e261c94be36d2cea4a5e4f9466192e9ff7cf01546cb1efcea918282b"
+
+[[files]]
+file = "configureddefaults/config/watut-common.toml"
+hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
+
+[[files]]
+file = "configureddefaults/config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+
+[[files]]
+file = "configureddefaults/config/watut-server.toml"
+hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "d93330fdf970bd7c7a8379aded27b149ebb1eb9b36f657c31303d4f185a7c372"
+hash = "84fe90bb516b4fe9dbfcc80b75a79ea41e0d29b359fb7641e0fcb93a00f9b246"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
 
 [[files]]
 file = "mods/cerulean.pw.toml"
@@ -112,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-activity-tracker.pw.toml"
 hash = "0703b99d4acfe811a337098a2cb95028d1e5abf3cfa1a796c2b6be333110dbde"
+metafile = true
+
+[[files]]
+file = "mods/clavis.pw.toml"
+hash = "bfc7980e0de1f527148e8f894404ae55d559f9a52263db40807edfd45b9527ef"
 metafile = true
 
 [[files]]
@@ -125,8 +259,28 @@ hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
 file = "mods/despawn-tweaks.pw.toml"
 hash = "29c7be5f009e8963a8f4db046e10e056f4cc1aabdc20d59a43f7fef3f9b3b6bb"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "faf7e90356578aa58d0025e56cc38b9e62a44071b821ca5335cbe12251aa5e34"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "559997348e6cf4020ca79d65cd05716b2d58ae6d138fae6b5681f358a90cb88d"
 metafile = true
 
 [[files]]
@@ -137,6 +291,31 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "03c4f9a926fc9bd90fc98c6dac2a39e70b28303e4f3519756a7b246444548654"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation-forge.pw.toml"
+hash = "3485e57b49995ddf28c5df98f2e20021566bedf7f3234c5094f5905970bcb55b"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "e5fc842d500bcfc7b82c631150c26a011ee40588676fe85235dba3d009459d3f"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "2bfe1523d89098c72c7072531f60eb24c6b41fea2ee294bfcb86c3c385464c08"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+metafile = true
+
+[[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "e4d5a23da5099ddbe11d56b1f42c3a04cbb34000c78123f8924714a902ebb073"
 metafile = true
 
 [[files]]
@@ -155,8 +334,28 @@ hash = "1dd87ea53e292e9817bde805d03c1e26ff276f6b1fd9e0291a91d1cbc76e1e43"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
+metafile = true
+
+[[files]]
+file = "mods/gml.pw.toml"
+hash = "889db9e3f38acd68abdb5cc5f1b3cd752a279d9f58f23716513815a4bfd2072c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armor-hud.pw.toml"
+hash = "e2f4bb45f066198ef6a2a3375332ad3ac963b2f9f99cc097a652ff34b650ce4f"
 metafile = true
 
 [[files]]
@@ -165,8 +364,43 @@ hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "6c8c188ec9cd847b4ce13aa6cde0b38bbf29476d9eaaf4b6bbebc1f22416ddce"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "a03b7bdf3eb3442d8cf9fa9008d02f5137195ef36d52ff8bbdd1558cf8c421a4"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace-resmithed.pw.toml"
+hash = "124d719007315e021a882f2d48c6709eb7db326b3f62ab472d3e1e9ea8e1c6ab"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
@@ -182,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "18afbb4fd160f3835d3730a1f3d9e3f299902fbc6da223e0970bc5a77bcc9349"
 metafile = true
 
 [[files]]
@@ -205,8 +444,18 @@ hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "f0770e8df6212a00fcea3dcd72bdcaa344fa745593abc867b7e499fb493556b6"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "1394df1d39e588ffa86fce081fdb97f5ef9d4539cec2ef7ca1f1c75d30796aa0"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
