@@ -3,6 +3,7 @@
         "mod",
         "vscode",
         "packwiz",
-        "resourcepack"
+        "resourcepack",
+        "shaderpack"
     ]
 }
