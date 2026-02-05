@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "9aa8eee35129bd1938f5933063a138b20d6675a371017e7c0fe7181791c0e66f"
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "d7bad25e76c56a24b353822636b63ff08624e58272e10927fcd2f505da573298"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
 metafile = true
