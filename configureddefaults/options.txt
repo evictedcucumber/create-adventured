@@ -1,6 +1,7 @@
-guiScale:2
-narrator:0
 directionalAudio:true
-resourcePacks:["vanilla","mod_resources","file/Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip","file/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Soft-Weather-1.0-Universal.zip","file/CreateSophisticatedBackpacks.zip","file/Create LootR Chest.zip","file/FreshAnimations_v1.10.3.zip","file/FA+All_Extensions-v1.7.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/MandalasGUI+Dakmode_1.21.8_v2.5.zip","file/MandalasGUI_AddOn+DarkModded_V6.5.zip","file/Icons v.1.13.2.zip"]
+fullscreen:true
+guiScale:2
 incompatibleResourcePacks:["file/CreateSophisticatedBackpacks.zip","file/MandalasGUI+Dakmode_1.21.8_v2.5.zip","file/MandalasGUI_AddOn+DarkModded_V6.5.zip"]
+narrator:0
 rawMouseInput:true
+resourcePacks:["vanilla","mod_resources","file/Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip","file/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Soft-Weather-1.0-Universal.zip","file/CreateSophisticatedBackpacks.zip","file/Create LootR Chest.zip","file/FreshAnimations_v1.10.3.zip","file/FA+All_Extensions-v1.7.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/MandalasGUI+Dakmode_1.21.8_v2.5.zip","file/MandalasGUI_AddOn+DarkModded_V6.5.zip","file/Icons v.1.13.2.zip"]
