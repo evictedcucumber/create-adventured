@@ -1,0 +1,13 @@
+name = "Clavis"
+filename = "Clavis-NEOFORGE-0.2.11+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07fa62e7b963e680383dc0a69f49d9129d375b3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7473490
+project-id = 1296431
