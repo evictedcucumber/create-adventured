@@ -129,3 +129,8 @@ metafile = true
 file = "resourcepacks/soft-weather.pw.toml"
 hash = "174a0d836cbf584636001deab3291ddf64e9dacbc2644ed8aa843248bc175d1e"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "960ff0bf24fac909dd6c99fc7a3630d833c21937c07f2c713c8b43ba308185bc"
+metafile = true
