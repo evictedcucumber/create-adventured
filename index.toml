@@ -5,6 +5,14 @@ file = "configureddefaults/config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "892169d951bb8ac83e104dfc84be58548f011cafac0ba5e9b4735db81c12dbe3"
+
+[[files]]
+file = "configureddefaults/config/c2me.toml"
+hash = "1365185c82c4bbd981635858394b506e1547850ce1ae5aa0d7202d2d46d10a78"
+
+[[files]]
 file = "configureddefaults/config/cerulean-client.toml"
 hash = "7c60bd4181287c189bfb246f5b37b572f58b639834ac8f88bba3249f921762f8"
 
@@ -86,7 +94,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "3b14d934ce42e823e229fa4bc1b7fcbb0f605e9955187393259136b0a9ec81ad"
+hash = "03bd8a81888577fe536a2568d33ddd65b061cde995d62aedd3266ae473e4f082"
 
 [[files]]
 file = "configureddefaults/config/farmersdelight-client.toml"
@@ -114,7 +122,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "50c2c2150ae274e1a1abb16af35921e1dfa5d9f682136caa128ee40a08c0525b"
+hash = "a8226bd64809fcf8f67ea3b8414c8ea04357784bba7f149a5821ddc5ac2b78fb"
 
 [[files]]
 file = "configureddefaults/config/jei-server.toml"
@@ -234,6 +242,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/c2me.pw.toml"
+hash = "a5dfa298717e29ce78aa9d9672071dcf83ac16995bbaef6546f57f06104be444"
+metafile = true
+
+[[files]]
 file = "mods/cerulean.pw.toml"
 hash = "72ccca4a5e061ce94c3e32e8ba5b3c50df5427cb27d4e54a76a6194810b206fd"
 metafile = true
@@ -276,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "faf7e90356578aa58d0025e56cc38b9e62a44071b821ca5335cbe12251aa5e34"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "3a0da1a01f5281b39b00612f283b405e2d6c64d058cdf0571982a60480afe048"
 metafile = true
 
 [[files]]
