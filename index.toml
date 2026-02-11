@@ -65,6 +65,34 @@ file = "configureddefaults/config/configured-client.properties"
 hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
 
 [[files]]
+file = "configureddefaults/config/corpse-server.toml"
+hash = "781a64452d00b9c7209f69561aea8b09b1e924cd7e71f32867f7b01195d966ab"
+
+[[files]]
+file = "configureddefaults/config/corpsecurioscompat-common.toml"
+hash = "1af8c038af488d4d2f98afc93306cc97a3e7149100c184929980db642abbb89d"
+
+[[files]]
+file = "configureddefaults/config/cosmeticarmorreworked-client.toml"
+hash = "4f9577e9c8002872f5f3382f9892a38cbeefb6e2772b2ca248beab44859068fc"
+
+[[files]]
+file = "configureddefaults/config/cosmeticarmorreworked-common.toml"
+hash = "687143b4844094f166ff875447d139941970649475924d47ce8982e04ef1cf5d"
+
+[[files]]
+file = "configureddefaults/config/create-client.toml"
+hash = "8206b7b1489ff7fea6f6e53972ad73ed1b76e9704773f774ab363d128bed970b"
+
+[[files]]
+file = "configureddefaults/config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "configureddefaults/config/create-server.toml"
+hash = "cd11f3ede5d9455438a15d1a0c493071fc5e31b54f85167632d05d0096fe3339"
+
+[[files]]
 file = "configureddefaults/config/creativecore-client.json"
 hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
 
@@ -74,7 +102,7 @@ hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
 file = "configureddefaults/config/curios-client.toml"
-hash = "b468ebb087a8f2f93c0502dd62f9fa13def6a5731c69007877a2210552e0ebbb"
+hash = "32906853e83ac958bcd8fb59fbe64b8c9306f1c425bc0accc6bb9285a1bba328"
 
 [[files]]
 file = "configureddefaults/config/curios-common.toml"
@@ -126,7 +154,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "532d72927013fae41703793d2b13e58b4ecad0b527bccec7ca776283c9b6c5b8"
+hash = "0c78ad1a1cdd829b37c117f3170325208965545f25b5fe341a26c0d502d7d24c"
 
 [[files]]
 file = "configureddefaults/config/farmersdelight-client.toml"
@@ -139,6 +167,10 @@ hash = "c834c382b3f43f6cc98e1bdcd9d96ed8a83984653215c4e4c45a44098a4a738e"
 [[files]]
 file = "configureddefaults/config/ferritecore-mixin.toml"
 hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = "configureddefaults/config/flywheel-client.toml"
+hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
 
 [[files]]
 file = "configureddefaults/config/fml.toml"
@@ -158,7 +190,11 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "20bdb18b79da8ff77e090c44b069d6e6293a1b338c336f6d818dd8be0458896c"
+hash = "482316f743f36443ffb9342e80f297d2a60e91c681f5fae5aa3c6ac7ecac56c2"
+
+[[files]]
+file = "configureddefaults/config/irisflw-client.toml"
+hash = "e3998cb0f9acbc3e5654e86194dbdeb5c86276da645b977f71a5f9954322b7f6"
 
 [[files]]
 file = "configureddefaults/config/jei-server.toml"
@@ -186,7 +222,7 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "configureddefaults/config/jei/recipe-category-sort-order.ini"
-hash = "a10e3e91ffd5501394ae36f197db2135275083da3267fb3a10359b3219244ba2"
+hash = "5862399da784d519572e44e345b2ffdca818bb1033c8220d0a2a697097d99a02"
 
 [[files]]
 file = "configureddefaults/config/lithium.properties"
@@ -222,7 +258,7 @@ hash = "6611dae920f7e2972e24e386e906a63ce8334abea5f4cdb32847bdeee938d66f"
 
 [[files]]
 file = "configureddefaults/config/packetfixer.properties"
-hash = "0497423409dccb05b87c5515b53ed5d310d3d555ff7ce6fe572ec415a11bfe22"
+hash = "029a2ca5f524ebcffc750b39c19eb59577a010876bc974267ef973f6059e8814"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
@@ -231,6 +267,10 @@ hash = "808097df2643fdf730cf85d39f72d8f97dcef8074a86622def71ba6c10173742"
 [[files]]
 file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
 hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
+file = "configureddefaults/config/ponder-client.toml"
+hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
 
 [[files]]
 file = "configureddefaults/config/randomenchantfix-common.toml"
@@ -331,6 +371,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "12f240d6dde74a5daf9b970eaf3df32c7e76731fd3eb43622effc43df9a7cf18"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "a5dfa298717e29ce78aa9d9672071dcf83ac16995bbaef6546f57f06104be444"
 metafile = true
@@ -363,6 +408,36 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+hash = "1ffe8f097721193adcce67093b82768e75c127761becaa24a1b4a5ac393ea0d0"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "0dbb09999d85aa27cae3b923827245ad2e9559bb46f69736dde8f0377fd1c7e2"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "4d4804b4b09a1e8df068f465cca9b07b818ee6d6c2c061269e42b2cea9749be0"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
 metafile = true
 
 [[files]]
@@ -478,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armor-hud.pw.toml"
 hash = "e2f4bb45f066198ef6a2a3375332ad3ac963b2f9f99cc097a652ff34b650ce4f"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "3515b9dac775603ef931531ed5c379fa7d67b4c16b42f022dfffa75d83b41859"
 metafile = true
 
 [[files]]
