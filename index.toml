@@ -9,8 +9,28 @@ file = "configureddefaults/config/DistantHorizons.toml"
 hash = "892169d951bb8ac83e104dfc84be58548f011cafac0ba5e9b4735db81c12dbe3"
 
 [[files]]
+file = "configureddefaults/config/advancementplaques.toml"
+hash = "5566426084811c13d5fd9aa799a0012dd4cb8eacb466344bc402011daa455ed1"
+
+[[files]]
+file = "configureddefaults/config/aiimprovements-common.toml"
+hash = "99113ed20833ab95be2a9ca46ffc88e3427b066d4b02646873cdebe2203fd622"
+
+[[files]]
 file = "configureddefaults/config/alltheleaks.json"
 hash = "2437057bda7e53d91e7a8c400da308a8d848fbdcc80ed845a9c8dbdabd071482"
+
+[[files]]
+file = "configureddefaults/config/ambientsounds-client.json"
+hash = "ed1b398794e7b112f1a0c79531ebc9cd56457638c88af0794ebef277b1a45504"
+
+[[files]]
+file = "configureddefaults/config/amendments-client.toml"
+hash = "11d25d3a0fc3cbb9c36b8e00e4390a531fe3d1ba166c695eb63a434c9bf31eba"
+
+[[files]]
+file = "configureddefaults/config/amendments-common.toml"
+hash = "b9a881e305d5abc7ea4b6a40570eb5c2ed8ca202769a6557a138ae3d44c4d4d5"
 
 [[files]]
 file = "configureddefaults/config/c2me.toml"
@@ -43,6 +63,14 @@ hash = "3d783af59134dd957a81977c6d1d0d4e4a82c4c9546cf71743f2c3305247ed2b"
 [[files]]
 file = "configureddefaults/config/configured-client.properties"
 hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
+
+[[files]]
+file = "configureddefaults/config/creativecore-client.json"
+hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
+
+[[files]]
+file = "configureddefaults/config/creativecore.json"
+hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
 file = "configureddefaults/config/curios-client.toml"
@@ -98,7 +126,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "d77e2672cf5e2697e91cd9bd515304710179c3c67de28d1dd7820fc2492daf55"
+hash = "532d72927013fae41703793d2b13e58b4ecad0b527bccec7ca776283c9b6c5b8"
 
 [[files]]
 file = "configureddefaults/config/farmersdelight-client.toml"
@@ -130,7 +158,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "9f90c357e6fc0f2346f2ce0ed275b84e5b14cb1dbefb625456937864d7404cd1"
+hash = "20bdb18b79da8ff77e090c44b069d6e6293a1b338c336f6d818dd8be0458896c"
 
 [[files]]
 file = "configureddefaults/config/jei-server.toml"
@@ -173,6 +201,14 @@ file = "configureddefaults/config/lootr-common.toml"
 hash = "c6c60ac2f8042e633ab68d440f50feefed7eeab3cad5d85d7542860fbc9614d1"
 
 [[files]]
+file = "configureddefaults/config/moonlight-client.toml"
+hash = "3f252fefef0345f9aa8a8d3b7eff02f045b8bf565329eeba9ec50c7989a63457"
+
+[[files]]
+file = "configureddefaults/config/moonlight-common.toml"
+hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
+
+[[files]]
 file = "configureddefaults/config/neoforge-client.toml"
 hash = "0330146d0a94cf5aac3a2d819ca1f788f54950d9cb35e8127a3810ecf201cfd5"
 
@@ -186,7 +222,7 @@ hash = "6611dae920f7e2972e24e386e906a63ce8334abea5f4cdb32847bdeee938d66f"
 
 [[files]]
 file = "configureddefaults/config/packetfixer.properties"
-hash = "341de6219fe2e6110dc2616c9b5ab35ce9cccab271c4ce9656bea4c6688546dc"
+hash = "0497423409dccb05b87c5515b53ed5d310d3d555ff7ce6fe572ec415a11bfe22"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
@@ -225,6 +261,18 @@ file = "configureddefaults/config/sodiumextras-client.toml"
 hash = "9169076141063f1a6a5ae39413d072e9463cb26d8b797b3d0de8efa56654294d"
 
 [[files]]
+file = "configureddefaults/config/supplementaries-client.toml"
+hash = "80c8dc5e160affaff5c474b412a5e303d5959ea8a0951a0c3bdc414b867e7ab6"
+
+[[files]]
+file = "configureddefaults/config/supplementaries-common.toml"
+hash = "2e374c3882b6e5d9ebbab4676370e1ef2ae7b33b9d6ebda012ec8b997d60107e"
+
+[[files]]
+file = "configureddefaults/config/suppsquared-common.toml"
+hash = "a3440b61fdcd1dabfd525863005b3da7b281aab793a9a15ffa94d69b34f46449"
+
+[[files]]
 file = "configureddefaults/config/treechop-client.toml"
 hash = "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
 
@@ -253,8 +301,28 @@ file = "configureddefaults/options.txt"
 hash = "84fe90bb516b4fe9dbfcc80b75a79ea41e0d29b359fb7641e0fcb93a00f9b246"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "5525cfe500a324b4415516770d584eab9b0f6ca64286c55547b5403e76f63b3b"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "04eafff462439cffdf4c7e0a236231cf5ecb6dafcf3f058e77c1587e626c201a"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
@@ -295,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "ca5c304fab787d8e58dd024b9e279ff59ec490ceb0a5a717281bfe44447fc6eb"
 metafile = true
 
 [[files]]
@@ -398,6 +471,11 @@ hash = "889db9e3f38acd68abdb5cc5f1b3cd752a279d9f58f23716513815a4bfd2072c"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armor-hud.pw.toml"
 hash = "e2f4bb45f066198ef6a2a3375332ad3ac963b2f9f99cc097a652ff34b650ce4f"
 metafile = true
@@ -478,6 +556,11 @@ hash = "18afbb4fd160f3835d3730a1f3d9e3f299902fbc6da223e0970bc5a77bcc9349"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "8067b8a931ab38f7f274a6348e6da98bd943796e85ff3fc68a37c5f989afc694"
+metafile = true
+
+[[files]]
 file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
 hash = "94e32fccda566bfc579aea3c4a05bee9cab7cacb06c5d22ae526a5931e88d06a"
 metafile = true
@@ -495,6 +578,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "36a9973a4f3cd5aef77cf4199ff1a3e243c36a379b6c83c789a2ed7ceddd6986"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "8be310770ba85af8263754e23f39ff71e374c6bc74ea119634ad74961493498b"
 metafile = true
 
 [[files]]
