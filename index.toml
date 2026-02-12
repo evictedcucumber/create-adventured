@@ -154,7 +154,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "40dd0dc191dbe5a8632aee4114aca0402fe4ae05710123a30166440a9df09b65"
+hash = "870e799886d9414fbc14a9a9aeea08ea21f1ee0459c3aa4bbbce8fa47672f941"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/custom_icon-16x16.png"
@@ -237,6 +237,26 @@ file = "configureddefaults/config/fml.toml"
 hash = "3787d7aacb14baa39b1a4b3cf57a3fbd4973804e0b7c9cd51f74aa4a7cd936f1"
 
 [[files]]
+file = "configureddefaults/config/ftbbackups3-client.snbt"
+hash = "899a650b7b758fec6b0f117bb0b97d518892d428727d0f90d7b8cc8e8c0dd833"
+
+[[files]]
+file = "configureddefaults/config/ftbbackups3-server.snbt"
+hash = "76875f0c9d1522f559440f0e2877f1168dfb39bc14d04792199f39f6943d360a"
+
+[[files]]
+file = "configureddefaults/config/ftbchunks-client.snbt"
+hash = "bd08cb14d917f66bd68db4a7f04a7299f149847745073e638a0f7f01a479e77c"
+
+[[files]]
+file = "configureddefaults/config/ftbchunks-world.snbt"
+hash = "fe5119d3a0bfb456f8dc841cb09a1843d7e194535a1d838d31790c44365cf8ea"
+
+[[files]]
+file = "configureddefaults/config/ftblibrary-client.snbt"
+hash = "20d0a665ad412d049a8a3ffd7147dcd9913793cacb0796dcd8019cbf9c55cd1c"
+
+[[files]]
 file = "configureddefaults/config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
@@ -250,7 +270,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "f76877bff44b9b81fe24f71577e04fc21a9e10beb0c7913db2c3502fd5d62a49"
+hash = "46a8f86ef339e3b5772d2262339dabd7ff931de57db6dba23bb6f3aca3bf010a"
 
 [[files]]
 file = "configureddefaults/config/irisflw-client.toml"
@@ -334,7 +354,7 @@ hash = "6611dae920f7e2972e24e386e906a63ce8334abea5f4cdb32847bdeee938d66f"
 
 [[files]]
 file = "configureddefaults/config/packetfixer.properties"
-hash = "4fd599dce2151defb7596c5fee5bdfe6b421f0bb3fa46f6fe831ad7af63f1653"
+hash = "4d4e6c286c91d49ecc45488e968577979b8ecd8b6f4a95f18ac0325a90964e28"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
@@ -609,6 +629,31 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-3.pw.toml"
+hash = "063326ed3a4ae2bc704b811b1b63e8003bb335c18951f656c5ad98ac15c8e09a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "100d56915243e9a577ec572cc118628e3bef2f1e7be015585335d307dbb5dc19"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-recoloured.pw.toml"
+hash = "725c81482cfc676ab01731958fedb032f7c12ccf4f012e49f08b94735d4a84ac"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "3da1b263129f79811a2e675861cf3d13573e4d6bd4fe7f114b1db27bc499503e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "2d28e2c565143c8c0067e52abe1f5ab581fb7ddd42e765daa64bddcb3e661bff"
 metafile = true
 
 [[files]]
