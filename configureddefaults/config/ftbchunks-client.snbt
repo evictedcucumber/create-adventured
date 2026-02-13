@@ -128,7 +128,7 @@
 		
 		# Enable minimap
 		# Default: true
-		enabled: true
+		enabled: false
 		
 		# Show entities on minimap
 		# Default: true
@@ -138,20 +138,25 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:spider": true
-			"minecraft:sheep": true
+			"minecraft:armadillo": true
 			"minecraft:wolf": true
-			"minecraft:glow_squid": true
-			"minecraft:bat": true
-			"minecraft:creeper": true
-			"minecraft:enderman": true
-			"minecraft:skeleton": true
-			"minecraft:chicken": true
-			"minecraft:pig": true
-			"supplementaries:plunderer": true
-			"minecraft:cow": true
-			"minecraft:squid": true
 			"minecraft:zombie": true
+			"minecraft:cow": true
+			"minecraft:chicken": true
+			"minecraft:skeleton": true
+			"minecraft:glow_squid": true
+			"minecraft:rabbit": true
+			"minecraft:pig": true
+			"minecraft:enderman": true
+			"minecraft:squid": true
+			"minecraft:sheep": true
+			"minecraft:bat": true
+			"minecraft:tropical_fish": false
+			"minecraft:pufferfish": false
+			"supplementaries:plunderer": true
+			"minecraft:creeper": true
+			"minecraft:spider": true
+			"artifacts:mimic": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
