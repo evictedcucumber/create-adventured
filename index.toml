@@ -9,6 +9,10 @@ file = "configureddefaults/config/DistantHorizons.toml"
 hash = "892169d951bb8ac83e104dfc84be58548f011cafac0ba5e9b4735db81c12dbe3"
 
 [[files]]
+file = "configureddefaults/config/addonslib-common.toml"
+hash = "d041026e6112bde28569652e819b0a945503a1b07c7e547e516a20917bae1118"
+
+[[files]]
 file = "configureddefaults/config/advancementplaques.toml"
 hash = "5566426084811c13d5fd9aa799a0012dd4cb8eacb466344bc402011daa455ed1"
 
@@ -33,8 +37,104 @@ file = "configureddefaults/config/amendments-common.toml"
 hash = "b9a881e305d5abc7ea4b6a40570eb5c2ed8ca202769a6557a138ae3d44c4d4d5"
 
 [[files]]
+file = "configureddefaults/config/bettercaves/README.txt"
+hash = "e6f25132180339d5b7f53c1f5473f28cdf743f76292bc8f87142e4b0300e0f2c"
+
+[[files]]
+file = "configureddefaults/config/bettercaves/neoforge-1_21_1/README.txt"
+hash = "1dc29f3ad9f62887f2667aeaed28c3fd3a2520055382ecb3636e3cb9ea563baa"
+
+[[files]]
+file = "configureddefaults/config/bettercaves/neoforge-1_21_1/liquidregions.json"
+hash = "ad0e43cd1d8fff16d76ff6036699bd67598ff8bc18220b7e8e951245c92cf139"
+
+[[files]]
+file = "configureddefaults/config/betterdeserttemples-neoforge-1_21.toml"
+hash = "c7355a13f2f7c4eeb3332ab67a2315e0662c7e5b434dc33d4624fccb9e815240"
+
+[[files]]
+file = "configureddefaults/config/betterdeserttemples/README.txt"
+hash = "a8248503b691a780ba45cf033a8d74f1f878d27f119f1d8b4b80b2b8745f62db"
+
+[[files]]
+file = "configureddefaults/config/betterdeserttemples/neoforge-1_21/README.txt"
+hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "configureddefaults/config/betterdeserttemples/neoforge-1_21/armorstands.json"
+hash = "15edff0b9cd80d6c4b25458f670d2600e595884e881f0656e3a59376235f42a4"
+
+[[files]]
+file = "configureddefaults/config/betterdeserttemples/neoforge-1_21/itemframes.json"
+hash = "01274c6510b60884247cb65df23232aae1b16aa42895c0db3a4d83a2e1d4de98"
+
+[[files]]
+file = "configureddefaults/config/betterdungeons-neoforge-1_21.toml"
+hash = "b03069c030f940550b4436d2f7c3dab582efa2fcc32b221ac30dbcb0617eab7f"
+
+[[files]]
+file = "configureddefaults/config/betterfortresses-neoforge-1_21.toml"
+hash = "0bef433c8253f63704694528c33dc854f2b28da084d420a61c43fd62d6e5301b"
+
+[[files]]
+file = "configureddefaults/config/betterfortresses/README.txt"
+hash = "5643f5af88b445a96f2c6ea167b97cc640059eda5c849ed3c7b8d5023ab51a86"
+
+[[files]]
+file = "configureddefaults/config/betterfortresses/neoforge-1_21/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = "configureddefaults/config/betterfortresses/neoforge-1_21/itemframes.json"
+hash = "1a7b30976a51f08eca1f5632fa18dbc62c9e935fe9829d880b349ac785a50ae6"
+
+[[files]]
+file = "configureddefaults/config/betterjungletemples-neoforge-1_21.toml"
+hash = "77ef014bd34c9f66bf40b3e6ae7a67bf7ec2a618b76eafff9f0921577d3ab1b9"
+
+[[files]]
+file = "configureddefaults/config/bettermineshafts-neoforge-1_21.toml"
+hash = "37ee9275b9680c2d07d395cf41769c456c9b93adbf85ddf6514ee601977fa099"
+
+[[files]]
+file = "configureddefaults/config/betteroceanmonuments-neoforge-1_21.toml"
+hash = "6c09d2a75810e76c719b355c3480d1dc14b135f944f4a85d2118a395efc916c5"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds-neoforge-1_21.toml"
+hash = "3f2ae4edfb2c45137f14dc6a1a4f02958735b9831c0762d19d9e57fe4ff72346"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/README.txt"
+hash = "cd97289ac49b09b032d9c69a2f893b8fa9f73849b4adb9f63f8486a83bf2fd5a"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/armorstands.json"
+hash = "dd3c73a354e3305543256e662398209ab1717e0c0af45f01abceeb397b9e699f"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/itemframes.json"
+hash = "0b4b7377c08a34385030620feabfbba5b391a584678b7b749eddde6e18e54eab"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/ores.json"
+hash = "f6888a9a337a86d61a26c65a7e1d77f318f573a6937e63f54b5c95a5ac9dd7db"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/rareblocks.json"
+hash = "d6a7ad89b872184a4f72d1dd58557f4855758f9f08be4f257960c80ab8dae376"
+
+[[files]]
+file = "configureddefaults/config/betterwitchhuts-neoforge-1_21.toml"
+hash = "0fa4f192f54dc1fc4f7ac7ab8be7cba88e324fe21571777cb8a6d404f6ce49a9"
+
+[[files]]
 file = "configureddefaults/config/c2me.toml"
-hash = "1365185c82c4bbd981635858394b506e1547850ce1ae5aa0d7202d2d46d10a78"
+hash = "7e3bbf49612603ab5110b02e45b8a34fde1db31210aef8ab264764bbadc25436"
 
 [[files]]
 file = "configureddefaults/config/cerulean-client.toml"
@@ -101,6 +201,90 @@ file = "configureddefaults/config/creativecore.json"
 hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
+file = "configureddefaults/config/cristellib/auto_config_settings.json5"
+hash = "799173b66094a241753f41af672ddf22921ca206cb88f1966d31960c89c3f99a"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterdeserttemples/structure_toggle_config.json5"
+hash = "2015676b60427ff402b3af72186acb044c6df75006168182c927e1b32e3a53b3"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterdungeons/structure_placement_config.json5"
+hash = "4717b7c90d57966c9c15a1ce3365d7ff51c16852ea424135b27dadd753f638da"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterdungeons/structure_toggle_config.json5"
+hash = "cfbbfdc4e8298b509b638cc1dcf19db0ddad2998f2e51d608012a092db182019"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterfortresses/structure_toggle_config.json5"
+hash = "476e7c1f8d373b4ade74bbe411df17e65cd23371df0331195d3343d2a1add770"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterjungletemples/structure_toggle_config.json5"
+hash = "0d5244a29df08a5d636d4aed87531a32216c6461381a2373acfb6d52274d98e2"
+
+[[files]]
+file = "configureddefaults/config/cristellib/bettermineshafts/structure_placement_config.json5"
+hash = "457f04949d15e9159468953610a61e54a79d43c9f4e506939a41cf6eba1389bb"
+
+[[files]]
+file = "configureddefaults/config/cristellib/bettermineshafts/structure_toggle_config.json5"
+hash = "b1f120b276340d388ee444d9c1ab1974d2e1f30c6bbfe9dda6d81a280d3460cf"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betteroceanmonuments/structure_placement_config.json5"
+hash = "6fd24ee068912d64b8f358b86ccba1f508877609b13c9e9f10c06517d8a3c1dc"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betteroceanmonuments/structure_toggle_config.json5"
+hash = "bebe3f4afdeed46372fa150cda8409c270c7444d5f7fa44448ef11ca86901aa2"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterstrongholds/structure_toggle_config.json5"
+hash = "c5ed4f2692d0f263cd2c77efe4ee5b419ffac9d4ba4d8973dd53a5b7df3ebd45"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterwitchhuts/structure_placement_config.json5"
+hash = "1699f8928403aa00319164ffa3ffda5bac0e94c55823180acaafc2761b47c82e"
+
+[[files]]
+file = "configureddefaults/config/cristellib/betterwitchhuts/structure_toggle_config.json5"
+hash = "fc70281d363679d4e401468518de6f815a6d48301cbdb39d5d744bc6b7a63b46"
+
+[[files]]
+file = "configureddefaults/config/cristellib/built_in_packs.json5"
+hash = "f1be3df3751749fc4f475c886553f4b6b998c1a9f68f7ec33ddebe6909bffb14"
+
+[[files]]
+file = "configureddefaults/config/cristellib/farmers_structures/structure_placement_config.json5"
+hash = "e85ca8a89ed9a096b731101c44f8a000ca008ecbd292d08c2d1583bd852e42af"
+
+[[files]]
+file = "configureddefaults/config/cristellib/farmers_structures/structure_toggle_config.json5"
+hash = "675211ef327b8599cda6ceb55ea29926f89c59043c2807730bc530cc475786e2"
+
+[[files]]
+file = "configureddefaults/config/cristellib/repurposed_structures/structure_placement_config.json5"
+hash = "97d2e6e5a0c469cfa39633fb3c342a1fdcc0d10215acadbbc1cdf1e23917e33a"
+
+[[files]]
+file = "configureddefaults/config/cristellib/repurposed_structures/structure_toggle_config.json5"
+hash = "f3588cdfe77994e838692839567968f569312d77488d8e239ae2ab91c456a913"
+
+[[files]]
+file = "configureddefaults/config/cristellib/supplementaries/structure_placement_config.json5"
+hash = "1175d80fb7e6cd18430c09e50b32c2a888202f2d51368741441dd8e0e1ea05b4"
+
+[[files]]
+file = "configureddefaults/config/cristellib/supplementaries/structure_toggle_config.json5"
+hash = "1715fab1db080ca0bd264dce0cb2f8de8218d6e2989d085b0a3cb72b0f8c6225"
+
+[[files]]
+file = "configureddefaults/config/cupboard.json"
+hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+
+[[files]]
 file = "configureddefaults/config/curios-client.toml"
 hash = "32906853e83ac958bcd8fb59fbe64b8c9306f1c425bc0accc6bb9285a1bba328"
 
@@ -154,7 +338,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "870e799886d9414fbc14a9a9aeea08ea21f1ee0459c3aa4bbbce8fa47672f941"
+hash = "046dc917bfcd38774001ee7e01518d71552a13fb92ebf8e66593e45978e999d7"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/custom_icon-16x16.png"
@@ -246,7 +430,7 @@ hash = "76875f0c9d1522f559440f0e2877f1168dfb39bc14d04792199f39f6943d360a"
 
 [[files]]
 file = "configureddefaults/config/ftbchunks-client.snbt"
-hash = "bd08cb14d917f66bd68db4a7f04a7299f149847745073e638a0f7f01a479e77c"
+hash = "7f5473701fda32c1b0d670e8c49e00dc1e3ec976708d8119d8686bd699a25220"
 
 [[files]]
 file = "configureddefaults/config/ftbchunks-world.snbt"
@@ -270,7 +454,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "46a8f86ef339e3b5772d2262339dabd7ff931de57db6dba23bb6f3aca3bf010a"
+hash = "bbbd346ef47e8bbc641b83cc67c8843651cec116337eee2ebaa7a28744a7ed44"
 
 [[files]]
 file = "configureddefaults/config/irisflw-client.toml"
@@ -325,6 +509,14 @@ file = "configureddefaults/config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
+file = "configureddefaults/config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "configureddefaults/config/lootintegrations.json"
+hash = "898873bac11398a75f7faddeb31410246d43be578868ba58d390b58667b44d31"
+
+[[files]]
 file = "configureddefaults/config/lootr-client.toml"
 hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
 
@@ -354,7 +546,7 @@ hash = "6611dae920f7e2972e24e386e906a63ce8334abea5f4cdb32847bdeee938d66f"
 
 [[files]]
 file = "configureddefaults/config/packetfixer.properties"
-hash = "4d4e6c286c91d49ecc45488e968577979b8ecd8b6f4a95f18ac0325a90964e28"
+hash = "e643624546d78dd6ba028d8105985fea54b64c4cd318bd2ca37e19277013f96b"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
@@ -373,8 +565,24 @@ file = "configureddefaults/config/randomenchantfix-common.toml"
 hash = "d296a8d0d25bc555744ae1c47efb76dbbfadde0a35d39a3251f880f759839362"
 
 [[files]]
+file = "configureddefaults/config/regions_unexplored/regions_unexplored-common.toml"
+hash = "35dc48b385eb18bace546837f435e273b2ee7508a701e50fae1b3b84a535c017"
+
+[[files]]
+file = "configureddefaults/config/regions_unexplored/regions_unexplored-primary-region.toml"
+hash = "156909a6e149213839228b19c7aa4b5f56311b289de9d786abb1f97e1df99da9"
+
+[[files]]
+file = "configureddefaults/config/regions_unexplored/regions_unexplored-secondary-region.toml"
+hash = "ead9e0dccb420e65a6a641b4a57292db7968c9cce31a46f234510c26344d6246"
+
+[[files]]
 file = "configureddefaults/config/relics.yaml"
 hash = "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278"
+
+[[files]]
+file = "configureddefaults/config/repurposed_structures-neoforge/modded_loot.toml"
+hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 
 [[files]]
 file = "configureddefaults/config/sodium-fingerprint.json"
@@ -409,12 +617,36 @@ file = "configureddefaults/config/suppsquared-common.toml"
 hash = "a3440b61fdcd1dabfd525863005b3da7b281aab793a9a15ffa94d69b34f46449"
 
 [[files]]
+file = "configureddefaults/config/tectonic.json"
+hash = "4e51c4762ed0843d5999f8597653dece1f0943d68f927cd5ad8fb04b2195a093"
+
+[[files]]
+file = "configureddefaults/config/terrablender.toml"
+hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+
+[[files]]
+file = "configureddefaults/config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "7c70e7df82d014a87dcb2defcf45d9654a22362283c7efe1f81f3b3c04290709"
+
+[[files]]
+file = "configureddefaults/config/towns_and_towers/structure_rarity_new.json5"
+hash = "fe4ca0974aca38b27c94e3f1dc092f1688b54f27d9eaa728d61c6ccae4ca1313"
+
+[[files]]
 file = "configureddefaults/config/treechop-client.toml"
 hash = "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
 
 [[files]]
 file = "configureddefaults/config/treechop-common.toml"
 hash = "8eff30ac3654e54d35a2ae7d7d711eea910d1b538b88776c2e4c724565de4e23"
+
+[[files]]
+file = "configureddefaults/config/vanilla_structures/placement_structure_config.json5"
+hash = "1f069468e438ae66f65ee41732603c895741b063add626a9e56ef7d0040ac4e6"
+
+[[files]]
+file = "configureddefaults/config/vanilla_structures/toggle_structure_config.json5"
+hash = "c4fb220488de3c1afc569f4b8a89d8e97f8b5504eeb59d9700b491f29718d2f9"
 
 [[files]]
 file = "configureddefaults/config/watut-client.toml"
@@ -435,6 +667,11 @@ hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "84fe90bb516b4fe9dbfcc80b75a79ea41e0d29b359fb7641e0fcb93a00f9b246"
+
+[[files]]
+file = "mods/addonslib.pw.toml"
+hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
+metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -467,6 +704,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "935a80e462527880c90ab4abba671f1add411c441096d1aaab5855ae98484f1f"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "12f240d6dde74a5daf9b970eaf3df32c7e76731fd3eb43622effc43df9a7cf18"
 metafile = true
@@ -489,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/clavis.pw.toml"
 hash = "bfc7980e0de1f527148e8f894404ae55d559f9a52263db40807edfd45b9527ef"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -539,6 +786,16 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ca5c304fab787d8e58dd024b9e279ff59ec490ceb0a5a717281bfe44447fc6eb"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "7e266aeb4533b67f4fbdd30a6654cfa6439843b9a973d70bdc0443c219c0b54e"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
@@ -622,8 +879,18 @@ hash = "8e9f44992c6edb947b094f304d573bef5edd3bdc0e4e5f572d0c34b92ab028d9"
 metafile = true
 
 [[files]]
+file = "mods/farmers-cutting-regions-unexplored.pw.toml"
+hash = "f6b60c49323ac6530c6570ce16f8f423ac1e61760e13580d2e9f711c047ae5df"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-structures.pw.toml"
+hash = "0858ad32988a26d755ae88ad4670471e4e51ebbbd88584adfa60b3c02bc76f61"
 metafile = true
 
 [[files]]
@@ -712,8 +979,83 @@ hash = "7e594ed71fde064ffc4c6f404cc526c7fc232d9933571499a4f259f8b7cd78b3"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "92f8cdfdc3e3f14a3cb6b35b639c955c87bed7d3089485e4e2a40fb50f70c94b"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-towns-and-towers.pw.toml"
+hash = "4c07e892ff2fa254acab3a5a125322eb9b9a48aec76905a9335621255444eebf"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "6c8c188ec9cd847b4ce13aa6cde0b38bbf29476d9eaaf4b6bbebc1f22416ddce"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "964a932d5ea6c63b79b89693438a37d729e205e015500289e272f4d5aba38bde"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "d1917dab5c28f8792bfab752788d612ea21fa407f091a2e30ca0c4594fc902ec"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "da326d59e505ce18857f1b72be406a03c7b7f96e09c0953cf1fff194c7ff58cd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "e31aebea2649cad495197a6736570f59b286d75c7a08c06a8a33fd84abd94817"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "33ff6177b5e19c7ef130b6076ff6166a3994b511df06f3afcbc02af9212f29c8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "17ae8b18d6797c9112cf587f15694a22169765814563911f2cf4ec2d78646cd0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "37e96fec653b3a8463d08eec8264fb8f97a9497b8a50723dd659c193a70f021f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-regions-unexplored.pw.toml"
+hash = "edd05c6d26c3aefd2c5ca2c96f25ae7a0b0b6a0238eaa2453db497c455e1f879"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "749bf8f43a3b49b103685b1d1c8c39a2ca7bcd796818dc7aad226711760f0857"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "ed2fb750e3b70e31756408d1d6b6007c6fb39e80091cbaa0e60117a434821473"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
@@ -729,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace-resmithed.pw.toml"
 hash = "124d719007315e021a882f2d48c6709eb7db326b3f62ab472d3e1e9ea8e1c6ab"
+metafile = true
+
+[[files]]
+file = "mods/more-relics.pw.toml"
+hash = "4e16ca1d760b0b911a129f2968d212fb17c0ff9672345435ef153a80138acca3"
 metafile = true
 
 [[files]]
@@ -757,6 +1104,11 @@ hash = "dfac940f9db70f9c46179b66c03683d37203aacaf11a35d605218cf87a8e8281"
 metafile = true
 
 [[files]]
+file = "mods/rar-compat.pw.toml"
+hash = "68d7d2cbeb93c10f99b3985c96b098aed7dc64f5d08e4855fdd9f37a759f7072"
+metafile = true
+
+[[files]]
 file = "mods/redirected.pw.toml"
 hash = "043ea2e08d1e6b270e2e6ef01cf78ec5356c2193701924785b6002c6a18c7568"
 metafile = true
@@ -767,8 +1119,28 @@ hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored-expansion.pw.toml"
+hash = "4acd42706d7da19e320e7d93cbb79abd8d72a6fe4e93b822b6dc1d479e495367"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "64f330dede31ba7aa965a10207f4d0033c049fe4d200a4cef5393112cf522d16"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "18afbb4fd160f3835d3730a1f3d9e3f299902fbc6da223e0970bc5a77bcc9349"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-farmers-delight-compat-mod.pw.toml"
+hash = "491004187034b4fda65b99d19f19efab14100760ae4ce080f5e454277c3e3351"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "c361a2f6b24af6723242af19024fef2afe18616de2192e757bd2b8b41f75a806"
 metafile = true
 
 [[files]]
@@ -807,6 +1179,21 @@ hash = "8be310770ba85af8263754e23f39ff71e374c6bc74ea119634ad74961493498b"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f1b4f0080de1ab714d033e2f9c492073cc1f41de3c44337a1407dbb81b0e5054"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "cab2f1d2bf3b9e4435f02cde12c270f3234599d63fc5c7383eaa9da3e4e9d5bb"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "f0770e8df6212a00fcea3dcd72bdcaa344fa745593abc867b7e499fb493556b6"
 metafile = true
@@ -817,8 +1204,83 @@ hash = "1394df1d39e588ffa86fce081fdb97f5ef9d4539cec2ef7ca1f1c75d30796aa0"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "76b07f47147fb18bb31d8719f9c7beb6622b55f59ae14411c7cf022b4d99d910"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "64d3781b6b402f394c54592cda703fc1e551530ad0131b8b6e480cb91434bd6d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "10815a3aa6dc436f8aa9b86dbb68368fbbcaff26f15fb06113b519b678e1a480"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
+hash = "9d850f339f573961ceffa688f221accedb8c0c36746a5377df872a110f39e3e5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-neoforge.pw.toml"
+hash = "b6527599723cd47781e0e2eb029ba1858ecd000e5d6a972c5497838b6fb967bb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-neoforge.pw.toml"
+hash = "6dc8b6b822d296d026dc2685f57da95746e57f30f501640801546ba7a259b520"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
+hash = "c2053af07ae41f932040eaa078a7d22438cbb0bf16ebcf0926740dd8777f9498"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "66100a73e80ebb36aa78789dbcd49b2485459e834b75f7b2e893cc11c06f9a3f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-neoforge.pw.toml"
+hash = "aa8b30f1fedc700205ffb96c2a92e0deedbbe42f3d95d64c2fcc1228fdd049aa"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-neoforge.pw.toml"
+hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-neoforge.pw.toml"
+hash = "537a140266ce5c290490e4712935590ff40deeaa0af68f54fcf56157a82eb953"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-neoforge.pw.toml"
+hash = "400918237e259461717e6d85ad9e648054e901b372e1cfc180622e276f3df8c7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-neoforge.pw.toml"
+hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
 metafile = true
 
 [[files]]
