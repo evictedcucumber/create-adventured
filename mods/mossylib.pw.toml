@@ -1,0 +1,13 @@
+name = "MossyLib"
+filename = "MossyLib-1.1.0+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ce2e56fbb98f7bc9c937a95ab3789d5b2c07c948"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7438859
+project-id = 1399257
