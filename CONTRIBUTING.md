@@ -17,3 +17,11 @@ config(mod/resourcepack/shaderpack): MOD_NAME/RESOURCE_PACK_NAME/SHADER_PACK_NAM
 
 CHANGES
 ```
+
+### Updating (Non-version Update)
+
+```txt
+change(mod/resourcepack/shaderpack): MOD_NAME/RESOURCE_PACK_NAME/SHADER_PACK_NAME
+
+CHANGES
+```
