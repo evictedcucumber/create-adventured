@@ -1,0 +1,46 @@
+[changelog]
+body = """
+# Create Adventured
+
+{% if version %}\
+    ## [{{ version | trim_start_matches(pat="v") }}] - {{ timestamp | date(format="%Y-%m-%d") }}
+{% else %}\
+    ## [unreleased]
+{% endif %}\
+
+{% for commit in commits %}\
+    {% if commit.scope == "mod" %}\
+        {% if commit.group == "add" %}\
+            added mod {{ commit.message }} {% if commit.body %}version {{ commit.body }}{% endif %}
+        {% endif %}\
+    {% elif commit.scope == "resourcepack" %}\
+        {% if commit.group == "add" %}\
+            added resource pack {{ commit.message }} {% if commit.body %}version {{ commit.body }}{% endif %}
+        {% endif %}\
+    {% elif commit.scope == "shaderpack" %}\
+        {% if commit.group == "add" %}\
+            added shader pack {{ commit.message }} {% if commit.body %}version {{ commit.body }}{% endif %}
+        {% endif %}\
+    {% endif %}\
+{% endfor %}\
+"""
+trim = true
+render_always = true
+postprocessors = [ ]
+
+[git]
+conventional_commits = true
+filter_unconventional = true
+require_conventional = false
+split_commits = false
+commit_preprocessors = [ ]
+protect_breaking_commits = false
+commit_parsers = [ ]
+filter_commits = false
+fail_on_unmatched_commit = false
+link_parsers = []
+use_branch_tags = false
+topo_order = false
+topo_order_commits = true
+sort_commits = "oldest"
+recurse_submodules = false
