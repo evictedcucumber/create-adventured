@@ -1,3 +1,5 @@
 .vscode/
 LICENSE
 README.md
+cliff.toml
+CONTRIBUTING.md
