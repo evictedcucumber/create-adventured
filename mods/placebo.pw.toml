@@ -1,6 +1,6 @@
 name = "Placebo"
 filename = "Placebo-1.21.1-9.9.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
