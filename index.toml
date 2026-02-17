@@ -6,7 +6,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "892169d951bb8ac83e104dfc84be58548f011cafac0ba5e9b4735db81c12dbe3"
+hash = "2fa3f32e215138a4d15a35aadf61e746aa2ab3622ad79c8cc2d4552c4047381f"
 
 [[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
@@ -39,6 +39,14 @@ hash = "11d25d3a0fc3cbb9c36b8e00e4390a531fe3d1ba166c695eb63a434c9bf31eba"
 [[files]]
 file = "configureddefaults/config/amendments-common.toml"
 hash = "b9a881e305d5abc7ea4b6a40570eb5c2ed8ca202769a6557a138ae3d44c4d4d5"
+
+[[files]]
+file = "configureddefaults/config/appleskin-client.toml"
+hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+
+[[files]]
+file = "configureddefaults/config/bcc-common.toml"
+hash = "132bd5f430d6e5877f6f8e4d2d7fc79388e386b4a61f4738ad2d810c146ec88c"
 
 [[files]]
 file = "configureddefaults/config/bettercaves/README.txt"
@@ -142,7 +150,15 @@ hash = "0fa4f192f54dc1fc4f7ac7ab8be7cba88e324fe21571777cb8a6d404f6ce49a9"
 
 [[files]]
 file = "configureddefaults/config/c2me.toml"
-hash = "a6ea8a790a5658912800a35213329ebc20d5de2ec08677daae70cb2f002eb8db"
+hash = "9f24ab10a4a7afe3db0472a0778585b06a5b7449f842796035120f70f59e46e4"
+
+[[files]]
+file = "configureddefaults/config/carryon-client.toml"
+hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
+
+[[files]]
+file = "configureddefaults/config/carryon-common.toml"
+hash = "80f73b76cea4c7947c0a750b9567b0af2f905bc32d310beaae4cdc63efcc473b"
 
 [[files]]
 file = "configureddefaults/config/cerulean-client.toml"
@@ -161,12 +177,52 @@ file = "configureddefaults/config/cerulean.yml"
 hash = "d9b33f8022bfa4b9818b3abcc197414c1e88272d21b0df4a01db016c7887d5d2"
 
 [[files]]
+file = "configureddefaults/config/champions-client.toml"
+hash = "8cef746b29c50f879bb6721771b60bc2f4bb7d9a52fe72386a6d820904cb1ede"
+
+[[files]]
+file = "configureddefaults/config/champions-common.toml"
+hash = "46c1c36e85c832f4445aff77843312598dec77fcda08728726a15200345dcd5f"
+
+[[files]]
+file = "configureddefaults/config/champions-entities.toml"
+hash = "273f1623c2cd9c3bebba4782bef4a1572fc4d677a80ffcf12545666ab503f625"
+
+[[files]]
+file = "configureddefaults/config/champions-ranks.toml"
+hash = "8f52e7e2eb486e994c99268b25e3eb178f077eb39fe1ec029d972cda65379c5e"
+
+[[files]]
+file = "configureddefaults/config/champions-server.toml"
+hash = "55e32c92ffcbd508bfeeba9e5ab32f909c4fb57c98942603817c59da434a37f2"
+
+[[files]]
 file = "configureddefaults/config/chunkactivitytracker-server.toml"
 hash = "0a15b3e3c85bee2a73cb82e9d34e01f4259f396a0837c6134971c1a404a22911"
 
 [[files]]
 file = "configureddefaults/config/clavis.yaml"
 hash = "f30c2f65294e2c51281ebab0d2c9578c7a89f430cf8852061785d2e6247fed21"
+
+[[files]]
+file = "configureddefaults/config/combat_roll/client.json5"
+hash = "e9714f119c3862a898e53eab1a4ba6220a2194a5bdf0aea86623042d6cbf57e3"
+
+[[files]]
+file = "configureddefaults/config/combat_roll/hud_config.json"
+hash = "cc0fd7f0a6ba482ad46a0078ce3f01984d9e187ca78499e4381112d31bea5271"
+
+[[files]]
+file = "configureddefaults/config/combat_roll/server.json5"
+hash = "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4"
+
+[[files]]
+file = "configureddefaults/config/comforts-common.toml"
+hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
+
+[[files]]
+file = "configureddefaults/config/comforts-server.toml"
+hash = "f6df47d3f1002fde8d9e59c8068acbc39e976b3392e8fd528dc9b38b2856c5a0"
 
 [[files]]
 file = "configureddefaults/config/configured-client.properties"
@@ -349,6 +405,14 @@ file = "configureddefaults/config/cristellib/create_rustic_structures/structure_
 hash = "6dc5f97ba898d585a2e1d8a6437041aaaaa30d9c8a44aed7eedc562e61ff41bb"
 
 [[files]]
+file = "configureddefaults/config/cristellib/create_structures_arise/structure_placement_config.json5"
+hash = "ac5ddf9f4544bea11026609312d25f564d69c0ff6588e141a7fd88369787cf99"
+
+[[files]]
+file = "configureddefaults/config/cristellib/create_structures_arise/structure_toggle_config.json5"
+hash = "109e0e438ee432215490e153147869360fb1cce7b69ed1a740bade444f3052f6"
+
+[[files]]
 file = "configureddefaults/config/cristellib/farmers_structures/structure_placement_config.json5"
 hash = "e85ca8a89ed9a096b731101c44f8a000ca008ecbd292d08c2d1583bd852e42af"
 
@@ -413,6 +477,34 @@ file = "configureddefaults/config/does_it_tick-common.toml"
 hash = "4fd438bdf291a6b8b9067c3a17f6c0e580ddc99feb8b9eec5f532fed3ece6d71"
 
 [[files]]
+file = "configureddefaults/config/easier_sleeping-server.toml"
+hash = "f2a0ffe4eeb282aca34a56181601137c79f2a66392504f297fc3cf73c494f3cb"
+
+[[files]]
+file = "configureddefaults/config/easyanvils-client.toml"
+hash = "e7f75aee2a53eee492917c12e6ee3f7f69808877e59e6b2e8024408e961d8754"
+
+[[files]]
+file = "configureddefaults/config/easyanvils-common.toml"
+hash = "f447750708cb0c1773477734490a287ec21161610edac38cf7551ce486702b83"
+
+[[files]]
+file = "configureddefaults/config/easyanvils-server.toml"
+hash = "a5ccc7c1080a0f8a33d45ebb941b38dc607597ade1d128cba504a9cc1a873766"
+
+[[files]]
+file = "configureddefaults/config/easymagic-client.toml"
+hash = "2ad457c78882a34057f2fb5748398e9614a7fb5e491e8a868534de40cd2c1c6d"
+
+[[files]]
+file = "configureddefaults/config/easymagic-common.toml"
+hash = "7a98b95d82e470d071fd0f51d97f4fceb59f7de4af3129e9447f7241f8cac700"
+
+[[files]]
+file = "configureddefaults/config/easymagic-server.toml"
+hash = "b2860a71cdc35a6f3cee847622a7085c35d3691f26ca7b4c84098e14bc4369dc"
+
+[[files]]
 file = "configureddefaults/config/emi.css"
 hash = "ef18522eb13ad52f3866c4d61cd33d86566fea3e5efd34e381b34b7fd579ed04"
 
@@ -450,7 +542,7 @@ hash = "ddd6e6bd4b9c65cbd64ef4403d827b84bd9073ce1c7fc01129c1947d0d6fc3e0"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "3ca064d5411459f139b6cce8b9d54466cd0a589f60c8dcf948abba659a549039"
+hash = "8c77fd5a248e6e8b5762b5c0b0c6f29277621818f5890bc555bb987dbd876684"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/custom_icon-16x16.png"
@@ -542,7 +634,7 @@ hash = "76875f0c9d1522f559440f0e2877f1168dfb39bc14d04792199f39f6943d360a"
 
 [[files]]
 file = "configureddefaults/config/ftbchunks-client.snbt"
-hash = "7f5473701fda32c1b0d670e8c49e00dc1e3ec976708d8119d8686bd699a25220"
+hash = "73f6f1f8470ea6b1f00766337b3f57f72845b8d1b2602e6e8467fc0f32cbc89c"
 
 [[files]]
 file = "configureddefaults/config/ftbchunks-world.snbt"
@@ -570,7 +662,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "7f230cc42b2cd64b79f2e2b9b5c627e66c07bfed6a5f65e2c53f28f54ef9fc40"
+hash = "02fd5e5d574743dba6059ee72d7eb96055f3e22116c44227131c0372c7fa790f"
 
 [[files]]
 file = "configureddefaults/config/irisflw-client.toml"
@@ -602,7 +694,7 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "configureddefaults/config/jei/recipe-category-sort-order.ini"
-hash = "b8c4b7a6e98ffc1f56dac6a5c21c609d65c588a161e83c9fe9432bb20999a0d9"
+hash = "78fcec3f8eee7ac1c7332ab5b599ea99138bbc6c3e95532bd6112e0025f56170"
 
 [[files]]
 file = "configureddefaults/config/konkrete/locals/de_de.local"
@@ -666,7 +758,7 @@ hash = "6611dae920f7e2972e24e386e906a63ce8334abea5f4cdb32847bdeee938d66f"
 
 [[files]]
 file = "configureddefaults/config/packetfixer.properties"
-hash = "db38677d5d633f3b0d1bf46865650fda0b80f183ee87ad978fa8989947b640d4"
+hash = "564596e833e66d9d3effdc506ecc0574c6c45abb04a5cd64f1fe60834ac36922"
 
 [[files]]
 file = "configureddefaults/config/perception.yaml"
@@ -845,6 +937,14 @@ file = "configureddefaults/config/watut-server.toml"
 hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
 
 [[files]]
+file = "configureddefaults/config/waves-common.toml"
+hash = "b1e41926eeadb1b00a7225f1ff8a382d1e4b4e0d67eaf7194554af3f23db11d1"
+
+[[files]]
+file = "configureddefaults/config/waves/waves.json"
+hash = "b313ed99c44ebb415d36ebb994cea5a6a1d8f741ece1067b60eaec722faab42c"
+
+[[files]]
 file = "configureddefaults/config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
@@ -888,6 +988,16 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
+file = "mods/animal-feeding-trough.pw.toml"
+hash = "0fb40dd1f87cbafd29e4554bbe4e6fa5c22786a725ae93d8e146816de1a1bbfc"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "9cba3cb68a8d5b671364681dc6f66551fe5f1cb7daa16e74201557d7604b19ee"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -895,6 +1005,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "935a80e462527880c90ab4abba671f1add411c441096d1aaab5855ae98484f1f"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
 
 [[files]]
@@ -913,13 +1028,33 @@ hash = "f82f44779c68aefbfad51f7c14781a913012f08ba528c2bf837a988aab92a943"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "55fe1f1a0b72abf4b697b3e0d8f5449e590bb519d26a29e6eeac049161003a34"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "a5dfa298717e29ce78aa9d9672071dcf83ac16995bbaef6546f57f06104be444"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
+metafile = true
+
+[[files]]
 file = "mods/cerulean.pw.toml"
 hash = "72ccca4a5e061ce94c3e32e8ba5b3c50df5427cb27d4e54a76a6194810b206fd"
+metafile = true
+
+[[files]]
+file = "mods/champions-unofficial.pw.toml"
+hash = "6e761054d9e400e13c4ab5e412446b607fd6b5126c2792301a6c172867d60091"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
@@ -935,6 +1070,26 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
+file = "mods/coastal-waves.pw.toml"
+hash = "63b5fa8e96db156a0bd2b582fff3172fe5818832edee4cefb358f00a7635c206"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "e52e14c05ec085330effde5efdcb0de43afa65cca73e045f5a13516fdfea54eb"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
@@ -1078,6 +1233,11 @@ hash = "17e20682a1ca21de7c0893eba426fcc698b23c8670bc91506e45ef0f51125b87"
 metafile = true
 
 [[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "f49ad4bc481a6191c90f4ec0d9b2249dc52c349aa450e27b4379554f01efe5cb"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission.pw.toml"
 hash = "5e322c49ae80154f0e24b5cc91dab5bec86cf6964798a0439200957e6d6deca9"
 metafile = true
@@ -1118,6 +1278,21 @@ hash = "29c7be5f009e8963a8f4db046e10e056f4cc1aabdc20d59a43f7fef3f9b3b6bb"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "db153992e71c2c1ca7643ad93d11f1276cada2843879cd01909abef2f2ed9df9"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "36899ae409d7c9bf4a5b322328f3eba6c8de4812a4f8594140a4953b05d62f88"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "5280e0bcfa648658c572b9ffa12ff5e39374923b30c732d3ceff4ae7ed9228ff"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "faf7e90356578aa58d0025e56cc38b9e62a44071b821ca5335cbe12251aa5e34"
 metafile = true
@@ -1140,6 +1315,21 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "03c4f9a926fc9bd90fc98c6dac2a39e70b28303e4f3519756a7b246444548654"
+metafile = true
+
+[[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "fced0182c037d3bb553651c2ab0b5fdbc301c20430366388f36f6a61121bb6e7"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "541520814421d829976fbb2162e7a195b18e9d82ed3b3c8dc9c7fbc50b2cb491"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "efce6a511bf4a60c64fe082fd183c9cd693861fb79413ba540cb1053ff562191"
 metafile = true
 
 [[files]]
@@ -1433,6 +1623,11 @@ hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
@@ -1480,6 +1675,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "c361a2f6b24af6723242af19024fef2afe18616de2192e757bd2b8b41f75a806"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
