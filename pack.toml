@@ -1,6 +1,7 @@
 name = "Create Adventured"
 author = "evictedcucumber"
 version = "1.0.0"
+recommended-ram = "6144"
 pack-format = "packwiz:1.1.0"
 
 [index]
