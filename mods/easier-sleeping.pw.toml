@@ -1,0 +1,13 @@
+name = "Easier Sleeping"
+filename = "EasierSleeping-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81c8182a2ef26ec3cb42c8e4187748a739f14b43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7322535
+project-id = 388364
