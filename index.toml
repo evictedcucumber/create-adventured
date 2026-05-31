@@ -1,0 +1,47 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "53ba2caa7c1cbf067d95fae4a3c73a0d7ec4758ad9851d6fc530e88dc526c6f2"
+
+[[files]]
+file = "Makefile"
+hash = "cca39d78923b1d570009caee29e1266ced163659c2f82486e76b436e4618e3b6"
+
+[[files]]
+file = "README.md"
+hash = "95e96f7b91fce9af46988e7e260ee0aa29e468d2ecd06114c388bd926cf5ad26"
+
+[[files]]
+file = "modlist.md"
+hash = "81a2996a6bac96e58f4334005e92afa9f7c60c4ebd918f9221494daf387d271b"
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a4f73b116e2132d0f5b9255b67ce0d1f7678abd82a721af45d9419b31da4a0ba"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "65ea7285fc7db21c528aa55f8221723742fbe5b549cf049febcfff83f758d4de"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
+hash = "88a5a0e41b90e6cf3beee59881d78ff52ce1e665540d5d6cb91aacb2a43f8263"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "58a8029897a5fdb55206f1801e764a2fd883b546fc3f82b9f611c5a447044f94"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "51b8c56b7109a13dfa148ac3094b13ab5630af9b1d3baa88f19ef9fbe6d08f69"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "e86da54f0321efa45b8f64aa16a1b9f6a65119f7711bd54203d030dc4a167d67"
+metafile = true
