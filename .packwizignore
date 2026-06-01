@@ -1,0 +1,8 @@
+*.mrpack
+.git
+.gitignore
+LICENSE
+Makefile
+README.md
+add.sh
+modlist.toml
