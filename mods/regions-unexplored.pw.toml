@@ -1,0 +1,19 @@
+name = "Regions Unexplored"
+filename = "regions-unexplored-0.6-neoforge-21.1.jar"
+version = "0.6-neoforge-21.1"
+page-url = "https://modrinth.com/mod/regions-unexplored"
+category = "mods"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/hfTCN9un/regions-unexplored-0.6-neoforge-21.1.jar"
+hash-format = "sha512"
+hash = "c63d2a8cffc162b9220f29053d3beaf176cfa8836ca201b35eb16fe3f26f8ba4112d04a247bc8816fcd4f9c95c213524b05ed588e6511373703e774246fbfe8c"
+
+[update]
+[update.modrinth]
+mod-id = "Tkikq67H"
+version = "hfTCN9un"
+
+[option]
+optional = false
