@@ -1,8 +1,12 @@
 *.mrpack
+.direnv
+.envrc
 .git
 .gitignore
 LICENSE
 Makefile
 README.md
 add.sh
+flake.lock
+flake.nix
 modlist.toml
