@@ -24,11 +24,7 @@
     in {
       devShells.default = pkgs.mkShell {
         name = "create-adventured";
-        packages = [packwiz.packages.${system}.default];
-
-        shellHook = ''
-          echo $SHELL
-        '';
+        packages = [packwiz.packages.${system}.default pkgs.lefthook];
       };
     });
 }

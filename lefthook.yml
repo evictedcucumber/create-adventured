@@ -1,0 +1,10 @@
+pre-commit:
+  commands:
+    check-modlist:
+      glob: "modlist.md"
+      run: packwiz modlist generate
+      stage_fixed: true
+    refresh-hashes:
+      glob: "{pack.toml,index.toml}"
+      run: packwiz refresh
+      stage_fixed: true

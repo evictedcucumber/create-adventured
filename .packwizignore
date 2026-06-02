@@ -9,4 +9,6 @@ README.md
 add.sh
 flake.lock
 flake.nix
+lefthook.yml
+modlist.md
 modlist.toml
