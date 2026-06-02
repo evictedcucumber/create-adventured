@@ -2,9 +2,15 @@ pre-commit:
   commands:
     check-modlist:
       glob: "modlist.md"
-      run: packwiz modlist generate
+      run: packwiz modlist generate && packwiz modlist validate
       stage_fixed: true
     refresh-hashes:
       glob: "{pack.toml,index.toml}"
       run: packwiz refresh
       stage_fixed: true
+    validate:
+      glob: "{mods,resourcepacks,shaderpacks}/*.pw.toml"
+      run: packwiz validate
+    lefthook-validate:
+      glob: "lefthook.yml"
+      run: lefthook validate
