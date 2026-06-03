@@ -1,19 +1,19 @@
 name = "Create:Relics integration"
-filename = "createrelics-1.2.0.jar"
+filename = "createrelics-1.3.0.jar"
 version = "1.2.0"
 page-url = "https://modrinth.com/mod/createrelics-integration"
 category = "mods"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mqwrfCmS/versions/rOPmrZBM/createrelics-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/mqwrfCmS/versions/N60v7dIM/createrelics-1.3.0.jar"
 hash-format = "sha512"
-hash = "9b54e6607d4e95d70757aba63e141a4598b08e0ad1a6b1f86ca6b5d44476c6b5e3dd34da67b8ad3883bd55892774e6f1e229a977331599f1d6078ba56678c52b"
+hash = "49a0ff01459ccfbbf71956e44a4f02fdf5c0d1f12324af779f878940ca2621cc9a263d238efc56c65d2c56aa1fdfc83c3d67af45d2ce0dc76c925148ea22ecd7"
 
 [update]
 [update.modrinth]
 mod-id = "mqwrfCmS"
-version = "rOPmrZBM"
+version = "N60v7dIM"
 
 [option]
 optional = false

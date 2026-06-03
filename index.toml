@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-relics-plus.pw.toml"
-hash = "8dce8fc388a052814bdc8823fa5e3d14e662c295cb71e8bbca758dce7a540aa0"
+hash = "31d638170308c4970ab486f828bd6cf41b9539938605e9079747812a0d57c614"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-transmission!.pw.toml"
-hash = "c7e7278e6408cbe0c4661ecf777807fb0b7a1189c12af4d0b39f61a24b98905d"
+hash = "51562adfad1c688aa3eff633225e52b95ccb56c1b2ba28985de574d0586e1bc1"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/createrelics-integration.pw.toml"
-hash = "f6e1e68f6cc60eccd43bfab5d65957e9763900574fef94d78fb5a378787ed6d7"
+hash = "068477ce9d29d068052762d635382b1321dbf7322e454926f4b6cd4bbb1c2b04"
 metafile = true
 
 [[files]]
@@ -562,12 +562,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "73cf53faca6e8ce705a4b1bb2c6e2da4fe930dacaa89780ba1bab760d7541893"
+hash = "160377fb17a980aaa0cdd4f8ce337d3315d45ec17fe741319103e153fc5ca0e8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "743b047d4cf720a7767573c300ca2841327140e12a558f71dba0be293728e4f1"
+hash = "16eb9ab297e48abb1a24ab01524ba28ee0b47c73602d2f2017c88ae259e32db4"
 metafile = true
 
 [[files]]
