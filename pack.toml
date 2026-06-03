@@ -8,7 +8,7 @@ modlist = true
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dd1b8f60476917573a72d6888470f342ea14d154fa4aa4ee8023c97c4f24e10e"
+hash = "3c3941b84567d571a96cc5e31fcf9ae69d4423bda7d248d80e1a57676c0889dc"
 
 [versions]
 minecraft = "1.21.1"

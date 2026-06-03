@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "2c851730acde5b32eecf7b5b058978c562a8c018352902542211235bd5f45ad5"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "5fd3c84d013f8fdedb650586bc9c0b4f155baa77a89925795c165504332a35cb"
 metafile = true
@@ -8,6 +13,11 @@ metafile = true
 [[files]]
 file = "mods/almanac.pw.toml"
 hash = "5a5b4f1b8937439ef3ecd7a8660f561cc5b97f5a218e984fc0d0526765761f39"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "932dc34f7730010b05547ff3d409c28e25812b2827377674d41fa43d40e323d3"
 metafile = true
 
 [[files]]
@@ -76,6 +86,11 @@ hash = "d1070c417c24d7f7aa27cd5f78f41b9ce3f0cbe1747d98f3c083e9a03da38f56"
 metafile = true
 
 [[files]]
+file = "mods/camerapture.pw.toml"
+hash = "8327c6313fb5ab4372fb9125efc39615cc38ab2ff6ec342118d43aca39008b38"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "96c23c82b7438c47c24973c4414238f1241e9c32ab544efe9c90809019368bcb"
 metafile = true
@@ -83,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "6904a5183d5288968ac2cde37f1153c8059f21adfdf506aee6703797e7565002"
+metafile = true
+
+[[files]]
+file = "mods/clavis.pw.toml"
+hash = "8b191d3d590fb4231378725e0d6cd05cc31b096c3bc8e85592fa5e9e0dab6106"
 metafile = true
 
 [[files]]
@@ -206,6 +226,11 @@ hash = "068477ce9d29d068052762d635382b1321dbf7322e454926f4b6cd4bbb1c2b04"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "faece7bc31ee533215f72d45efeeddc700800a8a8bbf7d6a252f69922c046c04"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "0ea39669c225878d41f02907871456edadeaca91453a105be81b1bff8a74b757"
 metafile = true
@@ -238,6 +263,16 @@ metafile = true
 [[files]]
 file = "mods/distinct-potions.pw.toml"
 hash = "19981efe40333799864e2195fe9e43cdf230f0450726f6e444b02f544b06cad8"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "e6981bf5deef1b9a3e80f3c4bb9bc392b22d55950e6ca92db6afa1d18947a58e"
+metafile = true
+
+[[files]]
+file = "mods/dusty-decorations.pw.toml"
+hash = "698f64faed6c41708e4ac1a8584893b4ef87005afabce3c5b02f321c850f4fcc"
 metafile = true
 
 [[files]]
@@ -286,13 +321,23 @@ hash = "0ae0afbcda5a43f9181130199f68424cecf54bce0f5cc6ea2930bac8970ae71e"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "7a181f241f73e45dd36c5a76ad265fc9fa36512054c4712b604e1c6cae497f72"
+file = "mods/every-compat.pw.toml"
+hash = "032efce3debe243a19a4b6f3dbab6e9f49c6985b84a53a3a44b73087d1dede0a"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "7fdfb61dfe467df9c053a9477183571df49399fda529f01da004e84eef3feddd"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "796ea5e06f6ec92885e00e717fb20a8b4f9830a2b13d37708873bb114cf216d0"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c5e4055ec1b1409931f247546313e3d0ded85f03081c48d3ca19261d097592ed"
 metafile = true
 
 [[files]]
@@ -303,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "90003703298cb02968abcb3714736896fe119648a145ab20f48b0896de509c3b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c729235d0742f7d57d7f25a07231cd4e53b698a8243c88d06877a9d073b13a3c"
 metafile = true
 
 [[files]]
@@ -371,11 +421,6 @@ hash = "f62dfe9cbe4ecea80351d27b598d7846b169d9d897ae8025b2f5450e5ea17c0a"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "8eb6b1ca444bad66c7b2dff149bbb86b70c6ad170ca65b7df102d538c10c4a86"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "c21971ce877a76a3f6e6b227f8f103173ec751085e7900102a9a74237032f737"
 metafile = true
@@ -406,8 +451,68 @@ hash = "525ce6b3a0190348b1a74597a1779d0d0e2b1b9909416333ff79c350f7bcb266"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
-hash = "ecacca3f3654095d63c2669d47901701bb824b4ad4d1e637d661a78c8d27f766"
+file = "mods/macaws-bridges.pw.toml"
+hash = "2fb5d0b46d38bb7bb5f195b54daa0151796c898b2585d41383e7ec26c9f0fca9"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "8e0116af631630f9f7d722a163da5ca410ff79857ebdf56f9ac193e4690a3d38"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "f3d6095072f9ccef6e3d31d725933e4a7b8d609ebec4179e9aa952745b1cf2f3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "5766b9485a04d741d0337dd4e7e3aee669365e63ee925cec50c02e3ef4a25f84"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "553a5bb91d99da79f1fa5a7c3aee9759a7ec67cfde8596432bb1be0232051689"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "b41652d7642921fd1f910b471f7d0960af0407a738aade9dbf77c950208dec59"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "61010615d347b9cb6c4715c588f22ace3d10df1062d935661c8c783586761be7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-quark.pw.toml"
+hash = "2635cdfa9b57c51fe5c149c39f99ca7ca4c517314553de73d7902d4ce99f13b3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-regions-unexplored.pw.toml"
+hash = "079ad3cce0ef39756d7efe2494136aaa1e3c4b497d67e7bd0dcf6a15929a4e23"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "2f0233347dfba845ba3f7118935930a755d1e9ef6302022bedaa9b868688cce0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "c95d6861c48674d7e7c86b0604f844d24a12335bec3d82f188fd531b2ea962c7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "d8189b3922bade0692a921ddcf4aacae90aa7274925e36e7243145ca3881f605"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "dfe1a3ba6f88f9d9b3a077fdf65cf3152fea58ffb62869d919420b9ba8f3d127"
 metafile = true
 
 [[files]]
@@ -423,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b0e1ba18e198c80f55c107a4b63c783bdaf5e739ff17044016a2b35fccdd3fd3"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "368ae67298d27c0cde03f8aee503b50b785b6d3af845cd0abe59e63210210366"
 metafile = true
 
 [[files]]
@@ -478,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "075ddaf2d3b41d9de3a8951238bfa8a1715e2bae8e93963eb5e025681153367f"
+metafile = true
+
+[[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "5d6247df938c3cafc587f5668881e26c45feebb6d82660637e782cc05af257e9"
 metafile = true
 
 [[files]]
@@ -576,6 +691,11 @@ hash = "03ce52baab00ec22f575d14453ca5fbe731c003ece0fb07f706fc4fd3b41d6e4"
 metafile = true
 
 [[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "7126d3ca9fc374c93dc3ee88bcc13d378fa699fb47e8cd971fc23fb5110671ed"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "a5063819c3b1493219c2b5a9e3b009e8e0a731d86709c40ea236ba177be229de"
 metafile = true
@@ -596,8 +716,23 @@ hash = "022aa4ff813df9a526332084034e8aa59ad121e2c9c632f47f79d73d9f78111b"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "7759a114641090413abc4819fdd509dc4a72847046c6ad2bc00381891eb2d5a4"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "763f1f79575e5e45c61fd006f6ded4627b9ef4831ec6616318fe0bb7e4ef7fdb"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "5b190379c7141b05966c088b15d4fe6aae45a9e178a0034f5bfdd88506980717"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "3e0fb025d87702f7d6309c5a00f5b939440bbffbd3c381573d5aadd98b277f1e"
 metafile = true
 
 [[files]]

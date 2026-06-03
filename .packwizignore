@@ -11,4 +11,3 @@ flake.lock
 flake.nix
 lefthook.yml
 modlist.md
-modlist.toml
