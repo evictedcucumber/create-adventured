@@ -2,6 +2,28 @@
 
 Create inspired modpack with elements of adventuring.
 
+## Setup
+
+### Client
+
+Recommended to use 12GB of RAM (12288MB).
+
+Please use the extra java arguments below.
+
+```bash
+-XX:+UseZGC
+```
+
+### Server
+
+Recommended to use 16GB of RAM (16384MB).
+
+Please use the extra java arguments below.
+
+```bash
+-XX:+UseZGC
+```
+
 ## Dev
 
 Run the command below to enable direnv so the flake dev environment gets activated automatically.
