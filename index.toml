@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "32d2b5ad7ac73537a4c4f58cc483b58271011b53f93650dec971c460e910b65e"
+hash = "26e41a8596b23ebe1a8529428f26aac799ba2f8a785b0ad8cb5cb7f6c7e3429a"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "9dfec9ded96b185c3dc6bb5262759c5d6980c2a59f1a5c729fa3bde4a84b2da0"
+hash = "3d0c3cc5a43cab458f0f7609d7f682b9769b93d5dcfd5876481e893cad6b5115"
 metafile = true
 
 [[files]]
@@ -677,12 +677,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "160377fb17a980aaa0cdd4f8ce337d3315d45ec17fe741319103e153fc5ca0e8"
+hash = "a9a30295917a5e4d4ac18cb3a30d78463aa90d12ad69604ea81489ee98b455b9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "16eb9ab297e48abb1a24ab01524ba28ee0b47c73602d2f2017c88ae259e32db4"
+hash = "3cfa0a62d2e752063d5dd707d09114a5598cfb92eb85ab03c4341d35ca1ec741"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "015f0644ea99944ce8b38ecc888ebe028eaea1ab9756d9fc5f959914b4961f80"
+hash = "1cf10fd8c25ec722ca42826dedf918d47d2fd77aa029434f38795aad83127ed6"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "4198a8c51585d44dfbf675ff1214db55304be21c3e9d2e0f102951e655e46f06"
+hash = "2f2b8917cd784e2af6949fa30a3bed09a6602bc60309bd10c8f3f63c7eb726bd"
 metafile = true
 
 [[files]]
