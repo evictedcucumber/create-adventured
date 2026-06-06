@@ -1,19 +1,19 @@
 name = "Create: Relics plus"
-filename = "createrelicsplus-1.1.1.jar"
+filename = "createrelicsplus-1.2.0.jar"
 version = "1.0.0"
 page-url = "https://modrinth.com/mod/create-relics-plus"
 category = "mods"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fBKiTiw3/versions/o6PjSURk/createrelicsplus-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/fBKiTiw3/versions/2X8OPDwj/createrelicsplus-1.2.0.jar"
 hash-format = "sha512"
-hash = "4668dc236563141e014e2d63a919216c0bf77a4fedef6698df0aba0bb559871d0a4d6bfce9c695ce66db5b8035219821b9ac7dc166408c5990be6b7af51aec2a"
+hash = "2a9ab0d04bc4f35e3d604117d4e09d8e23a6b79621268b7b96ed470facb1333bf27c8b3d1e37cd79db0a8ba447ad91b7f2fa9c6d732c0d95b9bb8dbf0a730331"
 
 [update]
 [update.modrinth]
 mod-id = "fBKiTiw3"
-version = "o6PjSURk"
+version = "2X8OPDwj"
 
 [option]
 optional = false

@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-relics-plus.pw.toml"
-hash = "31d638170308c4970ab486f828bd6cf41b9539938605e9079747812a0d57c614"
+hash = "b0b6c05d526c96f9af0f469ebdd85c20abb0bf288606aa795388eb87d334a987"
 metafile = true
 
 [[files]]
@@ -677,12 +677,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a9a30295917a5e4d4ac18cb3a30d78463aa90d12ad69604ea81489ee98b455b9"
+hash = "54f700113bae1f2a5484c1439ecd4be8b6e321bbbe8bab96204d29927c4da072"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3cfa0a62d2e752063d5dd707d09114a5598cfb92eb85ab03c4341d35ca1ec741"
+hash = "a19c2d9c92987fee5ed1ce5f74e8219587186fbaf6724529461616fb8fd6d655"
 metafile = true
 
 [[files]]
