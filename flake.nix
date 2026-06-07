@@ -1,4 +1,5 @@
 {
+  description = "DevShell for Create Adventured Modpack";
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/master";
     flake-utils.url = "github:numtide/flake-utils";
@@ -8,7 +9,6 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
-
   outputs = {
     nixpkgs,
     flake-utils,
