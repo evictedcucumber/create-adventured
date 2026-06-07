@@ -3,9 +3,7 @@
 .envrc
 .git
 .gitignore
-LICENSE
 Makefile
-README.md
 flake.lock
 flake.nix
 lefthook.yml
