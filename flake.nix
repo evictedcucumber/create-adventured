@@ -24,7 +24,13 @@
     in {
       devShells.default = pkgs.mkShell {
         name = "create-adventured";
-        packages = [packwiz.packages.${system}.default pkgs.lefthook];
+        packages = [
+          packwiz.packages.${system}.default
+          pkgs.lefthook
+          (pkgs.writeShellScriptBin "packwiz-add" ''
+            exec ${./scripts/add.sh} "$@"
+          '')
+        ];
       };
     });
 }
