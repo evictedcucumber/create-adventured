@@ -27,8 +27,14 @@
         packages = [
           packwiz.packages.${system}.default
           pkgs.lefthook
-          (pkgs.writeShellScriptBin "packwiz-add" ''
-            exec ${./scripts/add.sh} "$@"
+          (pkgs.writeShellScriptBin "ca-add" ''
+            packwiz mr add "$@"
+          '')
+          (pkgs.writeShellScriptBin "ca-refresh" ''
+            packwiz refresh
+          '')
+          (pkgs.writeShellScriptBin "ca-export" ''
+            packwiz mr export
           '')
         ];
       };
