@@ -16,5 +16,4 @@ mod-id = "cl5ec0Qm"
 version = "rRKPlFV5"
 
 [option]
-optional = false
 dependency = true

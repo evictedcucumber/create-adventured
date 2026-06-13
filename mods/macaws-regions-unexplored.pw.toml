@@ -4,6 +4,7 @@ version = "1.21.1-1.5"
 page-url = "https://modrinth.com/mod/macaws-regions-unexplored"
 category = "mods"
 side = "both"
+dependencies = ["mods/addonslib.pw.toml", "mods/regions-unexplored.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/4d7eGKIA/versions/sfGvTKk0/mcwregionsunexplored-neoforge-1.21.1-1.5.jar"
@@ -16,4 +17,4 @@ mod-id = "4d7eGKIA"
 version = "sfGvTKk0"
 
 [option]
-optional = false
+dependency = false

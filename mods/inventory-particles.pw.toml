@@ -4,6 +4,7 @@ version = "2.2.0+1.21.1+neoforge"
 page-url = "https://modrinth.com/mod/inventory-particles"
 category = "mods"
 side = "client"
+dependencies = ["mods/mossylib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/oS6hyiwc/InventoryParticles-2.4.0%2B1.21.1%2Bneoforge.jar"
@@ -16,4 +17,4 @@ mod-id = "XYnKrsxH"
 version = "oS6hyiwc"
 
 [option]
-optional = false
+dependency = false

@@ -16,4 +16,4 @@ mod-id = "YsFycamt"
 version = "xf3H2eJV"
 
 [option]
-optional = false
+dependency = false

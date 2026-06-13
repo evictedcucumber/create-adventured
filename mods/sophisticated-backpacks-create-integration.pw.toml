@@ -1,19 +1,20 @@
 name = "Sophisticated Backpacks Create Integration"
-filename = "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+filename = "sophisticatedbackpackscreateintegration-1.21.1-0.1.6.99.jar"
 version = "1.21.1-0.1.5.29"
 page-url = "https://modrinth.com/mod/sophisticated-backpacks-create-integration"
 category = "mods"
 side = "both"
+dependencies = ["mods/create.pw.toml", "mods/sophisticated-backpacks.pw.toml", "mods/sophisticated-core.pw.toml"]
 
 [download]
-url = "https://cdn.modrinth.com/data/s85zLEDe/versions/bWd7B59k/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+url = "https://cdn.modrinth.com/data/s85zLEDe/versions/hri26zSa/sophisticatedbackpackscreateintegration-1.21.1-0.1.6.99.jar"
 hash-format = "sha512"
-hash = "130d9a77f2b43926c9398983740813d268ce58e022a3c8e0eab98ba2439b9d3b2b819b0a845a8eb06bc336bdeb16e86cd4cbe8f7af834c11aaf1ae678977fcac"
+hash = "bf6d49951ca431bc80a8968ce9449005d37bcd86f4e8f118c1d529de5dbef9e9ea63f9a8bb4a8c9c4c31ae0eee5d2ca0fe3982665ccfe552c782ba1ed3997270"
 
 [update]
 [update.modrinth]
 mod-id = "s85zLEDe"
-version = "bWd7B59k"
+version = "hri26zSa"
 
 [option]
-optional = false
+dependency = false

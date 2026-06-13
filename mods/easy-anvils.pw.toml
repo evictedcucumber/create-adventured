@@ -4,6 +4,7 @@ version = "v21.1.0-1.21.1-NeoForge"
 page-url = "https://modrinth.com/mod/easy-anvils"
 category = "mods"
 side = "both"
+dependencies = ["mods/puzzles-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/fSQSKhdF/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
@@ -16,4 +17,4 @@ mod-id = "OZBR5JT5"
 version = "fSQSKhdF"
 
 [option]
-optional = false
+dependency = false

@@ -4,6 +4,7 @@ version = "1.21.1-1.0+mod"
 page-url = "https://modrinth.com/mod/farmers-cutting-quark"
 category = "mods"
 side = "both"
+dependencies = ["mods/farmers-delight.pw.toml", "mods/quark.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/rH2QzhPh/versions/I8fsttD3/farmers-cutting-quark-1.21.1-1.0.jar"
@@ -16,4 +17,4 @@ mod-id = "rH2QzhPh"
 version = "I8fsttD3"
 
 [option]
-optional = false
+dependency = false

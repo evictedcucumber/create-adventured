@@ -4,6 +4,7 @@ version = "1.21.0-1.2.7"
 page-url = "https://modrinth.com/mod/what-are-they-up-to"
 category = "mods"
 side = "both"
+dependencies = ["mods/coroutil.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar"
@@ -16,4 +17,4 @@ mod-id = "AtB5mHky"
 version = "uWr2aTW9"
 
 [option]
-optional = false
+dependency = false

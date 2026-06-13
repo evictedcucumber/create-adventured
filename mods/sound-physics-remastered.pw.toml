@@ -16,4 +16,4 @@ mod-id = "qyVF9oeo"
 version = "Dd2tmpsk"
 
 [option]
-optional = false
+dependency = false

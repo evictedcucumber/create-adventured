@@ -16,4 +16,4 @@ mod-id = "4H6sumDB"
 version = "9Q9EA4jQ"
 
 [option]
-optional = false
+dependency = false

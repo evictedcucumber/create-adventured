@@ -4,6 +4,7 @@ version = "7"
 page-url = "https://modrinth.com/mod/repurposed-structures-farmers-delight-compat"
 category = "mods"
 side = "both"
+dependencies = ["mods/farmers-delight.pw.toml", "mods/repurposed-structures-forge.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/P5wB88AS/versions/PKPVpBYy/repurposed_structures_farmers_delight_compat_v7.jar"
@@ -16,4 +17,4 @@ mod-id = "P5wB88AS"
 version = "PKPVpBYy"
 
 [option]
-optional = false
+dependency = false

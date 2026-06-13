@@ -4,6 +4,7 @@ version = "21.1.0-neoforge"
 page-url = "https://modrinth.com/mod/shuffle"
 category = "mods"
 side = "client"
+dependencies = ["mods/ash-api.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/WUvGZLgB/versions/c2CBLjgR/shuffle-neoforge-21.1.0.jar"
@@ -16,4 +17,4 @@ mod-id = "WUvGZLgB"
 version = "c2CBLjgR"
 
 [option]
-optional = false
+dependency = false

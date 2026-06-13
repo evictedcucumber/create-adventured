@@ -16,5 +16,4 @@ mod-id = "M1953qlQ"
 version = "lSbyRD6v"
 
 [option]
-optional = false
 dependency = true

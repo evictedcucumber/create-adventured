@@ -4,6 +4,7 @@ version = "v21.1.2-1.21.1-NeoForge"
 page-url = "https://modrinth.com/mod/diagonal-walls"
 category = "mods"
 side = "both"
+dependencies = ["mods/puzzles-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/FQgc8dib/versions/2k3GCxEt/DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar"
@@ -16,4 +17,4 @@ mod-id = "FQgc8dib"
 version = "2k3GCxEt"
 
 [option]
-optional = false
+dependency = false

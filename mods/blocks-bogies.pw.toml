@@ -4,6 +4,7 @@ version = "1.0.7-1.21.1"
 page-url = "https://modrinth.com/mod/blocks-bogies"
 category = "mods"
 side = "both"
+dependencies = ["mods/create.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/j4ARnQwY/versions/rUu97B0K/create_bb-1.0.7-1.21.1-Neoforge.jar"
@@ -16,4 +17,4 @@ mod-id = "j4ARnQwY"
 version = "rUu97B0K"
 
 [option]
-optional = false
+dependency = false

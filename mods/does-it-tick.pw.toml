@@ -4,6 +4,7 @@ version = "neoforge-1.21.1-1.1.4"
 page-url = "https://modrinth.com/mod/does-it-tick"
 category = "mods"
 side = "server"
+dependencies = ["mods/chunk-activity-tracker.pw.toml", "mods/txnilib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/vmg6jaPW/versions/LxZKFbNR/does_it_tick-neoforge-1.1.4-1.21.1.jar"
@@ -16,4 +17,4 @@ mod-id = "vmg6jaPW"
 version = "LxZKFbNR"
 
 [option]
-optional = false
+dependency = false

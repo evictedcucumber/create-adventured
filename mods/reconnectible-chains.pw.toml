@@ -1,19 +1,20 @@
 name = "Reconnectible Chains"
-filename = "connectiblechains-neoforge-1.21.1-1.2.5.jar"
+filename = "connectiblechains-neoforge-1.21.1-2.0.0.jar"
 version = "1.2.5-1.21.1-neoforge"
 page-url = "https://modrinth.com/mod/reconnectible-chains"
 category = "mods"
 side = "both"
+dependencies = ["mods/cloth-config.pw.toml"]
 
 [download]
-url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/haHsKT7H/connectiblechains-neoforge-1.21.1-1.2.5.jar"
+url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/WkQLlltF/connectiblechains-neoforge-1.21.1-2.0.0.jar"
 hash-format = "sha512"
-hash = "acf743ba736ac6ae996a2a026966fa276b235f6b416f0d400c7db3da39d9bb740fcf89c9624efb596b9a5cc83408940e29f24283106741ddea071eb30feabd13"
+hash = "78e8bafd3ecc9a7644bcb57c0a1f487e75fbd20d4ac667143c7517501f890d2dd6bc8d1cc7e825086ea4275ede87e47e6b82d1ff78daf4a090f5395135df1606"
 
 [update]
 [update.modrinth]
 mod-id = "5pzBXDS3"
-version = "haHsKT7H"
+version = "WkQLlltF"
 
 [option]
-optional = false
+dependency = false

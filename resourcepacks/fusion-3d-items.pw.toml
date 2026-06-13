@@ -4,6 +4,7 @@ version = "1.0.1-mc1.20-1.21.11"
 page-url = "https://modrinth.com/resourcepack/fusion-3d-items"
 category = "resourcepacks"
 side = "client"
+dependencies = ["mods/fusion-connected-textures.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/YCXs6v9u/versions/KcH0PFLb/Fusion%203D%20Items%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
@@ -16,4 +17,4 @@ mod-id = "YCXs6v9u"
 version = "KcH0PFLb"
 
 [option]
-optional = false
+dependency = false

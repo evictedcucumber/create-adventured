@@ -1,20 +1,19 @@
 name = "Sophisticated Core"
-filename = "sophisticatedcore-1.21.1-1.4.47.1956.jar"
+filename = "sophisticatedcore-1.21.1-1.4.54.2004.jar"
 version = "1.21.1-1.4.42.1892"
 page-url = "https://modrinth.com/mod/sophisticated-core"
 category = "mods"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmoqTijg/versions/OQHNNOIq/sophisticatedcore-1.21.1-1.4.47.1956.jar"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/B3nB7doK/sophisticatedcore-1.21.1-1.4.54.2004.jar"
 hash-format = "sha512"
-hash = "f061a05fe91bb866856a44cc2f43f02111e17c27e68ff8070f077d7def2529b5213f36e769606357c45a3790467bf1d2d71a1bb2fa09f5f30bede124bdd0b589"
+hash = "c5ce0f7d01cdb81e983b2a974dfc8e028c54bd221fe462ea675af1092694f3ce1636c0b021ec78cdee7652d5a33a7cd22f2bfa41e73198d7554f9e43d18216ff"
 
 [update]
 [update.modrinth]
 mod-id = "nmoqTijg"
-version = "OQHNNOIq"
+version = "B3nB7doK"
 
 [option]
-optional = false
 dependency = true

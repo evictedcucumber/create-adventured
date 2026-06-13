@@ -16,5 +16,4 @@ mod-id = "MBAkmtvl"
 version = "3XiinKbh"
 
 [option]
-optional = false
 dependency = true

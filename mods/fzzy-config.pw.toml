@@ -4,6 +4,7 @@ version = "0.7.6+1.21+neoforge"
 page-url = "https://modrinth.com/mod/fzzy-config"
 category = "mods"
 side = "both"
+dependencies = ["mods/kotlin-for-forge.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar"
@@ -16,5 +17,4 @@ mod-id = "hYykXjDp"
 version = "MAPG6cXE"
 
 [option]
-optional = false
 dependency = true

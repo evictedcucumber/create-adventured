@@ -4,6 +4,7 @@ version = "1.0.2-mc1.20-1.21.11"
 page-url = "https://modrinth.com/resourcepack/fusion-emissive-ores"
 category = "resourcepacks"
 side = "client"
+dependencies = ["mods/fusion-connected-textures.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/anEmXbCW/versions/X88tJXyK/Fusion%20Emissive%20Ores%20v1.0.2%20for%20Minecraft%201.20-1.21.8.zip"
@@ -16,4 +17,4 @@ mod-id = "anEmXbCW"
 version = "X88tJXyK"
 
 [option]
-optional = false
+dependency = false

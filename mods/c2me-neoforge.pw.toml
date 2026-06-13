@@ -16,4 +16,4 @@ mod-id = "COlSi5iR"
 version = "KmfiVd28"
 
 [option]
-optional = false
+dependency = false

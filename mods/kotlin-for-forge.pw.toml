@@ -16,5 +16,4 @@ mod-id = "ordsPcFz"
 version = "NrSebcsG"
 
 [option]
-optional = false
 dependency = true

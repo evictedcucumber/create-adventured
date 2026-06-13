@@ -13,3 +13,6 @@ hash = "340097547dd798e74ad3234a73109a5e251f65a81bff85643ba9f01f300392010887391f
 [update.modrinth]
 mod-id = "9pOcPPyd"
 version = "JDVEpE0I"
+
+[option]
+dependency = false

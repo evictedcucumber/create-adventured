@@ -1,19 +1,19 @@
 name = "Repurposed Structures - Neoforge/Forge"
-filename = "repurposed_structures-7.5.20+1.21.1-neoforge.jar"
+filename = "repurposed_structures-7.5.21+1.21.1-neoforge.jar"
 version = "7.5.20+1.21.1-neoforge"
 page-url = "https://modrinth.com/mod/repurposed-structures-forge"
 category = "mods"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/3S7dWUFu/repurposed_structures-7.5.20%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/EkimBMsM/repurposed_structures-7.5.21%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "38118b69f091b230af0c6ce6566a5cbeca8af01ce29e99cdea82ecac7bc24aabfea76adc5febf9a6babe9580cd190e28bd34d570dc11d96a972903343d334090"
+hash = "db8475055b308fda2141e48b0245b47b303207ae683fec200b56412f5ba49eae66a52a62dddc614ae72217fff3f1fb2db2c5bd894234e468600a14a9477898e3"
 
 [update]
 [update.modrinth]
 mod-id = "QDNS5oAT"
-version = "3S7dWUFu"
+version = "EkimBMsM"
 
 [option]
-optional = false
+dependency = false

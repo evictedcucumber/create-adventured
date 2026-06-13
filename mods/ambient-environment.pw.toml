@@ -16,4 +16,4 @@ mod-id = "DyTvM1dv"
 version = "N7jam3SN"
 
 [option]
-optional = false
+dependency = false

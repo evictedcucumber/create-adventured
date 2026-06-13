@@ -4,6 +4,7 @@ version = "0.3.2"
 page-url = "https://modrinth.com/mod/create-vibrant-vaults"
 category = "mods"
 side = "both"
+dependencies = ["mods/create.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar"
@@ -16,4 +17,4 @@ mod-id = "hddN8ksR"
 version = "t17qYXjn"
 
 [option]
-optional = false
+dependency = false

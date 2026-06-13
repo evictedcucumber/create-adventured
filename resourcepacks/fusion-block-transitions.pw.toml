@@ -4,6 +4,7 @@ version = "1.0.3-mc1.20-1.21.11"
 page-url = "https://modrinth.com/resourcepack/fusion-block-transitions"
 category = "resourcepacks"
 side = "client"
+dependencies = ["mods/fusion-connected-textures.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/ajcwQmG4/versions/Mtnn67U3/Fusion%20Block%20Transitions%20v1.0.3%20for%20Minecraft%201.20-1.21.8.zip"
@@ -16,4 +17,4 @@ mod-id = "ajcwQmG4"
 version = "Mtnn67U3"
 
 [option]
-optional = false
+dependency = false

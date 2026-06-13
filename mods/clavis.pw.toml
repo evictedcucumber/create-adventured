@@ -4,6 +4,7 @@ version = "0.2.13"
 page-url = "https://modrinth.com/mod/clavis"
 category = "mods"
 side = "both"
+dependencies = ["mods/octo-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/y9Xnig6p/versions/pncc8FpD/Clavis-NEOFORGE-0.2.13%2B1.21.1.jar"
@@ -16,4 +17,4 @@ mod-id = "y9Xnig6p"
 version = "pncc8FpD"
 
 [option]
-optional = false
+dependency = false

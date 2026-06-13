@@ -4,6 +4,7 @@ version = "10.1.0.3"
 page-url = "https://modrinth.com/mod/serene-seasons"
 category = "mods"
 side = "both"
+dependencies = ["mods/glitchcore.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/e0bNACJD/versions/SPj5bJoM/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
@@ -16,4 +17,4 @@ mod-id = "e0bNACJD"
 version = "SPj5bJoM"
 
 [option]
-optional = false
+dependency = false

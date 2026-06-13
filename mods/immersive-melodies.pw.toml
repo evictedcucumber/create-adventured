@@ -16,4 +16,4 @@ mod-id = "TaSmHw8V"
 version = "FRJWinhs"
 
 [option]
-optional = false
+dependency = false

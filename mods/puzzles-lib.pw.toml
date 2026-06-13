@@ -16,5 +16,4 @@ mod-id = "QAGBst4M"
 version = "PRF4qcdp"
 
 [option]
-optional = false
 dependency = true

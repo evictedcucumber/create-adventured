@@ -16,5 +16,4 @@ mod-id = "vBbPDuOs"
 version = "M1CyD3Uu"
 
 [option]
-optional = false
 dependency = true

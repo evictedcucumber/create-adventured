@@ -4,6 +4,7 @@ version = "neoforge-1.21.1-1.0.10"
 page-url = "https://modrinth.com/mod/sodium-options-api"
 category = "mods"
 side = "client"
+dependencies = ["mods/sodium.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
@@ -16,5 +17,4 @@ mod-id = "Es5v4eyq"
 version = "lrsX3TMS"
 
 [option]
-optional = false
 dependency = true

@@ -16,4 +16,4 @@ mod-id = "hSSqdyU1"
 version = "3sUW27Ho"
 
 [option]
-optional = false
+dependency = false

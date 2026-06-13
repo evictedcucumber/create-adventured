@@ -36,6 +36,9 @@
           (pkgs.writeShellScriptBin "ca-export" ''
             packwiz mr export
           '')
+          (pkgs.writeShellScriptBin "ca-update-all" ''
+            packwiz update --all
+          '')
         ];
       };
     });

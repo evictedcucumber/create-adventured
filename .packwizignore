@@ -1,9 +1,11 @@
 *.mrpack
 .direnv
+.editorconfig
 .envrc
 .git
 .gitignore
 Makefile
+dependencies.toml
 flake.lock
 flake.nix
 lefthook.yml

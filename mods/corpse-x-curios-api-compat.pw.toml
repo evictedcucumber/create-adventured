@@ -4,6 +4,7 @@ version = "4.0.1"
 page-url = "https://modrinth.com/mod/corpse-x-curios-api-compat"
 category = "mods"
 side = "server"
+dependencies = ["mods/baguettelib.pw.toml", "mods/corpse.pw.toml", "mods/curios.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar"
@@ -16,4 +17,4 @@ mod-id = "pJGcKPh1"
 version = "Ix4uAd2i"
 
 [option]
-optional = false
+dependency = false

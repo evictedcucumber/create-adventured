@@ -4,6 +4,7 @@ version = "5.1.2"
 page-url = "https://modrinth.com/mod/create-jetpack"
 category = "mods"
 side = "both"
+dependencies = ["mods/create.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar"
@@ -16,4 +17,4 @@ mod-id = "UbFnAd4l"
 version = "4Ndp4d21"
 
 [option]
-optional = false
+dependency = false

@@ -16,4 +16,4 @@ mod-id = "9enMEvoc"
 version = "ZFrDlvkl"
 
 [option]
-optional = false
+dependency = false

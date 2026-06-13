@@ -16,4 +16,4 @@ mod-id = "wLINU2AB"
 version = "Wan4NysJ"
 
 [option]
-optional = false
+dependency = false

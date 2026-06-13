@@ -1,0 +1,1459 @@
+[[mods]]
+name = "3D Skin Layers"
+file = "mods/3dskinlayers.pw.toml"
+
+[[mods]]
+name = "[EMF] Entity Model Features"
+file = "mods/entity-model-features.pw.toml"
+
+[[mods.dependencies]]
+name = "[ETF] Entity Texture Features"
+file = "mods/entitytexturefeatures.pw.toml"
+
+[[mods]]
+name = "[ESF] Entity Sound Features"
+file = "mods/esf.pw.toml"
+
+[[mods.dependencies]]
+name = "[EMF] Entity Model Features"
+file = "mods/entity-model-features.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "[ETF] Entity Texture Features"
+file = "mods/entitytexturefeatures.pw.toml"
+
+[[mods.dependencies]]
+name = "[ETF] Entity Texture Features"
+file = "mods/entitytexturefeatures.pw.toml"
+
+[[mods]]
+name = "[ETF] Entity Texture Features"
+file = "mods/entitytexturefeatures.pw.toml"
+
+[[mods]]
+name = "Advancement Plaques"
+file = "mods/advancement-plaques.pw.toml"
+
+[[mods.dependencies]]
+name = "Iceberg"
+file = "mods/iceberg.pw.toml"
+
+[[mods]]
+name = "AI Improvements"
+file = "mods/ai-improvements.pw.toml"
+
+[[mods]]
+name = "Ambient Environment"
+file = "mods/ambient-environment.pw.toml"
+
+[[mods]]
+name = "AmbientSounds"
+file = "mods/ambientsounds.pw.toml"
+
+[[mods.dependencies]]
+name = "CreativeCore"
+file = "mods/creativecore.pw.toml"
+
+[[mods]]
+name = "Amendments"
+file = "mods/amendments.pw.toml"
+
+[[mods.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods]]
+name = "Animal Feeding Trough"
+file = "mods/animal_feeding_trough.pw.toml"
+
+[[mods.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods]]
+name = "AppleSkin"
+file = "mods/appleskin.pw.toml"
+
+[[mods]]
+name = "Artifacts"
+file = "mods/artifacts.pw.toml"
+
+[[mods]]
+name = "AttributeFix"
+file = "mods/attributefix.pw.toml"
+
+[[mods.dependencies]]
+name = "Bookshelf"
+file = "mods/bookshelf-lib.pw.toml"
+
+[[mods.dependencies]]
+name = "Prickle"
+file = "mods/prickle.pw.toml"
+
+[[mods]]
+name = "Better Archeology"
+file = "mods/better-archeology.pw.toml"
+
+[[mods.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods.dependencies]]
+name = "Resourceful Config"
+file = "mods/resourceful-config.pw.toml"
+
+[[mods]]
+name = "Better Combat"
+file = "mods/better-combat.pw.toml"
+
+[[mods.dependencies]]
+name = "Cloth Config API"
+file = "mods/cloth-config.pw.toml"
+
+[[mods.dependencies]]
+name = "playerAnimator"
+file = "mods/playeranimator.pw.toml"
+
+[[mods]]
+name = "Better Compatibility Checker"
+file = "mods/better-compatibility-checker.pw.toml"
+
+[[mods]]
+name = "Camerapture"
+file = "mods/camerapture.pw.toml"
+
+[[mods]]
+name = "Carry On"
+file = "mods/carry-on.pw.toml"
+
+[[mods]]
+name = "Cerulean"
+file = "mods/cerulean-advancements.pw.toml"
+
+[[mods.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods]]
+name = "Champions-Unofficial"
+file = "mods/champions-unofficial.pw.toml"
+
+[[mods]]
+name = "Chipped"
+file = "mods/chipped.pw.toml"
+
+[[mods.dependencies]]
+name = "Athena"
+file = "mods/athena-ctm.pw.toml"
+
+[[mods.dependencies]]
+name = "Resourceful Lib"
+file = "mods/resourceful-lib.pw.toml"
+
+[[mods]]
+name = "Clavis"
+file = "mods/clavis.pw.toml"
+
+[[mods.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
+[[mods]]
+name = "Clumps"
+file = "mods/clumps.pw.toml"
+
+[[mods]]
+name = "Coastal Waves"
+file = "mods/coastal-waves.pw.toml"
+
+[[mods]]
+name = "Combat Roll"
+file = "mods/combat-roll.pw.toml"
+
+[[mods.dependencies]]
+name = "Cloth Config API"
+file = "mods/cloth-config.pw.toml"
+
+[[mods.dependencies]]
+name = "playerAnimator"
+file = "mods/playeranimator.pw.toml"
+
+[[mods]]
+name = "Comforts"
+file = "mods/comforts.pw.toml"
+
+[[mods]]
+name = "Concurrent Chunk Management Engine (NeoForge)"
+file = "mods/c2me-neoforge.pw.toml"
+
+[[mods]]
+name = "Continuity"
+file = "mods/continuity.pw.toml"
+
+[[mods.dependencies]]
+name = "Sinytra Connector"
+file = "mods/connector.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Forgified Fabric API"
+file = "mods/forgified-fabric-api.pw.toml"
+
+[[mods.dependencies]]
+name = "Forgified Fabric API"
+file = "mods/forgified-fabric-api.pw.toml"
+
+[[mods]]
+name = "Controlling"
+file = "mods/controlling.pw.toml"
+
+[[mods.dependencies]]
+name = "Searchables"
+file = "mods/searchables.pw.toml"
+
+[[mods]]
+name = "Corpse"
+file = "mods/corpse.pw.toml"
+
+[[mods]]
+name = "Corpse x Curios API Compat"
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+
+[[mods.dependencies]]
+name = "BaguetteLib"
+file = "mods/baguettelib.pw.toml"
+
+[[mods.dependencies]]
+name = "Corpse"
+file = "mods/corpse.pw.toml"
+
+[[mods.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods]]
+name = "Crash Assistant"
+file = "mods/crash-assistant.pw.toml"
+
+[[mods]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create Cobblestone"
+file = "mods/create-cobblestone.pw.toml"
+
+[[mods.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create Cobblestone deepslate generators"
+file = "mods/create-cobblestone-deepslate-generators.pw.toml"
+
+[[mods.dependencies]]
+name = "Create Cobblestone"
+file = "mods/create-cobblestone.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create Deco"
+file = "mods/create-deco.pw.toml"
+
+[[mods]]
+name = "Create Encased"
+file = "mods/create-encased.pw.toml"
+
+[[mods]]
+name = "Create Jetpack"
+file = "mods/create-jetpack.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create Slice & Dice"
+file = "mods/slice-and-dice.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create Stuff 'N Additions"
+file = "mods/create-stuff-additions.pw.toml"
+
+[[mods]]
+name = "Create: Bells & Whistles"
+file = "mods/bellsandwhistles.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Blocks & Bogies"
+file = "mods/blocks-bogies.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Connected"
+file = "mods/create-connected.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Copycats+"
+file = "mods/copycats.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Curios Jetpack & Backtank"
+file = "mods/create-curios-jetpack.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods]]
+name = "Create: Deep Dark"
+file = "mods/create-deep-dark.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Design n' Decor"
+file = "mods/create-design-n-decor.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Enchantment Industry"
+file = "mods/create-enchantment-industry.pw.toml"
+
+[[mods.dependencies]]
+name = "Create: Dragons Plus"
+file = "mods/create-dragons-plus.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Escalated"
+file = "mods/escalated.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Pattern Schematics"
+file = "mods/create-pattern-schematics.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Power Loader"
+file = "mods/create-power-loader.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Relics plus"
+file = "mods/create-relics-plus.pw.toml"
+
+[[mods.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods.dependencies]]
+name = "Create:Relics integration"
+file = "mods/createrelics-integration.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Relics"
+file = "mods/relics-mod.pw.toml"
+
+[[mods.dependencies.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
+[[mods.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
+[[mods.dependencies]]
+name = "Relics"
+file = "mods/relics-mod.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
+[[mods]]
+name = "Create: Rustic Structures"
+file = "mods/create-rustic-structures.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Stam1o Tweaks"
+file = "mods/create-stam1o-tweaks.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Create: Structures Arise"
+file = "mods/create-structures-arise.pw.toml"
+
+[[mods]]
+name = "Create: Transmission!"
+file = "mods/create-transmission!.pw.toml"
+
+[[mods]]
+name = "Create: Vibrant Vaults"
+file = "mods/create-vibrant-vaults.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods]]
+name = "Cut Through"
+file = "mods/cut-through.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Despawn Tweaks"
+file = "mods/despawn-tweaks.pw.toml"
+
+[[mods.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods]]
+name = "Diagonal Fences"
+file = "mods/diagonal-fences.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Diagonal Walls"
+file = "mods/diagonal-walls.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Diagonal Windows"
+file = "mods/diagonal-windows.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Distant Horizons"
+file = "mods/distanthorizons.pw.toml"
+
+[[mods]]
+name = "Distinct Potions"
+file = "mods/distinct-potions.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Distraction Free Recipes (EMI / REI / JEI)"
+file = "mods/distraction-free-recipes.pw.toml"
+
+[[mods.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods]]
+name = "Does It Tick?"
+file = "mods/does-it-tick.pw.toml"
+
+[[mods.dependencies]]
+name = "Chunk Activity Tracker"
+file = "mods/chunk-activity-tracker.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods]]
+name = "Double Doors"
+file = "mods/double-doors.pw.toml"
+
+[[mods.dependencies]]
+name = "Collective"
+file = "mods/collective.pw.toml"
+
+[[mods]]
+name = "Dusty Decorations"
+file = "mods/dusty-decorations.pw.toml"
+
+[[mods]]
+name = "Easier Sleeping"
+file = "mods/easier-sleeping.pw.toml"
+
+[[mods]]
+name = "Easy Anvils"
+file = "mods/easy-anvils.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Easy Magic"
+file = "mods/easy-magic.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "EMI"
+file = "mods/emi.pw.toml"
+
+[[mods]]
+name = "EMI Addon: Extra Mod Integrations"
+file = "mods/extra-mod-integrations.pw.toml"
+
+[[mods.dependencies]]
+name = "EMI"
+file = "mods/emi.pw.toml"
+
+[[mods]]
+name = "EMI Enchanting"
+file = "mods/emi-enchanting.pw.toml"
+
+[[mods.dependencies]]
+name = "EMI"
+file = "mods/emi.pw.toml"
+
+[[mods]]
+name = "EMI Loot"
+file = "mods/emi-loot.pw.toml"
+
+[[mods.dependencies]]
+name = "EMI"
+file = "mods/emi.pw.toml"
+
+[[mods.dependencies]]
+name = "Fzzy Config"
+file = "mods/fzzy-config.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Kotlin for Forge"
+file = "mods/kotlin-for-forge.pw.toml"
+
+[[mods]]
+name = "EMIffect"
+file = "mods/emiffect.pw.toml"
+
+[[mods.dependencies]]
+name = "EMI"
+file = "mods/emi.pw.toml"
+
+[[mods]]
+name = "Enchantment Descriptions"
+file = "mods/enchantment-descriptions.pw.toml"
+
+[[mods.dependencies]]
+name = "Bookshelf"
+file = "mods/bookshelf-lib.pw.toml"
+
+[[mods.dependencies]]
+name = "Prickle"
+file = "mods/prickle.pw.toml"
+
+[[mods]]
+name = "Euphoria Patches"
+file = "mods/euphoria-patches.pw.toml"
+
+[[mods]]
+name = "Every Compat (Stone Zone)"
+file = "mods/stone-zone.pw.toml"
+
+[[mods.dependencies]]
+name = "Every Compat (Wood Good)"
+file = "mods/every-compat.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods]]
+name = "Every Compat (Wood Good)"
+file = "mods/every-compat.pw.toml"
+
+[[mods.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods]]
+name = "Farmer's Cutting: Quark"
+file = "mods/farmers-cutting-quark.pw.toml"
+
+[[mods.dependencies]]
+name = "Farmer's Delight"
+file = "mods/farmers-delight.pw.toml"
+
+[[mods.dependencies]]
+name = "Quark"
+file = "mods/quark.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Zeta"
+file = "mods/zeta.pw.toml"
+
+[[mods]]
+name = "Farmer's Cutting: Regions Unexplored"
+file = "mods/farmers-cutting-regions-unexplored.pw.toml"
+
+[[mods.dependencies]]
+name = "Farmer's Delight"
+file = "mods/farmers-delight.pw.toml"
+
+[[mods.dependencies]]
+name = "Regions Unexplored"
+file = "mods/regions-unexplored.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Lithostitched"
+file = "mods/lithostitched.pw.toml"
+
+[[mods]]
+name = "Farmer's Delight"
+file = "mods/farmers-delight.pw.toml"
+
+[[mods]]
+name = "FerriteCore"
+file = "mods/ferrite-core.pw.toml"
+
+[[mods]]
+name = "Fusion (Connected Textures)"
+file = "mods/fusion-connected-textures.pw.toml"
+
+[[mods]]
+name = "Geophilic"
+file = "mods/geophilic.pw.toml"
+
+[[mods]]
+name = "Handcrafted"
+file = "mods/handcrafted.pw.toml"
+
+[[mods.dependencies]]
+name = "Resourceful Lib"
+file = "mods/resourceful-lib.pw.toml"
+
+[[mods]]
+name = "HT's TreeChop"
+file = "mods/treechop.pw.toml"
+
+[[mods]]
+name = "Immersive Armors"
+file = "mods/immersive-armors.pw.toml"
+
+[[mods]]
+name = "Immersive Melodies"
+file = "mods/immersive-melodies.pw.toml"
+
+[[mods]]
+name = "Immersive Paintings"
+file = "mods/immersive-paintings.pw.toml"
+
+[[mods.dependencies]]
+name = "Fzzy Config"
+file = "mods/fzzy-config.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Kotlin for Forge"
+file = "mods/kotlin-for-forge.pw.toml"
+
+[[mods]]
+name = "Inventory Essentials"
+file = "mods/inventory-essentials.pw.toml"
+
+[[mods.dependencies]]
+name = "Balm"
+file = "mods/balm.pw.toml"
+
+[[mods]]
+name = "Inventory Particles"
+file = "mods/inventory-particles.pw.toml"
+
+[[mods.dependencies]]
+name = "MossyLib"
+file = "mods/mossylib.pw.toml"
+
+[[mods]]
+name = "Iris & Oculus Flywheel Compat"
+file = "mods/iris-flw-compat.pw.toml"
+
+[[mods.dependencies]]
+name = "Iris Shaders"
+file = "mods/iris.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Iris Shaders"
+file = "mods/iris.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Jade Addons (Neo/Forge)"
+file = "mods/jade-addons-forge.pw.toml"
+
+[[mods.dependencies]]
+name = "Jade 🔍"
+file = "mods/jade.pw.toml"
+
+[[mods]]
+name = "Jade 🔍"
+file = "mods/jade.pw.toml"
+
+[[mods]]
+name = "Just Enough Items (JEI)"
+file = "mods/jei.pw.toml"
+
+[[mods]]
+name = "Just Hammers"
+file = "mods/just-hammers.pw.toml"
+
+[[mods]]
+name = "Leaves Be Gone"
+file = "mods/leaves-be-gone.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Legendary Tooltips"
+file = "mods/legendary-tooltips.pw.toml"
+
+[[mods.dependencies]]
+name = "Iceberg"
+file = "mods/iceberg.pw.toml"
+
+[[mods.dependencies]]
+name = "Prism"
+file = "mods/prism-lib.pw.toml"
+
+[[mods]]
+name = "Let Me Despawn"
+file = "mods/lmd.pw.toml"
+
+[[mods.dependencies]]
+name = "Almanac"
+file = "mods/almanac.pw.toml"
+
+[[mods]]
+name = "Lithium"
+file = "mods/lithium.pw.toml"
+
+[[mods]]
+name = "Lootr"
+file = "mods/lootr.pw.toml"
+
+[[mods]]
+name = "Macaw's Bridges"
+file = "mods/macaws-bridges.pw.toml"
+
+[[mods]]
+name = "Macaw's Doors"
+file = "mods/macaws-doors.pw.toml"
+
+[[mods]]
+name = "Macaw's Fences and Walls"
+file = "mods/macaws-fences-and-walls.pw.toml"
+
+[[mods]]
+name = "Macaw's Furniture"
+file = "mods/macaws-furniture.pw.toml"
+
+[[mods]]
+name = "Macaw's Lights and Lamps"
+file = "mods/macaws-lights-and-lamps.pw.toml"
+
+[[mods]]
+name = "Macaw's Paintings"
+file = "mods/macaws-paintings.pw.toml"
+
+[[mods]]
+name = "Macaw's Paths and Pavings"
+file = "mods/macaws-paths-and-pavings.pw.toml"
+
+[[mods]]
+name = "Macaw's Quark"
+file = "mods/macaws-quark.pw.toml"
+
+[[mods.dependencies]]
+name = "AddonsLib"
+file = "mods/addonslib.pw.toml"
+
+[[mods.dependencies]]
+name = "Quark"
+file = "mods/quark.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Zeta"
+file = "mods/zeta.pw.toml"
+
+[[mods.dependencies]]
+name = "Zeta"
+file = "mods/zeta.pw.toml"
+
+[[mods]]
+name = "Macaw's Regions Unexplored"
+file = "mods/macaws-regions-unexplored.pw.toml"
+
+[[mods.dependencies]]
+name = "AddonsLib"
+file = "mods/addonslib.pw.toml"
+
+[[mods.dependencies]]
+name = "Regions Unexplored"
+file = "mods/regions-unexplored.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Lithostitched"
+file = "mods/lithostitched.pw.toml"
+
+[[mods]]
+name = "Macaw's Roofs"
+file = "mods/macaws-roofs.pw.toml"
+
+[[mods]]
+name = "Macaw's Stairs"
+file = "mods/macaws-stairs.pw.toml"
+
+[[mods]]
+name = "Macaw's Trapdoors"
+file = "mods/macaws-trapdoors.pw.toml"
+
+[[mods]]
+name = "Macaw's Windows"
+file = "mods/macaws-windows.pw.toml"
+
+[[mods]]
+name = "Measurements"
+file = "mods/measurements.pw.toml"
+
+[[mods]]
+name = "ModernFix"
+file = "mods/modernfix.pw.toml"
+
+[[mods]]
+name = "Mouse Tweaks"
+file = "mods/mouse-tweaks.pw.toml"
+
+[[mods]]
+name = "Nature's Compass"
+file = "mods/natures-compass.pw.toml"
+
+[[mods]]
+name = "Neruina - Ticking Entity Fixer"
+file = "mods/neruina.pw.toml"
+
+[[mods.dependencies]]
+name = "Configurable"
+file = "mods/configurable.pw.toml"
+
+[[mods]]
+name = "NetherPortalFix"
+file = "mods/netherportalfix.pw.toml"
+
+[[mods.dependencies]]
+name = "Balm"
+file = "mods/balm.pw.toml"
+
+[[mods]]
+name = "Not Enough Animations"
+file = "mods/not-enough-animations.pw.toml"
+
+[[mods]]
+name = "Ok Zoomer - It's Zoom!"
+file = "mods/ok-zoomer.pw.toml"
+
+[[mods]]
+name = "Open Parties and Claims"
+file = "mods/open-parties-and-claims.pw.toml"
+
+[[mods]]
+name = "Overflowing Bars"
+file = "mods/overflowing-bars.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Packet Fixer"
+file = "mods/packet-fixer.pw.toml"
+
+[[mods]]
+name = "Perception"
+file = "mods/perception.pw.toml"
+
+[[mods]]
+name = "Pick Up Notifier"
+file = "mods/pick-up-notifier.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Polymorph"
+file = "mods/polymorph.pw.toml"
+
+[[mods]]
+name = "Quark"
+file = "mods/quark.pw.toml"
+
+[[mods.dependencies]]
+name = "Zeta"
+file = "mods/zeta.pw.toml"
+
+[[mods]]
+name = "Random Enchant Fix"
+file = "mods/random-enchant-fix.pw.toml"
+
+[[mods.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods]]
+name = "Reconnectible Chains"
+file = "mods/reconnectible-chains.pw.toml"
+
+[[mods.dependencies]]
+name = "Cloth Config API"
+file = "mods/cloth-config.pw.toml"
+
+[[mods]]
+name = "Reese's Sodium Options"
+file = "mods/reeses-sodium-options.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Regions Unexplored"
+file = "mods/regions-unexplored.pw.toml"
+
+[[mods.dependencies]]
+name = "Lithostitched"
+file = "mods/lithostitched.pw.toml"
+
+[[mods]]
+name = "Regions Unexplored: Expansion"
+file = "mods/regions-unexplored-expansion.pw.toml"
+
+[[mods.dependencies]]
+name = "Regions Unexplored"
+file = "mods/regions-unexplored.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Lithostitched"
+file = "mods/lithostitched.pw.toml"
+
+[[mods]]
+name = "Relics"
+file = "mods/relics-mod.pw.toml"
+
+[[mods.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
+[[mods]]
+name = "Reliquified Artifacts"
+file = "mods/reliquified-artifacts.pw.toml"
+
+[[mods.dependencies]]
+name = "Artifacts"
+file = "mods/artifacts.pw.toml"
+
+[[mods.dependencies]]
+name = "Relics"
+file = "mods/relics-mod.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
+[[mods]]
+name = "Repurposed Structures - Farmer's Delight Compat"
+file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
+
+[[mods.dependencies]]
+name = "Farmer's Delight"
+file = "mods/farmers-delight.pw.toml"
+
+[[mods.dependencies]]
+name = "Repurposed Structures - Neoforge/Forge"
+file = "mods/repurposed-structures-forge.pw.toml"
+
+[[mods]]
+name = "Repurposed Structures - Neoforge/Forge"
+file = "mods/repurposed-structures-forge.pw.toml"
+
+[[mods]]
+name = "Resource Pack Overrides"
+file = "mods/resource-pack-overrides.pw.toml"
+
+[[mods]]
+name = "RightClickHarvest"
+file = "mods/rightclickharvest.pw.toml"
+
+[[mods.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods.dependencies]]
+name = "JamLib"
+file = "mods/jamlib.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods]]
+name = "Sawmill"
+file = "mods/universal-sawmill.pw.toml"
+
+[[mods.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods]]
+name = "Serene Seasons"
+file = "mods/serene-seasons.pw.toml"
+
+[[mods.dependencies]]
+name = "GlitchCore"
+file = "mods/glitchcore.pw.toml"
+
+[[mods]]
+name = "Shuffle"
+file = "mods/shuffle.pw.toml"
+
+[[mods.dependencies]]
+name = "Ash API"
+file = "mods/ash-api.pw.toml"
+
+[[mods]]
+name = "Simple Voice Chat"
+file = "mods/simple-voice-chat.pw.toml"
+
+[[mods]]
+name = "Simply Tooltips"
+file = "mods/simply-tooltips.pw.toml"
+
+[[mods]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Sodium Dynamic Lights"
+file = "mods/sodium-dynamic-lights.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium Options API"
+file = "mods/sodium-options-api.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Sodium Extras"
+file = "mods/sodium-extras.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium Options API"
+file = "mods/sodium-options-api.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Sodium Options Mod Compat"
+file = "mods/sodium-options-mod-compat.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium Options API"
+file = "mods/sodium-options-api.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Sophisticated Backpacks"
+file = "mods/sophisticated-backpacks.pw.toml"
+
+[[mods.dependencies]]
+name = "Sophisticated Core"
+file = "mods/sophisticated-core.pw.toml"
+
+[[mods]]
+name = "Sophisticated Backpacks Create Integration"
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods.dependencies]]
+name = "Sophisticated Backpacks"
+file = "mods/sophisticated-backpacks.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Sophisticated Core"
+file = "mods/sophisticated-core.pw.toml"
+
+[[mods.dependencies]]
+name = "Sophisticated Core"
+file = "mods/sophisticated-core.pw.toml"
+
+[[mods]]
+name = "Sound Physics Remastered"
+file = "mods/sound-physics-remastered.pw.toml"
+
+[[mods]]
+name = "Storage Drawers"
+file = "mods/storagedrawers.pw.toml"
+
+[[mods]]
+name = "Supplementaries"
+file = "mods/supplementaries.pw.toml"
+
+[[mods.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods]]
+name = "Supplementaries Squared"
+file = "mods/supplementaries-squared.pw.toml"
+
+[[mods.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods]]
+name = "Tectonic"
+file = "mods/tectonic.pw.toml"
+
+[[mods.dependencies]]
+name = "Lithostitched"
+file = "mods/lithostitched.pw.toml"
+
+[[mods]]
+name = "ToastBegone"
+file = "mods/toastbegone.pw.toml"
+
+[[mods]]
+name = "TorchMaster"
+file = "mods/torchmaster.pw.toml"
+
+[[mods]]
+name = "Towns and Towers"
+file = "mods/towns-and-towers.pw.toml"
+
+[[mods.dependencies]]
+name = "Cristel Lib"
+file = "mods/cristel-lib.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Cloth Config API"
+file = "mods/cloth-config.pw.toml"
+
+[[mods]]
+name = "Trade Cycling"
+file = "mods/trade-cycling.pw.toml"
+
+[[mods]]
+name = "Traveler's Titles"
+file = "mods/travelers-titles.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "Vanilla Backport"
+file = "mods/vanillabackport.pw.toml"
+
+[[mods.dependencies]]
+name = "Platform"
+file = "mods/platform.pw.toml"
+
+[[mods]]
+name = "Visual Workbench"
+file = "mods/visual-workbench.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Visuality: Reforged"
+file = "mods/visuality-forge.pw.toml"
+
+[[mods]]
+name = "What Are They Up To (Watut)"
+file = "mods/what-are-they-up-to.pw.toml"
+
+[[mods.dependencies]]
+name = "CoroUtil"
+file = "mods/coroutil.pw.toml"
+
+[[mods]]
+name = "Xaero Train Map"
+file = "mods/xaero-train-map.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
+
+[[mods.dependencies]]
+name = "Xaero's World Map"
+file = "mods/xaeros-world-map.pw.toml"
+
+[[mods]]
+name = "Xaero's Minimap"
+file = "mods/xaeros-minimap.pw.toml"
+
+[[mods]]
+name = "Xaero's World Map"
+file = "mods/xaeros-world-map.pw.toml"
+
+[[mods]]
+name = "Yeetus Experimentus"
+file = "mods/yeetus-experimentus.pw.toml"
+
+[[resourcepacks]]
+name = "(Bee's) Fancy Crops"
+file = "resourcepacks/fancy-crops.pw.toml"
+
+[[resourcepacks]]
+name = "Comforts Modernized"
+file = "resourcepacks/comforts-modernized.pw.toml"
+
+[[resourcepacks]]
+name = "Create Style Sophisticated Backpacks"
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+
+[[resourcepacks]]
+name = "Fresh Animations"
+file = "resourcepacks/fresh-animations.pw.toml"
+
+[[resourcepacks]]
+name = "Fresh Animations: Extensions"
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "Fresh Animations"
+file = "resourcepacks/fresh-animations.pw.toml"
+
+[[resourcepacks]]
+name = "Fresh Animations: Player Extension"
+file = "resourcepacks/fa-player-extension.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "[EMF] Entity Model Features"
+file = "mods/entity-model-features.pw.toml"
+
+[[resourcepacks.dependencies.dependencies]]
+name = "[ETF] Entity Texture Features"
+file = "mods/entitytexturefeatures.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "[ETF] Entity Texture Features"
+file = "mods/entitytexturefeatures.pw.toml"
+
+[[resourcepacks]]
+name = "Fusion 3D Items"
+file = "resourcepacks/fusion-3d-items.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "Fusion (Connected Textures)"
+file = "mods/fusion-connected-textures.pw.toml"
+
+[[resourcepacks]]
+name = "Fusion Block Transitions"
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "Fusion (Connected Textures)"
+file = "mods/fusion-connected-textures.pw.toml"
+
+[[resourcepacks]]
+name = "Fusion Connected Blocks"
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "Fusion (Connected Textures)"
+file = "mods/fusion-connected-textures.pw.toml"
+
+[[resourcepacks]]
+name = "Fusion Connected Glass"
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "Fusion (Connected Textures)"
+file = "mods/fusion-connected-textures.pw.toml"
+
+[[resourcepacks]]
+name = "Fusion Emissive Ores"
+file = "resourcepacks/fusion-emissive-ores.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "Fusion (Connected Textures)"
+file = "mods/fusion-connected-textures.pw.toml"
+
+[[resourcepacks]]
+name = "Fusion Stacking Items"
+file = "resourcepacks/fusion-stacking-items.pw.toml"
+
+[[resourcepacks.dependencies]]
+name = "Fusion (Connected Textures)"
+file = "mods/fusion-connected-textures.pw.toml"
+
+[[resourcepacks]]
+name = "Icons"
+file = "resourcepacks/icons.pw.toml"
+
+[[resourcepacks]]
+name = "Mandala's GUI - Add-Ons"
+file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
+
+[[resourcepacks]]
+name = "Mandala's GUI - Dark mode"
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+
+[[shaderpacks]]
+name = "Complementary Shaders - Reimagined"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+
+[[shaderpacks]]
+name = "Complementary Shaders - Unbound"
+file = "shaderpacks/complementary-unbound.pw.toml"

@@ -4,6 +4,7 @@ version = "21.1.1+neoforge-1.21.1"
 page-url = "https://modrinth.com/mod/netherportalfix"
 category = "mods"
 side = "server"
+dependencies = ["mods/balm.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar"
@@ -16,4 +17,4 @@ mod-id = "nPZr02ET"
 version = "O09BGtgh"
 
 [option]
-optional = false
+dependency = false

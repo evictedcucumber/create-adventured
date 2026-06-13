@@ -16,4 +16,4 @@ mod-id = "SaCpeal4"
 version = "3kpPjcTc"
 
 [option]
-optional = false
+dependency = false

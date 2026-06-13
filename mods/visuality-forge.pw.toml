@@ -16,4 +16,4 @@ mod-id = "z13R7Et1"
 version = "ZBidwV02"
 
 [option]
-optional = false
+dependency = false

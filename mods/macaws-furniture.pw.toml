@@ -16,4 +16,4 @@ mod-id = "dtWC90iB"
 version = "Z5V3Ps7S"
 
 [option]
-optional = false
+dependency = false

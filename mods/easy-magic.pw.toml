@@ -4,6 +4,7 @@ version = "v21.1.4-1.21.1-NeoForge"
 page-url = "https://modrinth.com/mod/easy-magic"
 category = "mods"
 side = "both"
+dependencies = ["mods/puzzles-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/MxbfrOEv/EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
@@ -16,4 +17,4 @@ mod-id = "9hx3AbJM"
 version = "MxbfrOEv"
 
 [option]
-optional = false
+dependency = false

@@ -4,6 +4,7 @@ version = "1.21.1-1.6"
 page-url = "https://modrinth.com/mod/macaws-quark"
 category = "mods"
 side = "both"
+dependencies = ["mods/addonslib.pw.toml", "mods/quark.pw.toml", "mods/zeta.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/uLtxXFVm/versions/BxzYJK1k/mcwquark-neoforge-1.21.1-1.6.jar"
@@ -16,4 +17,4 @@ mod-id = "uLtxXFVm"
 version = "BxzYJK1k"
 
 [option]
-optional = false
+dependency = false

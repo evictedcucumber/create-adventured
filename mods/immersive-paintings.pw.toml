@@ -4,6 +4,7 @@ version = "0.7.7+1.21.1"
 page-url = "https://modrinth.com/mod/immersive-paintings"
 category = "mods"
 side = "both"
+dependencies = ["mods/fzzy-config.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
@@ -16,4 +17,4 @@ mod-id = "6txNkua3"
 version = "DeOfrXC3"
 
 [option]
-optional = false
+dependency = false

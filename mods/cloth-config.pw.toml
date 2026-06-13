@@ -16,5 +16,4 @@ mod-id = "9s6osm5g"
 version = "izKINKFg"
 
 [option]
-optional = false
 dependency = true

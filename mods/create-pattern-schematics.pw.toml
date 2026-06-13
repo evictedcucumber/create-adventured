@@ -4,6 +4,7 @@ version = "2.0.10"
 page-url = "https://modrinth.com/mod/create-pattern-schematics"
 category = "mods"
 side = "both"
+dependencies = ["mods/create.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar"
@@ -16,4 +17,4 @@ mod-id = "cpqKG67r"
 version = "VSJhIkG2"
 
 [option]
-optional = false
+dependency = false

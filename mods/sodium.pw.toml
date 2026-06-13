@@ -13,3 +13,6 @@ hash = "2c5db1811427d964b887110e6a65dc3c4b4d3a3dd0d2d50d028006aa0e4643135eaeb79b
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "tVLDCyrm"
+
+[option]
+dependency = false

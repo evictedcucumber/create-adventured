@@ -16,4 +16,4 @@ mod-id = "hl5OLM95"
 version = "3pbmqlYX"
 
 [option]
-optional = false
+dependency = false

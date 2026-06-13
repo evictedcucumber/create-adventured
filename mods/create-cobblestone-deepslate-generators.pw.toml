@@ -4,6 +4,7 @@ version = "1.4.6-neoforge+1.21.1+mod"
 page-url = "https://modrinth.com/mod/create-cobblestone-deepslate-generators"
 category = "mods"
 side = "both"
+dependencies = ["mods/create-cobblestone.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/F2XXc3ws/versions/GBDR4YSy/create-cobblestone-deepslate-generators-1.4.6-neoforge%2B1.21.1.jar"
@@ -16,4 +17,4 @@ mod-id = "F2XXc3ws"
 version = "GBDR4YSy"
 
 [option]
-optional = false
+dependency = false

@@ -16,4 +16,4 @@ mod-id = "edU0NbZZ"
 version = "SobtrAG5"
 
 [option]
-optional = false
+dependency = false

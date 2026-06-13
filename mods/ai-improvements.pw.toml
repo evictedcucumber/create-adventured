@@ -16,4 +16,4 @@ mod-id = "DSVgwcji"
 version = "dGNP90t0"
 
 [option]
-optional = false
+dependency = false

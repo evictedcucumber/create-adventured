@@ -4,6 +4,7 @@ version = "1.0.3+1.21.1.neoforge"
 page-url = "https://modrinth.com/mod/extra-mod-integrations"
 category = "mods"
 side = "client"
+dependencies = ["mods/emi.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/bpRHnWUb/versions/bxgGyUjY/extra-mod-integrations-all-neoforge-1.0.3%2B1.21.1.jar"
@@ -16,4 +17,4 @@ mod-id = "bpRHnWUb"
 version = "bxgGyUjY"
 
 [option]
-optional = false
+dependency = false

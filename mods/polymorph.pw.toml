@@ -16,4 +16,4 @@ mod-id = "tagwiZkJ"
 version = "VEburL70"
 
 [option]
-optional = false
+dependency = false

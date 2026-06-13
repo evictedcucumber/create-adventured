@@ -4,6 +4,7 @@ version = "3.0.4+mc.1.21.1-neoforge"
 page-url = "https://modrinth.com/mod/copycats"
 category = "mods"
 side = "both"
+dependencies = ["mods/create.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
@@ -16,4 +17,4 @@ mod-id = "UT2M39wf"
 version = "kecZ0sl7"
 
 [option]
-optional = false
+dependency = false

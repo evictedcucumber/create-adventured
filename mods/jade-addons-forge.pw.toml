@@ -4,6 +4,7 @@ version = "6.1.0+neoforge"
 page-url = "https://modrinth.com/mod/jade-addons-forge"
 category = "mods"
 side = "both"
+dependencies = ["mods/jade.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
@@ -16,4 +17,4 @@ mod-id = "xuDOzCLy"
 version = "Z9s9lM56"
 
 [option]
-optional = false
+dependency = false

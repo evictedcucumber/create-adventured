@@ -4,6 +4,7 @@ version = "1.8.1"
 page-url = "https://modrinth.com/resourcepack/fresh-animations-extensions"
 category = "resourcepacks"
 side = "client"
+dependencies = ["resourcepacks/fresh-animations.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/RfJ3uz2J/FA%2BAll_Extensions-v1.8.1.zip"
@@ -16,4 +17,4 @@ mod-id = "YAVTU8mK"
 version = "RfJ3uz2J"
 
 [option]
-optional = false
+dependency = false

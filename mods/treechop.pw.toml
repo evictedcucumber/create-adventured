@@ -16,4 +16,4 @@ mod-id = "gHoB7SHO"
 version = "iLXWmfax"
 
 [option]
-optional = false
+dependency = false

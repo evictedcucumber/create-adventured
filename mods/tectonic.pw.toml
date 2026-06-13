@@ -4,6 +4,7 @@ version = "3.0.22-neoforge-21.1"
 page-url = "https://modrinth.com/mod/tectonic"
 category = "mods"
 side = "both"
+dependencies = ["mods/lithostitched.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/iCGkqnnx/tectonic-3.0.22-neoforge-21.1.jar"
@@ -16,4 +17,4 @@ mod-id = "lWDHr9jE"
 version = "iCGkqnnx"
 
 [option]
-optional = false
+dependency = false

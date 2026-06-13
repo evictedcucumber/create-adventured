@@ -4,6 +4,7 @@ version = "1.0.0"
 page-url = "https://modrinth.com/mod/create-relics-plus"
 category = "mods"
 side = "both"
+dependencies = ["mods/architectury-api.pw.toml", "mods/create.pw.toml", "mods/createrelics-integration.pw.toml", "mods/curios.pw.toml", "mods/octo-lib.pw.toml", "mods/relics-mod.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/fBKiTiw3/versions/2X8OPDwj/createrelicsplus-1.2.0.jar"
@@ -16,4 +17,4 @@ mod-id = "fBKiTiw3"
 version = "2X8OPDwj"
 
 [option]
-optional = false
+dependency = false

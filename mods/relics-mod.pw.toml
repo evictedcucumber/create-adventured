@@ -4,6 +4,7 @@ version = "0.12.8"
 page-url = "https://modrinth.com/mod/relics-mod"
 category = "mods"
 side = "both"
+dependencies = ["mods/curios.pw.toml", "mods/octo-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/OCJRPujW/versions/WKEe9sPL/relics-1.21.1-0.12.8.jar"
@@ -16,4 +17,4 @@ mod-id = "OCJRPujW"
 version = "WKEe9sPL"
 
 [option]
-optional = false
+dependency = false

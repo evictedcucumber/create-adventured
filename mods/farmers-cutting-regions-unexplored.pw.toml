@@ -4,6 +4,7 @@ version = "1.21.1-1.1b-neoforge+mod"
 page-url = "https://modrinth.com/mod/farmers-cutting-regions-unexplored"
 category = "mods"
 side = "both"
+dependencies = ["mods/farmers-delight.pw.toml", "mods/regions-unexplored.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/lFKDc2ny/versions/HjwPIJ3o/farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge.jar"
@@ -16,4 +17,4 @@ mod-id = "lFKDc2ny"
 version = "HjwPIJ3o"
 
 [option]
-optional = false
+dependency = false

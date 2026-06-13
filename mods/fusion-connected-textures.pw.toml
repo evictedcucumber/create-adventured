@@ -16,4 +16,4 @@ mod-id = "p19vrgc2"
 version = "h2GrA0Ku"
 
 [option]
-optional = false
+dependency = false

@@ -4,6 +4,7 @@ version = "1.0.1"
 page-url = "https://modrinth.com/mod/regions-unexplored-expansion"
 category = "mods"
 side = "server"
+dependencies = ["mods/regions-unexplored.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/UUT3UbDH/versions/5Wgh27UC/RUExpansion-1.0.1%2B1.21.1.jar"
@@ -16,4 +17,4 @@ mod-id = "UUT3UbDH"
 version = "5Wgh27UC"
 
 [option]
-optional = false
+dependency = false

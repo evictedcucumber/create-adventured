@@ -13,3 +13,6 @@ hash = "9098dd9e0c18b80f7aba2839cea33ce9a614d97665bbfcac87ccce6e4771667c41602d99
 [update.modrinth]
 mod-id = "R6NEzAwj"
 version = "VMHXIk50"
+
+[option]
+dependency = false

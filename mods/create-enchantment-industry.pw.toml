@@ -4,6 +4,7 @@ version = "2.4.1"
 page-url = "https://modrinth.com/mod/create-enchantment-industry"
 category = "mods"
 side = "both"
+dependencies = ["mods/create-dragons-plus.pw.toml", "mods/create.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/QclZk1u6/create-enchantment-industry-2.4.1.jar"
@@ -16,4 +17,4 @@ mod-id = "JWGBpFUP"
 version = "QclZk1u6"
 
 [option]
-optional = false
+dependency = false

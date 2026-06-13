@@ -4,6 +4,7 @@ version = "2.0.0-beta.14+1.21.1"
 page-url = "https://modrinth.com/mod/connector"
 category = "mods"
 side = "both"
+dependencies = ["mods/forgified-fabric-api.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar"
@@ -16,5 +17,4 @@ mod-id = "u58R1TMW"
 version = "1i8teo7m"
 
 [option]
-optional = false
 dependency = true

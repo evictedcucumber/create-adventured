@@ -4,6 +4,7 @@ version = "0.7.9+1.21+neoforge"
 page-url = "https://modrinth.com/mod/emi-loot"
 category = "mods"
 side = "both"
+dependencies = ["mods/emi.pw.toml", "mods/fzzy-config.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/QXkODMCT/emi_loot-0.7.9%2B1.21%2Bneoforge.jar"
@@ -16,4 +17,4 @@ mod-id = "qbbO7Jns"
 version = "QXkODMCT"
 
 [option]
-optional = false
+dependency = false

@@ -4,6 +4,7 @@ version = "4.6.1+1.21.1"
 page-url = "https://modrinth.com/mod/rightclickharvest"
 category = "mods"
 side = "server"
+dependencies = ["mods/architectury-api.pw.toml", "mods/jamlib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/djt0zS53/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar"
@@ -16,4 +17,4 @@ mod-id = "Cnejf5xM"
 version = "djt0zS53"
 
 [option]
-optional = false
+dependency = false

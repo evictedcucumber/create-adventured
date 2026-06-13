@@ -16,5 +16,4 @@ mod-id = "OsZiaDHq"
 version = "nLLornod"
 
 [option]
-optional = false
 dependency = true

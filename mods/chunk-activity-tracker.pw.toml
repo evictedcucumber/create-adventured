@@ -4,6 +4,7 @@ version = "neoforge-1.21.1-1.0.1"
 page-url = "https://modrinth.com/mod/chunk-activity-tracker"
 category = "mods"
 side = "server"
+dependencies = ["mods/txnilib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/BNuR43mM/versions/ezAcslcX/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar"
@@ -16,5 +17,4 @@ mod-id = "BNuR43mM"
 version = "ezAcslcX"
 
 [option]
-optional = false
 dependency = true

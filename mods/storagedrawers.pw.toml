@@ -16,4 +16,4 @@ mod-id = "guitPqEi"
 version = "px0CCB06"
 
 [option]
-optional = false
+dependency = false

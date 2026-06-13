@@ -4,6 +4,7 @@ version = "v21.1.1-1.21.1-NeoForge"
 page-url = "https://modrinth.com/mod/diagonal-windows"
 category = "mods"
 side = "both"
+dependencies = ["mods/puzzles-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/oOi0CKes/versions/IwUmOLxe/DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
@@ -16,4 +17,4 @@ mod-id = "oOi0CKes"
 version = "IwUmOLxe"
 
 [option]
-optional = false
+dependency = false

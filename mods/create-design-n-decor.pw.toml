@@ -4,6 +4,7 @@ version = "2.2b"
 page-url = "https://modrinth.com/mod/create-design-n-decor"
 category = "mods"
 side = "both"
+dependencies = ["mods/create.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar"
@@ -16,4 +17,4 @@ mod-id = "x49wilh8"
 version = "uQsIRky8"
 
 [option]
-optional = false
+dependency = false

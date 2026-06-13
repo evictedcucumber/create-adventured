@@ -4,6 +4,7 @@ version = "v21.1.1-1.21.1-NeoForge"
 page-url = "https://modrinth.com/mod/diagonal-fences"
 category = "mods"
 side = "both"
+dependencies = ["mods/puzzles-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/IKARgflD/versions/bgR1e0O5/DiagonalFences-v21.1.1-1.21.1-NeoForge.jar"
@@ -16,4 +17,4 @@ mod-id = "IKARgflD"
 version = "bgR1e0O5"
 
 [option]
-optional = false
+dependency = false

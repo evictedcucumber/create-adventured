@@ -16,5 +16,4 @@ mod-id = "uy4Cnpcm"
 version = "1sdJl7J1"
 
 [option]
-optional = false
 dependency = true

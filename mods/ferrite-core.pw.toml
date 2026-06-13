@@ -16,4 +16,4 @@ mod-id = "uXXizFIs"
 version = "x7kQWVju"
 
 [option]
-optional = false
+dependency = false

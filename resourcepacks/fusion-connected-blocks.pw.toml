@@ -4,6 +4,7 @@ version = "1.0.2-mc1.20-1.21.11"
 page-url = "https://modrinth.com/resourcepack/fusion-connected-blocks"
 category = "resourcepacks"
 side = "client"
+dependencies = ["mods/fusion-connected-textures.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/2w5wDdfQ/versions/S5JzbSss/Fusion%20Connected%20Blocks%20v1.0.2%20for%20Minecraft%201.20-1.21.8.zip"
@@ -16,4 +17,4 @@ mod-id = "2w5wDdfQ"
 version = "S5JzbSss"
 
 [option]
-optional = false
+dependency = false

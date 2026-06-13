@@ -4,6 +4,7 @@ version = "4.0.3"
 page-url = "https://modrinth.com/mod/handcrafted"
 category = "mods"
 side = "both"
+dependencies = ["mods/resourceful-lib.pw.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar"
@@ -16,4 +17,4 @@ mod-id = "pJmCFF0p"
 version = "JfqnpP2Z"
 
 [option]
-optional = false
+dependency = false
