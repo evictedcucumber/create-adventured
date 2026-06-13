@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/create-deep-dark"
 category = "mods"
 side = "both"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/knrLSB8n/versions/3tduJc4Y/create_deep_dark-3.0.2-neoforge-1.21.1.jar"

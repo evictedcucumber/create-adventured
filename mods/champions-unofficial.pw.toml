@@ -4,6 +4,7 @@ version = "1.21.1-2.1.10.3"
 page-url = "https://modrinth.com/mod/champions-unofficial"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/VJZc5cJx/versions/uYqygr0K/champions-neoforge-1.21.1-2.1.10.3.jar"

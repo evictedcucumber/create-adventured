@@ -4,6 +4,7 @@ version = "2.0.3"
 page-url = "https://modrinth.com/mod/baguettelib"
 category = "mods"
 side = "server"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar"

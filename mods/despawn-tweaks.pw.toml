@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/despawn-tweaks"
 category = "mods"
 side = "server"
 dependencies = ["mods/txnilib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/ahQrpeXp/versions/tKu2fTKc/despawntweaks-neoforge-1.0.0-1.21.1.jar"

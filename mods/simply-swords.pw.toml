@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/simply-swords"
 category = "mods"
 side = "both"
 dependencies = ["mods/architectury-api.pw.toml", "mods/fzzy-config.pw.toml", "mods/simply-tooltips.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/eREhvVpQ/simplyswords-neoforge-1.63.0-1.21.1.jar"

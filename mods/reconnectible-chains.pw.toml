@@ -1,10 +1,11 @@
 name = "Reconnectible Chains"
 filename = "connectiblechains-neoforge-1.21.1-2.0.0.jar"
-version = "1.2.5-1.21.1-neoforge"
+version = "2.0.0-1.21.1-neoforge"
 page-url = "https://modrinth.com/mod/reconnectible-chains"
 category = "mods"
 side = "both"
 dependencies = ["mods/cloth-config.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/WkQLlltF/connectiblechains-neoforge-1.21.1-2.0.0.jar"

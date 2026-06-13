@@ -1,10 +1,11 @@
 name = "Create: Relics plus"
 filename = "createrelicsplus-1.2.0.jar"
-version = "1.0.0"
+version = "1.2.0"
 page-url = "https://modrinth.com/mod/create-relics-plus"
 category = "mods"
 side = "both"
 dependencies = ["mods/architectury-api.pw.toml", "mods/create.pw.toml", "mods/createrelics-integration.pw.toml", "mods/curios.pw.toml", "mods/octo-lib.pw.toml", "mods/relics-mod.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/fBKiTiw3/versions/2X8OPDwj/createrelicsplus-1.2.0.jar"

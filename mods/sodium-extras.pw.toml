@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/sodium-extras"
 category = "mods"
 side = "client"
 dependencies = ["mods/sodium-options-api.pw.toml", "mods/sodium.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/qDEGbszS/sodiumextras-neoforge-1.0.8-1.21.1.jar"

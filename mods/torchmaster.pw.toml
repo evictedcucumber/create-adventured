@@ -4,6 +4,7 @@ version = "21.1.9-release"
 page-url = "https://modrinth.com/mod/torchmaster"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Tl8ESrhX/versions/PhWXajPC/torchmaster-neoforge-1.21.1-21.1.9.jar"

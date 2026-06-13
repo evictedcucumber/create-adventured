@@ -1,9 +1,10 @@
 name = "ModernFix"
 filename = "modernfix-neoforge-5.27.12+mc1.21.1.jar"
-version = "5.27.11+mc1.21.1"
+version = "5.27.12+mc1.21.1"
 page-url = "https://modrinth.com/mod/modernfix"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/nmDcB62a/versions/iFmzYK6q/modernfix-neoforge-5.27.12%2Bmc1.21.1.jar"

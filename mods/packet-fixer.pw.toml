@@ -4,6 +4,7 @@ version = "3.3.1"
 page-url = "https://modrinth.com/mod/packet-fixer"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"

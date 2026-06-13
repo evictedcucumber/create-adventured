@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/villages-and-pillages"
 category = "mods"
 side = "server"
 dependencies = ["mods/yungs-api.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/klXONLDA/versions/3BGfKjMb/villagesandpillages-neoforge-mc1.21.1-1.0.3.jar"

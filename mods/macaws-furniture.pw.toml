@@ -4,6 +4,7 @@ version = "3.4.1"
 page-url = "https://modrinth.com/mod/macaws-furniture"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/dtWC90iB/versions/Z5V3Ps7S/mcw-furniture-3.4.1-mc1.21.1neoforge.jar"

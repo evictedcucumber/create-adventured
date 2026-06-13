@@ -4,6 +4,7 @@ version = "3.1.2"
 page-url = "https://modrinth.com/mod/macaws-bridges"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/GURcjz8O/versions/aQ7rY7ng/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"

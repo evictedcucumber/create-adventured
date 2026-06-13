@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/stone-zone"
 category = "mods"
 side = "both"
 dependencies = ["mods/every-compat.pw.toml", "mods/moonlight.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/5yz4JuMs/stonezone-1.21-2.11.16-neoforge.jar"

@@ -1,9 +1,10 @@
 name = "Create: Transmission!"
 filename = "createtransmission-1.2.1+neoforge-create6-1.21.1.jar"
-version = "1.1.2+neoforge-create6-1.21.1"
+version = "1.2.1+neoforge-create6-1.21.1"
 page-url = "https://modrinth.com/mod/create-transmission!"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/QFCkBuIh/versions/mLEu54kE/createtransmission-1.2.1%2Bneoforge-create6-1.21.1.jar"

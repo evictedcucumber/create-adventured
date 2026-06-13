@@ -4,6 +4,7 @@ version = "1.21.1-4.22.12+neoforge"
 page-url = "https://modrinth.com/mod/shoulder-surfing-reloaded"
 category = "mods"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/kepjj2sy/versions/hIHjK7MW/ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar"

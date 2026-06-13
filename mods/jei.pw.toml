@@ -4,6 +4,7 @@ version = "19.27.0.340"
 page-url = "https://modrinth.com/mod/jei"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar"

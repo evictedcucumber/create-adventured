@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/handcrafted"
 category = "mods"
 side = "both"
 dependencies = ["mods/resourceful-lib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar"

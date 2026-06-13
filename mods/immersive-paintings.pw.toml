@@ -1,10 +1,11 @@
 name = "Immersive Paintings"
 filename = "immersive_paintings-neoforge-1.21.1-0.7.8.jar"
-version = "0.7.7+1.21.1"
+version = "0.7.8+1.21.1"
 page-url = "https://modrinth.com/mod/immersive-paintings"
 category = "mods"
 side = "both"
 dependencies = ["mods/fzzy-config.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar"

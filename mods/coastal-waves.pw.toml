@@ -4,6 +4,7 @@ version = "1.6"
 page-url = "https://modrinth.com/mod/coastal-waves"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/2ygdYUcf/versions/U5Cx2fXK/Waves-1.21.x-1.6.jar"

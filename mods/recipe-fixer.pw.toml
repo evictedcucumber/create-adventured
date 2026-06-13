@@ -4,6 +4,7 @@ version = "1.0.0"
 page-url = "https://modrinth.com/mod/recipe-fixer"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Nmc13D4j/versions/k8q5lCJD/recipefixer-1.0.0.jar"

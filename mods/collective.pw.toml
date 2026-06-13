@@ -1,9 +1,10 @@
 name = "Collective"
 filename = "collective-1.21.1-8.25.jar"
-version = "1.21.1-8.22-fabric+forge+neo"
+version = "1.21.1-8.25-fabric+forge+neo"
 page-url = "https://modrinth.com/mod/collective"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/IocRsdQH/collective-1.21.1-8.25.jar"

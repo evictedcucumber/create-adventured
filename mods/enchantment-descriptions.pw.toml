@@ -1,10 +1,11 @@
 name = "Enchantment Descriptions"
 filename = "enchdesc-neoforge-1.21.1-21.1.10.jar"
-version = "21.1.9"
+version = "21.1.10"
 page-url = "https://modrinth.com/mod/enchantment-descriptions"
 category = "mods"
 side = "client"
 dependencies = ["mods/bookshelf-lib.pw.toml", "mods/prickle.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/OuJDPGSM/enchdesc-neoforge-1.21.1-21.1.10.jar"

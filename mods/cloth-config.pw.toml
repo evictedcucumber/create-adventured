@@ -4,6 +4,7 @@ version = "15.0.140+neoforge"
 page-url = "https://modrinth.com/mod/cloth-config"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"

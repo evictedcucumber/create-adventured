@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/resourcepack/fa-player-extension"
 category = "resourcepacks"
 side = "client"
 dependencies = ["mods/entity-model-features.pw.toml", "mods/entitytexturefeatures.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/TAIMVZCL/versions/io7wLL8n/FA%2BPlayer-v1.0.zip"

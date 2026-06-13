@@ -4,6 +4,7 @@ version = "87.0.0"
 page-url = "https://modrinth.com/mod/yeetus-experimentus"
 category = "mods"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/HaaH232J/versions/Pp0TjcvD/yeetusexperimentus-neoforge-87.0.0.jar"

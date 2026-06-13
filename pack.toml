@@ -4,11 +4,12 @@ version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 loader = "modrinth"
 modlist = true
+release-channel = "release"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dfbb42253e7814c6af82a33b057bdad9d655263e2d0be20e3a5dc5cbff6151e4"
+hash = "0119572698731a6df63e23b49fa333267cbc9068364282df37c5f4dd060f9c55"
 
 [versions]
 minecraft = "1.21.1"

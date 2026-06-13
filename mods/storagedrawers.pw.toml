@@ -4,6 +4,7 @@ version = "1.21.1-13.11.4"
 page-url = "https://modrinth.com/mod/storagedrawers"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/guitPqEi/versions/px0CCB06/StorageDrawers-neoforge-1.21.1-13.11.4.jar"

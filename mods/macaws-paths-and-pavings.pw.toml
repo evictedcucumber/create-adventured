@@ -4,6 +4,7 @@ version = "1.1.1"
 page-url = "https://modrinth.com/mod/macaws-paths-and-pavings"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/VRLhWB91/versions/tlymsxUG/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar"

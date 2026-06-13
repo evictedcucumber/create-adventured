@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/blocks-bogies"
 category = "mods"
 side = "both"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/j4ARnQwY/versions/rUu97B0K/create_bb-1.0.7-1.21.1-Neoforge.jar"

@@ -4,6 +4,7 @@ version = "1.2"
 page-url = "https://modrinth.com/resourcepack/create-sophisticated-backpacks"
 category = "resourcepacks"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/srJbhHkf/versions/3WMwR0Mh/CreateSophBackpacks.zip"

@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/resourcepack/fusion-connected-glass"
 category = "resourcepacks"
 side = "client"
 dependencies = ["mods/fusion-connected-textures.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"

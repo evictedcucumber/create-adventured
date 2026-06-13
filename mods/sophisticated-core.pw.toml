@@ -1,9 +1,10 @@
 name = "Sophisticated Core"
 filename = "sophisticatedcore-1.21.1-1.4.54.2004.jar"
-version = "1.21.1-1.4.42.1892"
+version = "1.21.1-1.4.54.2004"
 page-url = "https://modrinth.com/mod/sophisticated-core"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/nmoqTijg/versions/B3nB7doK/sophisticatedcore-1.21.1-1.4.54.2004.jar"

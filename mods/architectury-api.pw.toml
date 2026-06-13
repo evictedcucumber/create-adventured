@@ -4,6 +4,7 @@ version = "13.0.8+neoforge"
 page-url = "https://modrinth.com/mod/architectury-api"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"

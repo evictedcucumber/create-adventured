@@ -1,9 +1,10 @@
 name = "Open Parties and Claims"
 filename = "open-parties-and-claims-neoforge-1.21.1-0.27.5.jar"
-version = "neoforge-1.21.1-0.26.2"
+version = "neoforge-1.21.1-0.27.5"
 page-url = "https://modrinth.com/mod/open-parties-and-claims"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/N11y4hWk/open-parties-and-claims-neoforge-1.21.1-0.27.5.jar"

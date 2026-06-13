@@ -4,6 +4,7 @@ version = "1.1-40"
 page-url = "https://modrinth.com/mod/zeta"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/MVARlG2f/versions/9GjNW2Gf/Zeta-1.1-40.jar"

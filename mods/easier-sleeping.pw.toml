@@ -4,6 +4,7 @@ version = "1.21.1-4.0.1"
 page-url = "https://modrinth.com/mod/easier-sleeping"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/yTTpfxdS/versions/BpPkQf9O/EasierSleeping-1.21.1-4.0.1.jar"

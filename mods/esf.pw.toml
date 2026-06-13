@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/esf"
 category = "mods"
 side = "client"
 dependencies = ["mods/entity-model-features.pw.toml", "mods/entitytexturefeatures.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/IMuO8COj/versions/VjAma84k/entity_sound_features-0.8.1-1.21-neoforge.jar"

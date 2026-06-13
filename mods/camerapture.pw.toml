@@ -4,6 +4,7 @@ version = "1.10.12+mc1.21.1-neoforge"
 page-url = "https://modrinth.com/mod/camerapture"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/bCB7PwmA/Camerapture-1.10.12%2Bmc1.21.1-neoforge.jar"

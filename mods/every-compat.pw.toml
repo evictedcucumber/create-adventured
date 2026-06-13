@@ -1,10 +1,11 @@
 name = "Every Compat (Wood Good)"
 filename = "everycomp-1.21-2.11.44-neoforge.jar"
-version = "1.21-2.11.43-neoforge"
+version = "1.21-2.11.44-neoforge"
 page-url = "https://modrinth.com/mod/every-compat"
 category = "mods"
 side = "both"
 dependencies = ["mods/moonlight.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/eiktJyw1/versions/Poj6Ne1U/everycomp-1.21-2.11.44-neoforge.jar"

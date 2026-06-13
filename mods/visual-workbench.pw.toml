@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/visual-workbench"
 category = "mods"
 side = "both"
 dependencies = ["mods/puzzles-lib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/Jy5V5FNj/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar"

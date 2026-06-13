@@ -4,6 +4,7 @@ version = "1.21.1-1.11.37.120"
 page-url = "https://modrinth.com/mod/lootr"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/EltpO5cN/versions/C2tLycH2/lootr-neoforge-1.21.1-1.11.37.120.jar"

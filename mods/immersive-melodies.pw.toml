@@ -4,6 +4,7 @@ version = "0.6.4+1.21.1"
 page-url = "https://modrinth.com/mod/immersive-melodies"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar"

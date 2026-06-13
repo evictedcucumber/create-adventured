@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/create-stam1o-tweaks"
 category = "mods"
 side = "server"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/46RgF8H2/versions/QxBHdxaK/Stam1oCreateTweaks-1.0.8%2B1.21.1-Neo.jar"

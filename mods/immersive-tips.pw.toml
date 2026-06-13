@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/immersive-tips"
 category = "mods"
 side = "client"
 dependencies = ["mods/txnilib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/FyiLzCSu/versions/ete9BBbP/immersivetips-neoforge-1.0.2-1.21.1.jar"

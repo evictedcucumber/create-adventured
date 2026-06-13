@@ -4,6 +4,7 @@ version = "1.13"
 page-url = "https://modrinth.com/mod/dusty-decorations"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/vAhGaZOr/DustyDecorations_1.21.1Neoforge_V1.13.jar"

@@ -4,6 +4,7 @@ version = "176.49.48"
 page-url = "https://modrinth.com/mod/create-structures-arise"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/9enMEvoc/versions/ZFrDlvkl/create_structures_arise-176.49.48%20NeoForge%201.21.1.jar"

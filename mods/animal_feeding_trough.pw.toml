@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/animal_feeding_trough"
 category = "mods"
 side = "both"
 dependencies = ["mods/architectury-api.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/bRFWnJ87/versions/9u4bmtUp/animal_feeding_trough-1.1.2%2B1.21-neoforge.jar"

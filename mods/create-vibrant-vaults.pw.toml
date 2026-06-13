@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/create-vibrant-vaults"
 category = "mods"
 side = "both"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar"

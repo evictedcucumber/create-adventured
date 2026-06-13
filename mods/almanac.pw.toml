@@ -4,6 +4,7 @@ version = "1.5.2"
 page-url = "https://modrinth.com/mod/almanac"
 category = "mods"
 side = "server"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Gi02250Z/versions/cHGan9fQ/Almanac-1.21.1-2-neoforge-1.5.2.jar"

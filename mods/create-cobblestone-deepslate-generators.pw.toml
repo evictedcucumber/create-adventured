@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/create-cobblestone-deepslate-generators"
 category = "mods"
 side = "both"
 dependencies = ["mods/create-cobblestone.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/F2XXc3ws/versions/GBDR4YSy/create-cobblestone-deepslate-generators-1.4.6-neoforge%2B1.21.1.jar"

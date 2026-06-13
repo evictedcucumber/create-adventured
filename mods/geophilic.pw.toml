@@ -4,6 +4,7 @@ version = "3.5"
 page-url = "https://modrinth.com/mod/geophilic"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/hl5OLM95/versions/3pbmqlYX/Geophilic%20v3.5.mod.jar"

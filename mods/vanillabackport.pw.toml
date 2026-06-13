@@ -1,10 +1,11 @@
 name = "Vanilla Backport"
 filename = "VanillaBackport-neoforge-1.21.1-1.1.7.10.jar"
-version = "1.1.7.6"
+version = "1.1.7.10"
 page-url = "https://modrinth.com/mod/vanillabackport"
 category = "mods"
 side = "both"
 dependencies = ["mods/platform.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/rUSWdBok/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar"

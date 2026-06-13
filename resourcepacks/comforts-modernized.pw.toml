@@ -4,6 +4,7 @@ version = "1.1"
 page-url = "https://modrinth.com/resourcepack/comforts-modernized"
 category = "resourcepacks"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/BJoffwm5/versions/uFrHNRj0/Comforts%20Modernized%20-%20V1.1.zip"

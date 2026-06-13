@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/sodiumleafculling"
 category = "mods"
 side = "client"
 dependencies = ["mods/sodium.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/M25bkObt/versions/aatWXjek/sodiumleafculling-neoforge-1.0.1-1.21.1.jar"

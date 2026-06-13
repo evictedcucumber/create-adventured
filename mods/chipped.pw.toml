@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/chipped"
 category = "mods"
 side = "both"
 dependencies = ["mods/athena-ctm.pw.toml", "mods/resourceful-lib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar"

@@ -1,10 +1,11 @@
 name = "Inventory Particles"
 filename = "InventoryParticles-2.4.0+1.21.1+neoforge.jar"
-version = "2.2.0+1.21.1+neoforge"
+version = "2.4.0+1.21.1+neoforge"
 page-url = "https://modrinth.com/mod/inventory-particles"
 category = "mods"
 side = "client"
 dependencies = ["mods/mossylib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/oS6hyiwc/InventoryParticles-2.4.0%2B1.21.1%2Bneoforge.jar"

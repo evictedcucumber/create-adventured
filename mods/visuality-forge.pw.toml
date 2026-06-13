@@ -4,6 +4,7 @@ version = "2.1.0"
 page-url = "https://modrinth.com/mod/visuality-forge"
 category = "mods"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/z13R7Et1/versions/ZBidwV02/visuality-forge-2.1.0.jar"

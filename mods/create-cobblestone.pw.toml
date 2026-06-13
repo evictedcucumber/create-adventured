@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/create-cobblestone"
 category = "mods"
 side = "both"
 dependencies = ["mods/architectury-api.pw.toml", "mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/ihpnEd80/versions/gdhN6Pg2/createcobblestone-1.4.10%2Bneoforge-1.21.1-139.jar"

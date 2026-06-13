@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/bellsandwhistles"
 category = "mods"
 side = "both"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar"

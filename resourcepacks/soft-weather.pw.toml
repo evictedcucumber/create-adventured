@@ -4,6 +4,7 @@ version = "1.0"
 page-url = "https://modrinth.com/resourcepack/soft-weather"
 category = "resourcepacks"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/BBINRWgi/versions/iAb7bpl5/Soft-Weather-1.0-Universal.zip"

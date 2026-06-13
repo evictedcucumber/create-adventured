@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/create-jetpack"
 category = "mods"
 side = "both"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar"

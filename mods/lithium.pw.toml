@@ -4,6 +4,7 @@ version = "mc1.21.1-0.15.3-neoforge"
 page-url = "https://modrinth.com/mod/lithium"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar"

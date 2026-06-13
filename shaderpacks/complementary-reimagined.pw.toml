@@ -3,6 +3,7 @@ filename = "ComplementaryReimagined_r5.8.1.zip"
 version = "r5.8.1"
 page-url = "https://modrinth.com/shader/complementary-reimagined"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/yCCduG44/ComplementaryReimagined_r5.8.1.zip"

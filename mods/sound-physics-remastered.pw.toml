@@ -4,6 +4,7 @@ version = "neoforge-1.21.1-1.5.1"
 page-url = "https://modrinth.com/mod/sound-physics-remastered"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"

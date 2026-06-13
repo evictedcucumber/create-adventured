@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/entity-model-features"
 category = "mods"
 side = "client"
 dependencies = ["mods/entitytexturefeatures.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/PAYgk63v/entity_model_features-3.2.4-1.21-neoforge.jar"

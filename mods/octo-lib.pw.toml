@@ -1,9 +1,10 @@
 name = "ShatterLib | OctoLib"
 filename = "OctoLib-NEOFORGE-0.6.2+1.21.jar"
 version = "0.6.2"
-page-url = "https://modrinth.com/mod/octo-lib"
+page-url = "https://modrinth.com/mod/shatterbyte-lib"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"

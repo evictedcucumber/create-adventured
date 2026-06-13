@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/combat-roll"
 category = "mods"
 side = "both"
 dependencies = ["mods/cloth-config.pw.toml", "mods/playeranimator.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/wGKYL7st/versions/FT7t1n1a/combat_roll-neoforge-2.0.6%2B1.21.1.jar"

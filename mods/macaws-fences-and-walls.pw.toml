@@ -4,6 +4,7 @@ version = "1.2.1"
 page-url = "https://modrinth.com/mod/macaws-fences-and-walls"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"

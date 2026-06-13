@@ -4,6 +4,7 @@ version = "3.5.1"
 page-url = "https://modrinth.com/mod/configurable"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/WYcVbsBw/configurable-3.5.1%2B1.21.1-neoforge.jar"

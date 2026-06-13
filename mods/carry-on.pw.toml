@@ -4,6 +4,7 @@ version = "2.2.4"
 page-url = "https://modrinth.com/mod/carry-on"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar"

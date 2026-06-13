@@ -4,6 +4,7 @@ version = "2.13.41"
 page-url = "https://modrinth.com/mod/creativecore"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/nLLornod/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"

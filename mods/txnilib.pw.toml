@@ -4,6 +4,7 @@ version = "neoforge-1.21.1-1.0.24"
 page-url = "https://modrinth.com/mod/txnilib"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar"

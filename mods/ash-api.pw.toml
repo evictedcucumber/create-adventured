@@ -4,6 +4,7 @@ version = "21.1.1-neoforge"
 page-url = "https://modrinth.com/mod/ash-api"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/3VLPjt5Q/ash_api-neoforge-21.1.1.jar"

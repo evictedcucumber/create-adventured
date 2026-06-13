@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/yungs-better-end-island"
 category = "mods"
 side = "server"
 dependencies = ["mods/yungs-api.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/I52NZ1qK/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"

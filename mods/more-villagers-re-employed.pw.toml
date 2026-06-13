@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/more-villagers-re-employed"
 category = "mods"
 side = "both"
 dependencies = ["mods/villagerapi.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/1fOqTPRO/versions/nDquoRbd/MoreVillagers-Re-1.21.1-neoforge-1.25.12.4.jar"

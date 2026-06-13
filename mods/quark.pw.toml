@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/quark"
 category = "mods"
 side = "both"
 dependencies = ["mods/zeta.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/hMLnxKZx/Quark-4.1-480.jar"

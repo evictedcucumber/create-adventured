@@ -4,6 +4,7 @@ version = "0.2.1"
 page-url = "https://modrinth.com/mod/perception"
 category = "mods"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/P8STLvzB/versions/W5IQteYO/Perception-NEOFORGE-0.2.1%2B1.21.1.jar"

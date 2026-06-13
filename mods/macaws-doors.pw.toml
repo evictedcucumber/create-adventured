@@ -4,6 +4,7 @@ version = "1.1.5"
 page-url = "https://modrinth.com/mod/macaws-doors"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar"

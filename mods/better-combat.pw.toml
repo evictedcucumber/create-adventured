@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/better-combat"
 category = "mods"
 side = "both"
 dependencies = ["mods/cloth-config.pw.toml", "mods/playeranimator.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/2NyTus6V/bettercombat-neoforge-2.3.2%2B1.21.1.jar"

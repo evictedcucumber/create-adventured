@@ -4,6 +4,7 @@ version = "0.19.3"
 page-url = "https://modrinth.com/mod/treechop"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/iLXWmfax/TreeChop-1.21.1-neoforge-0.19.3.jar"

@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/xaero-train-map"
 category = "mods"
 side = "client"
 dependencies = ["mods/create.pw.toml", "mods/xaeros-world-map.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ov2r3aVY/versions/mgDpAA4x/xaerotrainmap-1.0.0.jar"

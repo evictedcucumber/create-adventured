@@ -4,6 +4,7 @@ version = "21.0.58+neoforge-1.21.1"
 page-url = "https://modrinth.com/mod/balm"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/3XiinKbh/balm-neoforge-1.21.1-21.0.58.jar"

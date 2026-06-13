@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/universal-sawmill"
 category = "mods"
 side = "both"
 dependencies = ["mods/moonlight.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/J9bHjnTh/sawmill-1.21-1.7.2-neoforge.jar"

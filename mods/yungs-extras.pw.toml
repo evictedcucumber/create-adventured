@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/yungs-extras"
 category = "mods"
 side = "server"
 dependencies = ["mods/yungs-api.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/N2EpMhR7/YungsExtras-1.21.1-NeoForge-5.1.1.jar"

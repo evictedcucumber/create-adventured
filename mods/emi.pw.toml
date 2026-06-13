@@ -4,6 +4,7 @@ version = "1.1.24+1.21.1+neoforge"
 page-url = "https://modrinth.com/mod/emi"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar"

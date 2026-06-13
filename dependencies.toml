@@ -226,18 +226,6 @@ file = "mods/corpse-x-curios-api-compat.pw.toml"
 name = "BaguetteLib"
 file = "mods/baguettelib.pw.toml"
 
-[[mods.dependencies]]
-name = "Corpse"
-file = "mods/corpse.pw.toml"
-
-[[mods.dependencies]]
-name = "Curios API"
-file = "mods/curios.pw.toml"
-
-[[mods]]
-name = "Crash Assistant"
-file = "mods/crash-assistant.pw.toml"
-
 [[mods]]
 name = "Create"
 file = "mods/create.pw.toml"
@@ -430,14 +418,6 @@ file = "mods/curios.pw.toml"
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
 
-[[mods.dependencies.dependencies.dependencies]]
-name = "Curios API"
-file = "mods/curios.pw.toml"
-
-[[mods.dependencies.dependencies.dependencies]]
-name = "ShatterLib | OctoLib"
-file = "mods/octo-lib.pw.toml"
-
 [[mods.dependencies]]
 name = "Curios API"
 file = "mods/curios.pw.toml"
@@ -449,14 +429,6 @@ file = "mods/octo-lib.pw.toml"
 [[mods.dependencies]]
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
-
-[[mods.dependencies.dependencies]]
-name = "Curios API"
-file = "mods/curios.pw.toml"
-
-[[mods.dependencies.dependencies]]
-name = "ShatterLib | OctoLib"
-file = "mods/octo-lib.pw.toml"
 
 [[mods]]
 name = "Create: Rustic Structures"
@@ -701,18 +673,6 @@ file = "mods/every-compat.pw.toml"
 [[mods.dependencies]]
 name = "Moonlight Lib"
 file = "mods/moonlight.pw.toml"
-
-[[mods]]
-name = "FancyMenu"
-file = "mods/fancymenu.pw.toml"
-
-[[mods.dependencies]]
-name = "Konkrete"
-file = "mods/konkrete.pw.toml"
-
-[[mods.dependencies]]
-name = "Melody"
-file = "mods/melody.pw.toml"
 
 [[mods]]
 name = "Farmer's Cutting: Quark"
@@ -1170,14 +1130,6 @@ file = "mods/lithostitched.pw.toml"
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
 
-[[mods.dependencies]]
-name = "Curios API"
-file = "mods/curios.pw.toml"
-
-[[mods.dependencies]]
-name = "ShatterLib | OctoLib"
-file = "mods/octo-lib.pw.toml"
-
 [[mods]]
 name = "Reliquified Artifacts"
 file = "mods/reliquified-artifacts.pw.toml"
@@ -1189,14 +1141,6 @@ file = "mods/artifacts.pw.toml"
 [[mods.dependencies]]
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
-
-[[mods.dependencies.dependencies]]
-name = "Curios API"
-file = "mods/curios.pw.toml"
-
-[[mods.dependencies.dependencies]]
-name = "ShatterLib | OctoLib"
-file = "mods/octo-lib.pw.toml"
 
 [[mods]]
 name = "Repurposed Structures - Farmer's Delight Compat"
@@ -1481,14 +1425,6 @@ file = "mods/puzzles-lib.pw.toml"
 [[mods]]
 name = "Visuality: Reforged"
 file = "mods/visuality-forge.pw.toml"
-
-[[mods]]
-name = "What Are They Up To (Watut)"
-file = "mods/what-are-they-up-to.pw.toml"
-
-[[mods.dependencies]]
-name = "CoroUtil"
-file = "mods/coroutil.pw.toml"
 
 [[mods]]
 name = "Xaero Train Map"

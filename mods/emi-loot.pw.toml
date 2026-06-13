@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/emi-loot"
 category = "mods"
 side = "both"
 dependencies = ["mods/emi.pw.toml", "mods/fzzy-config.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/QXkODMCT/emi_loot-0.7.9%2B1.21%2Bneoforge.jar"

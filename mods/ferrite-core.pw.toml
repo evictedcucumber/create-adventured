@@ -4,6 +4,7 @@ version = "7.0.3-neoforge"
 page-url = "https://modrinth.com/mod/ferrite-core"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"

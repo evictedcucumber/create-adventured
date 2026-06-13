@@ -4,6 +4,7 @@ version = "1.12.3"
 page-url = "https://modrinth.com/mod/not-enough-animations"
 category = "mods"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/ZNs9eukY/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar"

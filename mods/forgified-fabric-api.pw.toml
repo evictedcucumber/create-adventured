@@ -4,6 +4,7 @@ version = "0.116.7+2.2.4+1.21.1"
 page-url = "https://modrinth.com/mod/forgified-fabric-api"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/7nHK7hMg/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar"

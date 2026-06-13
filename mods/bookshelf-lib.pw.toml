@@ -4,6 +4,7 @@ version = "21.1.81"
 page-url = "https://modrinth.com/mod/bookshelf-lib"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar"

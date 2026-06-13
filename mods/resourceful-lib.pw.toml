@@ -4,6 +4,7 @@ version = "3.0.12"
 page-url = "https://modrinth.com/mod/resourceful-lib"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar"

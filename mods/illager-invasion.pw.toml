@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/illager-invasion"
 category = "mods"
 side = "both"
 dependencies = ["mods/puzzles-lib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/jSV9w0J5/versions/9bEpNrvK/IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"

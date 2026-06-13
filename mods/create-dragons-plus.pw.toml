@@ -1,10 +1,11 @@
 name = "Create: Dragons Plus"
 filename = "CreateDragonsPlus-1.11.2b.jar"
-version = "1.11.1b"
+version = "1.11.2b"
 page-url = "https://modrinth.com/mod/create-dragons-plus"
 category = "mods"
 side = "both"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/lSnZyFnZ/CreateDragonsPlus-1.11.2b.jar"

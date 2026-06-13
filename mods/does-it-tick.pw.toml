@@ -5,6 +5,7 @@ page-url = "https://modrinth.com/mod/does-it-tick"
 category = "mods"
 side = "server"
 dependencies = ["mods/chunk-activity-tracker.pw.toml", "mods/txnilib.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/vmg6jaPW/versions/LxZKFbNR/does_it_tick-neoforge-1.1.4-1.21.1.jar"

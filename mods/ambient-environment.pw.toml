@@ -4,6 +4,7 @@ version = "18.0.0.2"
 page-url = "https://modrinth.com/mod/ambient-environment"
 category = "mods"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/N7jam3SN/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar"

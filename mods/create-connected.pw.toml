@@ -1,10 +1,11 @@
 name = "Create: Connected"
 filename = "create_connected-1.2.2-mc1.21.1.jar"
-version = "1.2.0-mc1.21.1"
+version = "1.2.2-mc1.21.1"
 page-url = "https://modrinth.com/mod/create-connected"
 category = "mods"
 side = "both"
 dependencies = ["mods/create.pw.toml"]
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/iUFG9osW/create_connected-1.2.2-mc1.21.1.jar"

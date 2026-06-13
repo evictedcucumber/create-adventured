@@ -3,6 +3,7 @@ filename = "MandalasGUI_AddOn+DarkModded_V5.0.zip"
 version = "5.0"
 page-url = "https://modrinth.com/resourcepack/mandalas-gui-add-ons"
 side = "client"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/9pOcPPyd/versions/JDVEpE0I/MandalasGUI_AddOn%2BDarkModded_V5.0.zip"

@@ -4,6 +4,7 @@ version = "2.3.2"
 page-url = "https://modrinth.com/mod/macaws-roofs"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar"

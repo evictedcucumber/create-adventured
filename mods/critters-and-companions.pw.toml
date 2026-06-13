@@ -4,6 +4,7 @@ version = "1.21.1-2.3.4"
 page-url = "https://modrinth.com/mod/critters-and-companions"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/a8zCwdaO/crittersandcompanions-neoforge-1.21.1-2.3.4.jar"

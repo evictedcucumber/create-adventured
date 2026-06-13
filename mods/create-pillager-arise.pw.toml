@@ -4,6 +4,7 @@ version = "132.32"
 page-url = "https://modrinth.com/mod/create-pillager-arise"
 category = "mods"
 side = "both"
+update-channel = "project"
 
 [download]
 url = "https://cdn.modrinth.com/data/VT2rW2wr/versions/PXXtJByp/create_pillagers_arise-132.32%20Release-neoforge-1.21.1.jar"

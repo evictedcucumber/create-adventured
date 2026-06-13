@@ -21,25 +21,41 @@
 
         config.allowUnfree = true;
       };
+      packwiz-pkg = packwiz.packages.${system}.default;
     in {
       devShells.default = pkgs.mkShell {
         name = "create-adventured";
         packages = [
-          packwiz.packages.${system}.default
+          packwiz-pkg
           pkgs.lefthook
           (pkgs.writeShellScriptBin "ca-add" ''
-            packwiz mr add "$@"
+            ''$PACKWIZ_BIN mr add "$@"
           '')
           (pkgs.writeShellScriptBin "ca-refresh" ''
-            packwiz refresh
+            ''$PACKWIZ_BIN refresh
           '')
           (pkgs.writeShellScriptBin "ca-export" ''
-            packwiz mr export
+            ''$PACKWIZ_BIN mr export
+          '')
+          (pkgs.writeShellScriptBin "ca-validate" ''
+            ''$PACKWIZ_BIN validate
+          '')
+          (pkgs.writeShellScriptBin "ca-fix" ''
+            ''$PACKWIZ_BIN fix
           '')
           (pkgs.writeShellScriptBin "ca-update-all" ''
-            packwiz update --all
+            ''$PACKWIZ_BIN update --all
+          '')
+          (pkgs.writeShellScriptBin "ca-modlist" ''
+            ''$PACKWIZ_BIN modlist generate
+          '')
+          (pkgs.writeShellScriptBin "ca-deps" ''
+            ''$PACKWIZ_BIN dependencies fix
           '')
         ];
+
+        PACKWIZ_BIN = "${packwiz-pkg}/bin/packwiz";
+        # PACKWIZ_BIN = "../packwiz/packwiz";
       };
     });
 }
