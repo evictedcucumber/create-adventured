@@ -1,0 +1,19 @@
+name = "Soft Weather"
+filename = "Soft-Weather-1.0-Universal.zip"
+version = "1.0"
+page-url = "https://modrinth.com/resourcepack/soft-weather"
+category = "resourcepacks"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BBINRWgi/versions/iAb7bpl5/Soft-Weather-1.0-Universal.zip"
+hash-format = "sha512"
+hash = "d0fc4e1def1b44669df6e8e30e9a43b6eb1bbf8625166e0fa504f2b473c3d766e7a5280ec198268cfed7851d62b7ae5d67d925e944d3c54d296c7d684f4d02fb"
+
+[update]
+[update.modrinth]
+mod-id = "BBINRWgi"
+version = "iAb7bpl5"
+
+[option]
+dependency = false

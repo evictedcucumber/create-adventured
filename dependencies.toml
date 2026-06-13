@@ -187,6 +187,10 @@ name = "Concurrent Chunk Management Engine (NeoForge)"
 file = "mods/c2me-neoforge.pw.toml"
 
 [[mods]]
+name = "Configured Defaults"
+file = "mods/configured-defaults.pw.toml"
+
+[[mods]]
 name = "Continuity"
 file = "mods/continuity.pw.toml"
 
@@ -387,6 +391,10 @@ name = "Create"
 file = "mods/create.pw.toml"
 
 [[mods]]
+name = "Create: Pillager Arise"
+file = "mods/create-pillager-arise.pw.toml"
+
+[[mods]]
 name = "Create: Power Loader"
 file = "mods/create-power-loader.pw.toml"
 
@@ -481,6 +489,10 @@ file = "mods/create-vibrant-vaults.pw.toml"
 [[mods.dependencies]]
 name = "Create"
 file = "mods/create.pw.toml"
+
+[[mods]]
+name = "Critters and Companions"
+file = "mods/critters-and-companions.pw.toml"
 
 [[mods]]
 name = "Curios API"
@@ -631,6 +643,14 @@ name = "Kotlin for Forge"
 file = "mods/kotlin-for-forge.pw.toml"
 
 [[mods]]
+name = "EMI professions (EMIP)"
+file = "mods/emi-professions-(emip).pw.toml"
+
+[[mods.dependencies]]
+name = "EMI"
+file = "mods/emi.pw.toml"
+
+[[mods]]
 name = "EMIffect"
 file = "mods/emiffect.pw.toml"
 
@@ -649,6 +669,10 @@ file = "mods/bookshelf-lib.pw.toml"
 [[mods.dependencies]]
 name = "Prickle"
 file = "mods/prickle.pw.toml"
+
+[[mods]]
+name = "Entity Culling"
+file = "mods/entityculling.pw.toml"
 
 [[mods]]
 name = "Euphoria Patches"
@@ -677,6 +701,18 @@ file = "mods/every-compat.pw.toml"
 [[mods.dependencies]]
 name = "Moonlight Lib"
 file = "mods/moonlight.pw.toml"
+
+[[mods]]
+name = "FancyMenu"
+file = "mods/fancymenu.pw.toml"
+
+[[mods.dependencies]]
+name = "Konkrete"
+file = "mods/konkrete.pw.toml"
+
+[[mods.dependencies]]
+name = "Melody"
+file = "mods/melody.pw.toml"
 
 [[mods]]
 name = "Farmer's Cutting: Quark"
@@ -715,6 +751,22 @@ name = "Farmer's Delight"
 file = "mods/farmers-delight.pw.toml"
 
 [[mods]]
+name = "Fast Item Frames"
+file = "mods/fast-item-frames.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "Fast Paintings"
+file = "mods/fast-paintings.pw.toml"
+
+[[mods.dependencies]]
+name = "Moonlight Lib"
+file = "mods/moonlight.pw.toml"
+
+[[mods]]
 name = "FerriteCore"
 file = "mods/ferrite-core.pw.toml"
 
@@ -739,6 +791,26 @@ name = "HT's TreeChop"
 file = "mods/treechop.pw.toml"
 
 [[mods]]
+name = "Illager Invasion"
+file = "mods/illager-invasion.pw.toml"
+
+[[mods.dependencies]]
+name = "Puzzles Lib"
+file = "mods/puzzles-lib.pw.toml"
+
+[[mods]]
+name = "ImmediatelyFast"
+file = "mods/immediatelyfast.pw.toml"
+
+[[mods]]
+name = "Immersive Armor HUD"
+file = "mods/immersive-armor-hud.pw.toml"
+
+[[mods.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods]]
 name = "Immersive Armors"
 file = "mods/immersive-armors.pw.toml"
 
@@ -757,6 +829,22 @@ file = "mods/fzzy-config.pw.toml"
 [[mods.dependencies.dependencies]]
 name = "Kotlin for Forge"
 file = "mods/kotlin-for-forge.pw.toml"
+
+[[mods]]
+name = "Immersive Tips"
+file = "mods/immersive-tips.pw.toml"
+
+[[mods.dependencies]]
+name = "TxniLib"
+file = "mods/txnilib.pw.toml"
+
+[[mods]]
+name = "Immersive UI"
+file = "mods/immersive-ui.pw.toml"
+
+[[mods.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
 
 [[mods]]
 name = "Inventory Essentials"
@@ -939,8 +1027,24 @@ name = "Measurements"
 file = "mods/measurements.pw.toml"
 
 [[mods]]
+name = "MixinTrace Reforged"
+file = "mods/mixintrace-reforged.pw.toml"
+
+[[mods]]
 name = "ModernFix"
 file = "mods/modernfix.pw.toml"
+
+[[mods]]
+name = "More Relics"
+file = "mods/more-relics.pw.toml"
+
+[[mods]]
+name = "More Villagers: Re-employed"
+file = "mods/more-villagers-re-employed.pw.toml"
+
+[[mods.dependencies]]
+name = "Villager API"
+file = "mods/villagerapi.pw.toml"
 
 [[mods]]
 name = "Mouse Tweaks"
@@ -1021,6 +1125,10 @@ file = "mods/random-enchant-fix.pw.toml"
 [[mods.dependencies]]
 name = "TxniLib"
 file = "mods/txnilib.pw.toml"
+
+[[mods]]
+name = "Recipe Fixer"
+file = "mods/recipe-fixer.pw.toml"
 
 [[mods]]
 name = "Reconnectible Chains"
@@ -1143,6 +1251,10 @@ name = "GlitchCore"
 file = "mods/glitchcore.pw.toml"
 
 [[mods]]
+name = "Shoulder Surfing Reloaded"
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+
+[[mods]]
 name = "Shuffle"
 file = "mods/shuffle.pw.toml"
 
@@ -1153,6 +1265,26 @@ file = "mods/ash-api.pw.toml"
 [[mods]]
 name = "Simple Voice Chat"
 file = "mods/simple-voice-chat.pw.toml"
+
+[[mods]]
+name = "Simply Swords"
+file = "mods/simply-swords.pw.toml"
+
+[[mods.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
+
+[[mods.dependencies]]
+name = "Fzzy Config"
+file = "mods/fzzy-config.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Kotlin for Forge"
+file = "mods/kotlin-for-forge.pw.toml"
+
+[[mods.dependencies]]
+name = "Simply Tooltips"
+file = "mods/simply-tooltips.pw.toml"
 
 [[mods]]
 name = "Simply Tooltips"
@@ -1189,6 +1321,14 @@ file = "mods/sodium-options-api.pw.toml"
 [[mods.dependencies.dependencies]]
 name = "Sodium"
 file = "mods/sodium.pw.toml"
+
+[[mods.dependencies]]
+name = "Sodium"
+file = "mods/sodium.pw.toml"
+
+[[mods]]
+name = "Sodium Leaf Culling"
+file = "mods/sodiumleafculling.pw.toml"
 
 [[mods.dependencies]]
 name = "Sodium"
@@ -1237,6 +1377,14 @@ file = "mods/sophisticated-core.pw.toml"
 [[mods]]
 name = "Sound Physics Remastered"
 file = "mods/sound-physics-remastered.pw.toml"
+
+[[mods]]
+name = "Steam 'n' Rails Neoforge"
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+
+[[mods.dependencies]]
+name = "Create"
+file = "mods/create.pw.toml"
 
 [[mods]]
 name = "Storage Drawers"
@@ -1307,6 +1455,22 @@ name = "Platform"
 file = "mods/platform.pw.toml"
 
 [[mods]]
+name = "Villager Names"
+file = "mods/villager-names-serilum.pw.toml"
+
+[[mods.dependencies]]
+name = "Collective"
+file = "mods/collective.pw.toml"
+
+[[mods]]
+name = "Villages&Pillages"
+file = "mods/villages-and-pillages.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
 name = "Visual Workbench"
 file = "mods/visual-workbench.pw.toml"
 
@@ -1350,6 +1514,102 @@ file = "mods/xaeros-world-map.pw.toml"
 name = "Yeetus Experimentus"
 file = "mods/yeetus-experimentus.pw.toml"
 
+[[mods]]
+name = "YUNG's Better Desert Temples"
+file = "mods/yungs-better-desert-temples.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better Dungeons"
+file = "mods/yungs-better-dungeons.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better End Island"
+file = "mods/yungs-better-end-island.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better Jungle Temples"
+file = "mods/yungs-better-jungle-temples.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better Mineshafts"
+file = "mods/yungs-better-mineshafts.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better Nether Fortresses"
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better Ocean Monuments"
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better Strongholds"
+file = "mods/yungs-better-strongholds.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Better Witch Huts"
+file = "mods/yungs-better-witch-huts.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Bridges"
+file = "mods/yungs-bridges.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Extras"
+file = "mods/yungs-extras.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
+[[mods]]
+name = "YUNG's Menu Tweaks"
+file = "mods/yungs-menu-tweaks.pw.toml"
+
+[[mods.dependencies]]
+name = "YUNG's API"
+file = "mods/yungs-api.pw.toml"
+
 [[resourcepacks]]
 name = "(Bee's) Fancy Crops"
 file = "resourcepacks/fancy-crops.pw.toml"
@@ -1389,6 +1649,10 @@ file = "mods/entitytexturefeatures.pw.toml"
 [[resourcepacks.dependencies]]
 name = "[ETF] Entity Texture Features"
 file = "mods/entitytexturefeatures.pw.toml"
+
+[[resourcepacks]]
+name = "Fresh Moves"
+file = "resourcepacks/tras-fresh-player.pw.toml"
 
 [[resourcepacks]]
 name = "Fusion 3D Items"
@@ -1449,6 +1713,10 @@ file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
 [[resourcepacks]]
 name = "Mandala's GUI - Dark mode"
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+
+[[resourcepacks]]
+name = "Soft Weather"
+file = "resourcepacks/soft-weather.pw.toml"
 
 [[shaderpacks]]
 name = "Complementary Shaders - Reimagined"

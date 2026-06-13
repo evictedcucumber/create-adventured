@@ -1,5 +1,5 @@
 name = "Create: Enchantment Industry"
-filename = "create-enchantment-industry-2.4.1.jar"
+filename = "create-enchantment-industry-2.4.2.jar"
 version = "2.4.1"
 page-url = "https://modrinth.com/mod/create-enchantment-industry"
 category = "mods"
@@ -7,14 +7,14 @@ side = "both"
 dependencies = ["mods/create-dragons-plus.pw.toml", "mods/create.pw.toml"]
 
 [download]
-url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/QclZk1u6/create-enchantment-industry-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar"
 hash-format = "sha512"
-hash = "52b4d41157dee2620694db2cf83c0eb6cb80d86d225ac7c924ff6b87cd0ef5a878d9b1c405b41f2d721bc86889af0e1ef9099263f6e53b6d11a86254bf47dd44"
+hash = "16bd3dcd82159d6793bd9cc24dcb911b90e838c67f781581afea8c6af21f53106ac54de7f2dffe1a8576cf8908e68658538a1c76d3c44691109a24bc60460436"
 
 [update]
 [update.modrinth]
 mod-id = "JWGBpFUP"
-version = "QclZk1u6"
+version = "qUpvzZ83"
 
 [option]
 dependency = false
