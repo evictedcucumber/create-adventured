@@ -1,6 +1,6 @@
 name = "Create: Relics plus"
-filename = "createrelicsplus-1.2.0.jar"
-version = "1.2.0"
+filename = "createrelicsplus-1.4.0.jar"
+version = "1.4.0"
 page-url = "https://modrinth.com/mod/create-relics-plus"
 category = "mods"
 side = "both"
@@ -8,14 +8,14 @@ dependencies = ["mods/architectury-api.pw.toml", "mods/create.pw.toml", "mods/cr
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/fBKiTiw3/versions/2X8OPDwj/createrelicsplus-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/fBKiTiw3/versions/sSwTFd25/createrelicsplus-1.4.0.jar"
 hash-format = "sha512"
-hash = "2a9ab0d04bc4f35e3d604117d4e09d8e23a6b79621268b7b96ed470facb1333bf27c8b3d1e37cd79db0a8ba447ad91b7f2fa9c6d732c0d95b9bb8dbf0a730331"
+hash = "877ff21b7233d6e05d1886305d6b05120cf8c6170510ee04dd0303196b8e8e888ecd46f0c21f7f93fa7a5ff85811108fcf05ee81b18dcbcc1acdbc64325c4ebe"
 
 [update]
 [update.modrinth]
 mod-id = "fBKiTiw3"
-version = "2X8OPDwj"
+version = "sSwTFd25"
 
 [option]
 dependency = false

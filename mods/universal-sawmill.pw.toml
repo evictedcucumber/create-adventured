@@ -1,6 +1,6 @@
 name = "Sawmill"
-filename = "sawmill-1.21-1.7.2-neoforge.jar"
-version = "neoforge_1.21-1.7.2"
+filename = "sawmill-neoforge-1.21-1.7.7.jar"
+version = "1.21-1.7.7"
 page-url = "https://modrinth.com/mod/universal-sawmill"
 category = "mods"
 side = "both"
@@ -8,14 +8,14 @@ dependencies = ["mods/moonlight.pw.toml"]
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/J9bHjnTh/sawmill-1.21-1.7.2-neoforge.jar"
+url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/zLlsG94W/sawmill-neoforge-1.21-1.7.7.jar"
 hash-format = "sha512"
-hash = "e3ebcf386ebdcec7c08e3aaf8d68e8b7f395681bb39f1fb9ce7224188e33f3c1116bb96f6f480035ad04d45d51cc85f2f4c729ef8e6b1b783a90c706792f845e"
+hash = "fea3a0fc3bb850733cd0a08db48af4c5114bfa2839c90970fa56c6e1c67f1aa91cba6f64f7dea2be36f285ea10bb6c5bbf25f5e9db2081f3b5862174de2e0c20"
 
 [update]
 [update.modrinth]
 mod-id = "WRaRZdTd"
-version = "J9bHjnTh"
+version = "zLlsG94W"
 
 [option]
 dependency = false

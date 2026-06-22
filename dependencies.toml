@@ -418,6 +418,14 @@ file = "mods/curios.pw.toml"
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
 
+[[mods.dependencies.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
 [[mods.dependencies]]
 name = "Curios API"
 file = "mods/curios.pw.toml"
@@ -429,6 +437,14 @@ file = "mods/octo-lib.pw.toml"
 [[mods.dependencies]]
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
 
 [[mods]]
 name = "Create: Rustic Structures"
@@ -791,14 +807,6 @@ name = "Kotlin for Forge"
 file = "mods/kotlin-for-forge.pw.toml"
 
 [[mods]]
-name = "Immersive Tips"
-file = "mods/immersive-tips.pw.toml"
-
-[[mods.dependencies]]
-name = "TxniLib"
-file = "mods/txnilib.pw.toml"
-
-[[mods]]
 name = "Immersive UI"
 file = "mods/immersive-ui.pw.toml"
 
@@ -1130,6 +1138,14 @@ file = "mods/lithostitched.pw.toml"
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
 
+[[mods.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
 [[mods]]
 name = "Reliquified Artifacts"
 file = "mods/reliquified-artifacts.pw.toml"
@@ -1141,6 +1157,14 @@ file = "mods/artifacts.pw.toml"
 [[mods.dependencies]]
 name = "Relics"
 file = "mods/relics-mod.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
 
 [[mods]]
 name = "Repurposed Structures - Farmer's Delight Compat"
@@ -1338,10 +1362,6 @@ file = "mods/storagedrawers.pw.toml"
 name = "Supplementaries"
 file = "mods/supplementaries.pw.toml"
 
-[[mods.dependencies]]
-name = "Moonlight Lib"
-file = "mods/moonlight.pw.toml"
-
 [[mods]]
 name = "Supplementaries Squared"
 file = "mods/supplementaries-squared.pw.toml"
@@ -1349,6 +1369,10 @@ file = "mods/supplementaries-squared.pw.toml"
 [[mods.dependencies]]
 name = "Moonlight Lib"
 file = "mods/moonlight.pw.toml"
+
+[[mods.dependencies]]
+name = "Supplementaries"
+file = "mods/supplementaries.pw.toml"
 
 [[mods]]
 name = "Tectonic"
@@ -1573,22 +1597,6 @@ file = "resourcepacks/fresh-animations.pw.toml"
 [[resourcepacks]]
 name = "Fresh Animations: Player Extension"
 file = "resourcepacks/fa-player-extension.pw.toml"
-
-[[resourcepacks.dependencies]]
-name = "[EMF] Entity Model Features"
-file = "mods/entity-model-features.pw.toml"
-
-[[resourcepacks.dependencies.dependencies]]
-name = "[ETF] Entity Texture Features"
-file = "mods/entitytexturefeatures.pw.toml"
-
-[[resourcepacks.dependencies]]
-name = "[ETF] Entity Texture Features"
-file = "mods/entitytexturefeatures.pw.toml"
-
-[[resourcepacks]]
-name = "Fresh Moves"
-file = "resourcepacks/tras-fresh-player.pw.toml"
 
 [[resourcepacks]]
 name = "Fusion 3D Items"

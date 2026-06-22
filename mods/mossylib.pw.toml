@@ -1,20 +1,20 @@
 name = "MossyLib"
-filename = "MossyLib-1.4.0+1.21.1+neoforge.jar"
-version = "1.4.0+1.21.1+neoforge"
+filename = "MossyLib-1.5.0+1.21.1+neoforge.jar"
+version = "1.5.0+1.21.1+neoforge"
 page-url = "https://modrinth.com/mod/mossylib"
 category = "mods"
 side = "client"
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/ffLDUGbm/versions/fDm6GVFP/MossyLib-1.4.0%2B1.21.1%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/ffLDUGbm/versions/hCxrHerd/MossyLib-1.5.0%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "ab8dd00ec396bd508051ea62f44170ce23afcae908353b502a56cece6c954a9aa37514bd257113556178b08a2e853c86adf5a0fb495e950d6a2247941870ebc8"
+hash = "13ab18d747980562c6909f51a27943cf25b773f0a4f82faab543f320595e4866de0a3c6df1afec8f91bc924cfec60a79225530b1ed5f01a4bb3605505fba1a2c"
 
 [update]
 [update.modrinth]
 mod-id = "ffLDUGbm"
-version = "fDm6GVFP"
+version = "hCxrHerd"
 
 [option]
 dependency = true

@@ -1,20 +1,20 @@
 name = "Sophisticated Core"
-filename = "sophisticatedcore-1.21.1-1.4.54.2004.jar"
-version = "1.21.1-1.4.54.2004"
+filename = "sophisticatedcore-1.21.1-1.4.59.2032.jar"
+version = "1.21.1-1.4.59.2032"
 page-url = "https://modrinth.com/mod/sophisticated-core"
 category = "mods"
 side = "both"
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmoqTijg/versions/B3nB7doK/sophisticatedcore-1.21.1-1.4.54.2004.jar"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/PaNVpd0p/sophisticatedcore-1.21.1-1.4.59.2032.jar"
 hash-format = "sha512"
-hash = "c5ce0f7d01cdb81e983b2a974dfc8e028c54bd221fe462ea675af1092694f3ce1636c0b021ec78cdee7652d5a33a7cd22f2bfa41e73198d7554f9e43d18216ff"
+hash = "6e1f5d8730d4c810d87aedd31112f243b4574eb393b58580b29454a976b1f8a7c4dd2243fa3cedf6cca298244b00e5c1c255a85a17796a50bada5032e4605935"
 
 [update]
 [update.modrinth]
 mod-id = "nmoqTijg"
-version = "B3nB7doK"
+version = "PaNVpd0p"
 
 [option]
 dependency = true

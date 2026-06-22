@@ -1,20 +1,20 @@
 name = "Shoulder Surfing Reloaded"
-filename = "ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar"
-version = "1.21.1-4.22.12+neoforge"
+filename = "ShoulderSurfing-NeoForge-1.21.1-5.0.1.jar"
+version = "1.21.1-5.0.1+neoforge"
 page-url = "https://modrinth.com/mod/shoulder-surfing-reloaded"
 category = "mods"
 side = "client"
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/kepjj2sy/versions/hIHjK7MW/ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar"
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/Ql9gh62k/ShoulderSurfing-NeoForge-1.21.1-5.0.1.jar"
 hash-format = "sha512"
-hash = "a38dd972b32c1feef8c432b5c2f3434dcff1661cab425d303ae2943d1142d456f99b4db87a02342ac46477e3b7626205088ebe077381e97bf7c57b873f48e70d"
+hash = "c81533a4dfcbb1cd0bb308ed3fe5e244d7e84c3be1f89ea5862e31cd72be6db82bfd966572373d908964de422fb2680e5b5650cdf4630dd9c1a175c26e5faa69"
 
 [update]
 [update.modrinth]
 mod-id = "kepjj2sy"
-version = "hIHjK7MW"
+version = "Ql9gh62k"
 
 [option]
 dependency = false

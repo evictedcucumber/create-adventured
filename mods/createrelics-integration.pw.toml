@@ -1,6 +1,6 @@
 name = "Create:Relics integration"
-filename = "createrelics-1.3.0.jar"
-version = "1.3.0"
+filename = "createrelics-1.4.0.jar"
+version = "1.4.0"
 page-url = "https://modrinth.com/mod/createrelics-integration"
 category = "mods"
 side = "both"
@@ -8,14 +8,14 @@ dependencies = ["mods/create.pw.toml", "mods/curios.pw.toml", "mods/relics-mod.p
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/mqwrfCmS/versions/N60v7dIM/createrelics-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/mqwrfCmS/versions/1DfSN2LG/createrelics-1.4.0.jar"
 hash-format = "sha512"
-hash = "49a0ff01459ccfbbf71956e44a4f02fdf5c0d1f12324af779f878940ca2621cc9a263d238efc56c65d2c56aa1fdfc83c3d67af45d2ce0dc76c925148ea22ecd7"
+hash = "a516213a9fd877b26c0fc81d450663280ba1059acf60023eed35e5b987ccbb5bbd9752bc9e37714374bc3f57123560ba528f5183745004507a668bef90c42bd8"
 
 [update]
 [update.modrinth]
 mod-id = "mqwrfCmS"
-version = "N60v7dIM"
+version = "1DfSN2LG"
 
 [option]
 dependency = true

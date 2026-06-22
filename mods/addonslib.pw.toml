@@ -1,20 +1,20 @@
 name = "AddonsLib"
-filename = "addonslib-neoforge-1.21.1-1.10.jar"
-version = "1.21.1-1.10"
+filename = "addonslib-neoforge-1.21.1-1.13.jar"
+version = "1.21.1-1.13"
 page-url = "https://modrinth.com/mod/addonslib"
 category = "mods"
 side = "both"
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/rRKPlFV5/addonslib-neoforge-1.21.1-1.10.jar"
+url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/YePOHA47/addonslib-neoforge-1.21.1-1.13.jar"
 hash-format = "sha512"
-hash = "72155a40cbc0f6ceb22b5b1d84f826eb06d6dccf8052307cd69f1f1688ca7eead0d7beaca467730ed78b534de57828150fc04ae0f464810c81a6ad83b8c493b5"
+hash = "662fa4f4cebea9e854d2a045c2eae21993ef2b22371cb3b57f8edd954f1951190b25b71d33d107e45d9ded6837049635155711bc8e2572d2d1f7cdff853667fa"
 
 [update]
 [update.modrinth]
 mod-id = "cl5ec0Qm"
-version = "rRKPlFV5"
+version = "YePOHA47"
 
 [option]
 dependency = true
