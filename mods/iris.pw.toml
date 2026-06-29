@@ -2,9 +2,10 @@ name = "Iris Shaders"
 filename = "iris-neoforge-1.8.12+mc1.21.1.jar"
 version = "1.8.12+1.21.1-neoforge"
 page-url = "https://modrinth.com/mod/iris"
+category = "mods"
 side = "client"
 dependencies = ["mods/sodium.pw.toml"]
-update-channel = "project"
+update-channel = "release"
 
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar"

@@ -9,7 +9,7 @@ release-channel = "release"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "654293d1d209b0e36229f00da42e7a6574660b35f09372151e8ec18a3ee53d19"
+hash = "25ff7b348597e919ff1b6229e5ec37432d942001fa79c8ecb14ce75990fb959c"
 
 [versions]
 minecraft = "1.21.1"

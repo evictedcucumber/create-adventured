@@ -5,7 +5,7 @@ page-url = "https://modrinth.com/mod/sodium-dynamic-lights"
 category = "mods"
 side = "client"
 dependencies = ["mods/sodium-options-api.pw.toml", "mods/sodium.pw.toml"]
-update-channel = "project"
+update-channel = "release"
 
 [download]
 url = "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"

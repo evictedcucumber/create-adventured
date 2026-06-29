@@ -4,7 +4,7 @@ version = "7.1-neoforge-1.21"
 page-url = "https://modrinth.com/mod/entitytexturefeatures"
 category = "mods"
 side = "client"
-update-channel = "project"
+update-channel = "release"
 
 [download]
 url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar"
