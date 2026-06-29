@@ -1,6 +1,6 @@
 name = "Inventory Particles"
-filename = "InventoryParticles-2.4.0+1.21.1+neoforge.jar"
-version = "2.4.0+1.21.1+neoforge"
+filename = "InventoryParticles-2.5.1+1.21.1+neoforge.jar"
+version = "2.5.1+1.21.1+neoforge"
 page-url = "https://modrinth.com/mod/inventory-particles"
 category = "mods"
 side = "client"
@@ -8,14 +8,14 @@ dependencies = ["mods/mossylib.pw.toml"]
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/oS6hyiwc/InventoryParticles-2.4.0%2B1.21.1%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/ofnmN7tD/InventoryParticles-2.5.1%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "b36a86b266aaf9bbe85ac6814361659c0baf217ee6f343ba78167ec8ba087e2625c27868702b7f7b375e5c0d628385614964939fe2238ddb6a7088d4513fb5f9"
+hash = "64ffca591c20e1ad1163709eac1e52d288238b2268c51592e9a0052beb9ffe0e695b97eee15747d8d2fc1482584d367edda197ddfbd7361323d8be2eca8adec6"
 
 [update]
 [update.modrinth]
 mod-id = "XYnKrsxH"
-version = "oS6hyiwc"
+version = "ofnmN7tD"
 
 [option]
 dependency = false

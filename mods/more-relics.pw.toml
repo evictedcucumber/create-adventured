@@ -1,20 +1,21 @@
 name = "More Relics"
-filename = "morerelics-1.7.4.1-1.21.1.jar"
-version = "1.7.4.1"
+filename = "morerelics-1.7.5-1.21.1.jar"
+version = "1.7.5"
 page-url = "https://modrinth.com/mod/more-relics"
 category = "mods"
 side = "both"
+dependencies = ["mods/architectury-api.pw.toml", "mods/curios.pw.toml", "mods/octo-lib.pw.toml", "mods/relics-mod.pw.toml"]
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/NmYBBHLU/versions/CXlDN0F5/morerelics-1.7.4.1-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/NmYBBHLU/versions/gAKJAUv1/morerelics-1.7.5-1.21.1.jar"
 hash-format = "sha512"
-hash = "c4cd47f7268fa8573a4780f338f7283971f4c9ccc74a3cc81b330c7b2dd98cf859798c28934d24cf5867bb1948156335cdf2256390fd551700c2c8ccd2da0cb9"
+hash = "b7edafe2c843dd173b764a2f9e45f82b3bae793ecb330f15a3443fa17c5e8228d39ff84789030fe51577f402c1b5c2816200157405032801af7839691bfbc331"
 
 [update]
 [update.modrinth]
 mod-id = "NmYBBHLU"
-version = "CXlDN0F5"
+version = "gAKJAUv1"
 
 [option]
 dependency = false

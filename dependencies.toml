@@ -163,32 +163,12 @@ name = "Clumps"
 file = "mods/clumps.pw.toml"
 
 [[mods]]
-name = "Coastal Waves"
-file = "mods/coastal-waves.pw.toml"
-
-[[mods]]
-name = "Combat Roll"
-file = "mods/combat-roll.pw.toml"
-
-[[mods.dependencies]]
-name = "Cloth Config API"
-file = "mods/cloth-config.pw.toml"
-
-[[mods.dependencies]]
-name = "playerAnimator"
-file = "mods/playeranimator.pw.toml"
-
-[[mods]]
 name = "Comforts"
 file = "mods/comforts.pw.toml"
 
 [[mods]]
 name = "Concurrent Chunk Management Engine (NeoForge)"
 file = "mods/c2me-neoforge.pw.toml"
-
-[[mods]]
-name = "Configured Defaults"
-file = "mods/configured-defaults.pw.toml"
 
 [[mods]]
 name = "Continuity"
@@ -259,20 +239,8 @@ name = "Create"
 file = "mods/create.pw.toml"
 
 [[mods]]
-name = "Create Deco"
-file = "mods/create-deco.pw.toml"
-
-[[mods]]
 name = "Create Encased"
 file = "mods/create-encased.pw.toml"
-
-[[mods]]
-name = "Create Jetpack"
-file = "mods/create-jetpack.pw.toml"
-
-[[mods.dependencies]]
-name = "Create"
-file = "mods/create.pw.toml"
 
 [[mods]]
 name = "Create Slice & Dice"
@@ -317,18 +285,6 @@ file = "mods/copycats.pw.toml"
 [[mods.dependencies]]
 name = "Create"
 file = "mods/create.pw.toml"
-
-[[mods]]
-name = "Create: Curios Jetpack & Backtank"
-file = "mods/create-curios-jetpack.pw.toml"
-
-[[mods.dependencies]]
-name = "Create"
-file = "mods/create.pw.toml"
-
-[[mods.dependencies]]
-name = "Curios API"
-file = "mods/curios.pw.toml"
 
 [[mods]]
 name = "Create: Deep Dark"
@@ -377,10 +333,6 @@ file = "mods/create-pattern-schematics.pw.toml"
 [[mods.dependencies]]
 name = "Create"
 file = "mods/create.pw.toml"
-
-[[mods]]
-name = "Create: Pillager Arise"
-file = "mods/create-pillager-arise.pw.toml"
 
 [[mods]]
 name = "Create: Power Loader"
@@ -463,10 +415,6 @@ name = "Create"
 file = "mods/create.pw.toml"
 
 [[mods]]
-name = "Create: Structures Arise"
-file = "mods/create-structures-arise.pw.toml"
-
-[[mods]]
 name = "Create: Transmission!"
 file = "mods/create-transmission!.pw.toml"
 
@@ -485,14 +433,6 @@ file = "mods/critters-and-companions.pw.toml"
 [[mods]]
 name = "Curios API"
 file = "mods/curios.pw.toml"
-
-[[mods]]
-name = "Cut Through"
-file = "mods/cut-through.pw.toml"
-
-[[mods.dependencies]]
-name = "Puzzles Lib"
-file = "mods/puzzles-lib.pw.toml"
 
 [[mods]]
 name = "Despawn Tweaks"
@@ -883,18 +823,6 @@ name = "Puzzles Lib"
 file = "mods/puzzles-lib.pw.toml"
 
 [[mods]]
-name = "Legendary Tooltips"
-file = "mods/legendary-tooltips.pw.toml"
-
-[[mods.dependencies]]
-name = "Iceberg"
-file = "mods/iceberg.pw.toml"
-
-[[mods.dependencies]]
-name = "Prism"
-file = "mods/prism-lib.pw.toml"
-
-[[mods]]
 name = "Let Me Despawn"
 file = "mods/lmd.pw.toml"
 
@@ -1006,13 +934,29 @@ file = "mods/modernfix.pw.toml"
 name = "More Relics"
 file = "mods/more-relics.pw.toml"
 
-[[mods]]
-name = "More Villagers: Re-employed"
-file = "mods/more-villagers-re-employed.pw.toml"
+[[mods.dependencies]]
+name = "Architectury API"
+file = "mods/architectury-api.pw.toml"
 
 [[mods.dependencies]]
-name = "Villager API"
-file = "mods/villagerapi.pw.toml"
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
+
+[[mods.dependencies]]
+name = "Relics"
+file = "mods/relics-mod.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "Curios API"
+file = "mods/curios.pw.toml"
+
+[[mods.dependencies.dependencies]]
+name = "ShatterLib | OctoLib"
+file = "mods/octo-lib.pw.toml"
 
 [[mods]]
 name = "Mouse Tweaks"
@@ -1107,14 +1051,6 @@ name = "Cloth Config API"
 file = "mods/cloth-config.pw.toml"
 
 [[mods]]
-name = "Reese's Sodium Options"
-file = "mods/reeses-sodium-options.pw.toml"
-
-[[mods.dependencies]]
-name = "Sodium"
-file = "mods/sodium.pw.toml"
-
-[[mods]]
 name = "Regions Unexplored"
 file = "mods/regions-unexplored.pw.toml"
 
@@ -1183,10 +1119,6 @@ name = "Repurposed Structures - Neoforge/Forge"
 file = "mods/repurposed-structures-forge.pw.toml"
 
 [[mods]]
-name = "Resource Pack Overrides"
-file = "mods/resource-pack-overrides.pw.toml"
-
-[[mods]]
 name = "RightClickHarvest"
 file = "mods/rightclickharvest.pw.toml"
 
@@ -1211,18 +1143,6 @@ name = "Moonlight Lib"
 file = "mods/moonlight.pw.toml"
 
 [[mods]]
-name = "Serene Seasons"
-file = "mods/serene-seasons.pw.toml"
-
-[[mods.dependencies]]
-name = "GlitchCore"
-file = "mods/glitchcore.pw.toml"
-
-[[mods]]
-name = "Shoulder Surfing Reloaded"
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-
-[[mods]]
 name = "Shuffle"
 file = "mods/shuffle.pw.toml"
 
@@ -1233,26 +1153,6 @@ file = "mods/ash-api.pw.toml"
 [[mods]]
 name = "Simple Voice Chat"
 file = "mods/simple-voice-chat.pw.toml"
-
-[[mods]]
-name = "Simply Swords"
-file = "mods/simply-swords.pw.toml"
-
-[[mods.dependencies]]
-name = "Architectury API"
-file = "mods/architectury-api.pw.toml"
-
-[[mods.dependencies]]
-name = "Fzzy Config"
-file = "mods/fzzy-config.pw.toml"
-
-[[mods.dependencies.dependencies]]
-name = "Kotlin for Forge"
-file = "mods/kotlin-for-forge.pw.toml"
-
-[[mods.dependencies]]
-name = "Simply Tooltips"
-file = "mods/simply-tooltips.pw.toml"
 
 [[mods]]
 name = "Simply Tooltips"
@@ -1289,14 +1189,6 @@ file = "mods/sodium-options-api.pw.toml"
 [[mods.dependencies.dependencies]]
 name = "Sodium"
 file = "mods/sodium.pw.toml"
-
-[[mods.dependencies]]
-name = "Sodium"
-file = "mods/sodium.pw.toml"
-
-[[mods]]
-name = "Sodium Leaf Culling"
-file = "mods/sodiumleafculling.pw.toml"
 
 [[mods.dependencies]]
 name = "Sodium"
@@ -1421,22 +1313,6 @@ file = "mods/vanillabackport.pw.toml"
 [[mods.dependencies]]
 name = "Platform"
 file = "mods/platform.pw.toml"
-
-[[mods]]
-name = "Villager Names"
-file = "mods/villager-names-serilum.pw.toml"
-
-[[mods.dependencies]]
-name = "Collective"
-file = "mods/collective.pw.toml"
-
-[[mods]]
-name = "Villages&Pillages"
-file = "mods/villages-and-pillages.pw.toml"
-
-[[mods.dependencies]]
-name = "YUNG's API"
-file = "mods/yungs-api.pw.toml"
 
 [[mods]]
 name = "Visual Workbench"
@@ -1575,14 +1451,6 @@ name = "(Bee's) Fancy Crops"
 file = "resourcepacks/fancy-crops.pw.toml"
 
 [[resourcepacks]]
-name = "Comforts Modernized"
-file = "resourcepacks/comforts-modernized.pw.toml"
-
-[[resourcepacks]]
-name = "Create Style Sophisticated Backpacks"
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-
-[[resourcepacks]]
 name = "Fresh Animations"
 file = "resourcepacks/fresh-animations.pw.toml"
 
@@ -1657,10 +1525,6 @@ file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
 [[resourcepacks]]
 name = "Mandala's GUI - Dark mode"
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-
-[[resourcepacks]]
-name = "Soft Weather"
-file = "resourcepacks/soft-weather.pw.toml"
 
 [[shaderpacks]]
 name = "Complementary Shaders - Reimagined"

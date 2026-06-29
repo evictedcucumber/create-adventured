@@ -1,6 +1,6 @@
 name = "Amendments"
-filename = "amendments-1.21-2.0.15-neoforge.jar"
-version = "1.21-2.0.15-neoforge"
+filename = "amendments-neoforge-1.21-2.1.3.jar"
+version = "1.21-2.1.3"
 page-url = "https://modrinth.com/mod/amendments"
 category = "mods"
 side = "both"
@@ -8,14 +8,14 @@ dependencies = ["mods/moonlight.pw.toml"]
 update-channel = "project"
 
 [download]
-url = "https://cdn.modrinth.com/data/6iTJugQR/versions/8xf6Wpxs/amendments-1.21-2.0.15-neoforge.jar"
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/1kmTqnT8/amendments-neoforge-1.21-2.1.3.jar"
 hash-format = "sha512"
-hash = "a9ea5029cb4788e9e1dae8ed94f05e9111754e064d41fcd6bf7e570c28106dc1e680d2f2e82324b87a0a154a3d714bbdf2425124a62cba4765c41c1097d1609a"
+hash = "ed1d1d3a003e1798236356064ec777c0111791d69c80bf6826c90522539e5c5680fadddec431ca0932dc24382cf5aaa1e8f91d7effedd86ff7695b546ced0e50"
 
 [update]
 [update.modrinth]
 mod-id = "6iTJugQR"
-version = "8xf6Wpxs"
+version = "1kmTqnT8"
 
 [option]
 dependency = false
