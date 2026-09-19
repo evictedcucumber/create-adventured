@@ -489,3 +489,8 @@ metafile = true
 file = "mods/lootr.pw.toml"
 hash = "8bbcab2bbc55d4dd27f7b97a775ef64ebf4131387177d91c84af392d57e456c0"
 metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+hash = "fc7c47f7cd448b47f0b6f6a532e1b0ecf136ce9adea3d3da108386acc8c2e75e"
+metafile = true
