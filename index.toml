@@ -59,3 +59,8 @@ metafile = true
 file = "mods/artifacts.pw.toml"
 hash = "0a205e100f2e2644e5af930513d75bfd9b44a7f368b302e7ca9baff41a0645e6"
 metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "9d0fbe081c47182ad76f6cb08367e65ca343875953589a032a26219ba0acd211"
+metafile = true
