@@ -334,3 +334,8 @@ metafile = true
 file = "mods/entity-model-features.pw.toml"
 hash = "aad3289267753a29ee3729e066ff21c8ac0969155758e73b3dbacda7000d8501"
 metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "71844419cc672c57151393aaa33ed7f487abb250c4e59ae12c29c464725056ea"
+metafile = true
