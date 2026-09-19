@@ -329,3 +329,8 @@ metafile = true
 file = "mods/emixx.pw.toml"
 hash = "6cf590ef35b050c99255e6aa2be57830f468e5347c5f33d7405beafbbb0e9fce"
 metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "aad3289267753a29ee3729e066ff21c8ac0969155758e73b3dbacda7000d8501"
+metafile = true
