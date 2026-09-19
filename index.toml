@@ -189,3 +189,8 @@ metafile = true
 file = "mods/create-cobblestone-deepslate-generators.pw.toml"
 hash = "41936490512a592d02680d6fc1e986c85638cfad5e73cfa85100cb003ca1cb66"
 metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "f55165b033c620c6c0143d5de4f3f67ffa9c5856a53a49d75cd893c8096948c8"
+metafile = true
