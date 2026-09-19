@@ -294,3 +294,8 @@ metafile = true
 file = "mods/diagonal-walls.pw.toml"
 hash = "5a49528e8ee0516e041f3eee09e7096d018a1ebd3cc237bc6a54f6a53a7049da"
 metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "28952f078c32a2503b71a859e82823b1fbec5a204a9000f2674e9f983324eaa0"
+metafile = true
