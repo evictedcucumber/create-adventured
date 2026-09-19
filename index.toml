@@ -614,3 +614,8 @@ metafile = true
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "1d3f04eaccb59294cfcab4e25be32fda4581ca967fb841201e622fd647d25086"
 metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "be165ebb6129bbc48f12d583c7f135c2d61d872f2abc662430c022f7a0f37c23"
+metafile = true
