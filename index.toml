@@ -624,3 +624,8 @@ metafile = true
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "6efac09db47910141de8a7b143429cb023fea1a0e013e70f4ead253c5532dba1"
 metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d7b82bb2ad7d14276ed0f194ec2db3c16418682880179463c7eca8eb14660d14"
+metafile = true
