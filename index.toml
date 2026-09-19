@@ -44,3 +44,8 @@ metafile = true
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "9d8ed4981d245e13129f9a206fd75a933ea843c204221a8d430173cbc178d6f1"
 metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "fb5972a96dd823ac708e5cf154a3d87fbc4cac6a3026e46f043142f27df9a732"
+metafile = true
