@@ -324,3 +324,8 @@ metafile = true
 file = "mods/emi.pw.toml"
 hash = "f74ff27bd32ca1f8282cc2e09f0e3c94ae7777722d5800ac9e7552faa17bd443"
 metafile = true
+
+[[files]]
+file = "mods/emixx.pw.toml"
+hash = "6cf590ef35b050c99255e6aa2be57830f468e5347c5f33d7405beafbbb0e9fce"
+metafile = true
