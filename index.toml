@@ -169,3 +169,8 @@ metafile = true
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "e698bded335a012a07065144f69bf30c2d808c7cb5d5b5201a5366da65dcc59f"
 metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "b72f4668060dc9dcabee589ca0775723de6aa426b606001cc07ccec578815cfb"
+metafile = true
