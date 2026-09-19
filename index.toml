@@ -74,3 +74,8 @@ metafile = true
 file = "mods/baguettelib.pw.toml"
 hash = "b010d1cea82295ea33f77163990ca61021d310ce7c3a52fc420eff7ce65faccf"
 metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "e6ae7b9d82c71bffb44421e290501f3be123052520785919e5065ab658411cd7"
+metafile = true
