@@ -819,3 +819,8 @@ metafile = true
 file = "resourcepacks/fluffy-carpets.pw.toml"
 hash = "fd9e36849c118e02c32d83dbf779464286f4461dacb5831bccf51d623a2a01bb"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "039f683fed9cf4db0dea6898ca032e5e31407c915921e464a21eab84b4327635"
+metafile = true
