@@ -19,3 +19,8 @@ metafile = true
 file = "mods/ai-improvements.pw.toml"
 hash = "74208f9e3b3cb3121aa800722bf96371236204d7605361150fc93180eceab7bb"
 metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "812a469c0406ab35e9886558c55edfbe5b12405dd20e586450672e1f1d1c3f00"
+metafile = true
