@@ -1,0 +1,13 @@
+name = "Create Adventured"
+author = "evictedcucumber"
+version = "1.0.0"
+pack-format = "evictedcucumber-packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ecf56cbb5acce8879d13e61058da6d465947ffc03b303ba70bb3bb12a321960d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
