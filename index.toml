@@ -724,3 +724,8 @@ metafile = true
 file = "mods/txnilib.pw.toml"
 hash = "5ed7e23e9606b8316a56ce83d3330462153a22ab7570996335ff878549060769"
 metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "b7c4f34330e8bad437adeb5fb493c27e1645929882983bafb4e4c3670dd23dfc"
+metafile = true
