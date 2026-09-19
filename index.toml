@@ -704,3 +704,8 @@ metafile = true
 file = "mods/towns-and-towers.pw.toml"
 hash = "d01475544f2669610a0cdca41fab658a2b4c557d6306faeea3c65bdc3d86ee9d"
 metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "ff53bffe926cd1cccee4cd40fb95fdb534dd18dd0d8bb8dc50348db2a2bb05a2"
+metafile = true
