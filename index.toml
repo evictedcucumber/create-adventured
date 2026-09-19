@@ -419,3 +419,8 @@ metafile = true
 file = "mods/inventory-particles.pw.toml"
 hash = "23653ea219d4c5456fd81eadafaca35d320ef75e8be9be52c72b43eb7b8a3a19"
 metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "5612dc0c6b63c1dd709febf8a5b628bcfb6b145584b4bc5467c5e0129e4daeba"
+metafile = true
