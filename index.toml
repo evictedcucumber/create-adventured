@@ -264,3 +264,8 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "fa32aa56cf478deeac04ec487661be3ac8c8db6bb8111aa274397534e6678e6b"
 metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "fd64e2f06997553d53bc7c5c68cd1ccb9e4dcb1c1c57aa6674fbe84a1c5d025e"
+metafile = true
