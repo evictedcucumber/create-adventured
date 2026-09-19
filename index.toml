@@ -729,3 +729,8 @@ metafile = true
 file = "mods/universal-sawmill.pw.toml"
 hash = "b7c4f34330e8bad437adeb5fb493c27e1645929882983bafb4e4c3670dd23dfc"
 metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "1ee48aefecd795b97153f61be5b77b8e0c60bcbfe0dcc1650b92490f645a553d"
+metafile = true
