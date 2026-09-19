@@ -304,3 +304,8 @@ metafile = true
 file = "mods/distanthorizons.pw.toml"
 hash = "0ae38c5c5e4148cf3a4c64bb095942f5c75a987965d41fd490c888ec0f66bd2b"
 metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "91fd9fc4d49cc9a7201acb45beb3ea6d9caa75b55e7dc8c54f0edd1945abf8cd"
+metafile = true
