@@ -1,0 +1,26 @@
+name = "Inventory Interactions"
+filename = "InventoryInteractions-2.1.0+1.21.1+neoforge.jar"
+version = "2.1.0+1.21.1+neoforge"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCzmUKBr/versions/eVlpw7S3/InventoryInteractions-2.1.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "11cde17b6648945b4334267b1ffe0c966401ceaa64b19ffdb4943a53155d0c1598afac0f00b7098d63b8198186e2929ba312d4d90a89fb06dc71d76d28d32da7"
+
+[update]
+[update.modrinth]
+mod-id = "FCzmUKBr"
+version = "eVlpw7S3"
+
+[[dependencies]]
+id = "ffLDUGbm"
+type = "required"
+
+[[dependencies]]
+id = "XYnKrsxH"
+type = "required"
+
+[[dependencies]]
+id = "1eAoo2KR"
+type = "optional"
