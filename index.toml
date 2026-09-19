@@ -814,3 +814,8 @@ metafile = true
 file = "resourcepacks/fine-armoury.pw.toml"
 hash = "015c138ce1663f816dd2201885bfd1a1522f6ba896906ef596e0576fcd9f5a4b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fluffy-carpets.pw.toml"
+hash = "fd9e36849c118e02c32d83dbf779464286f4461dacb5831bccf51d623a2a01bb"
+metafile = true
