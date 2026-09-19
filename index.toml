@@ -634,3 +634,8 @@ metafile = true
 file = "mods/respackopts.pw.toml"
 hash = "80a49c9357f4101aa7fe33092f87e7f77484566ff7dc3eb3f6d0800dbab1f0ce"
 metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "d4b80337608d45c31e9ef72d67ca56497382ec1ab7cf5ec6a414446899a6e7ab"
+metafile = true
