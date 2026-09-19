@@ -764,3 +764,8 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "521867d0272346a83f07eae1f6403fc616f9598739747b8f52a1c464df5f3d3c"
 metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ba05d19811334bd824f3efc4940c35580863ee9bcbc02974259b83cd422b30bb"
+metafile = true
