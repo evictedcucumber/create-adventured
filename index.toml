@@ -464,3 +464,8 @@ metafile = true
 file = "mods/lambdynamiclights.pw.toml"
 hash = "03f79fe6babe9a586a325b65b101aeacab37af288a758aa3e3615bdf2a2d3742"
 metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "42395945f6d47473c12153f52f8061c81be75f7f9c772406391bcb79c2055864"
+metafile = true
