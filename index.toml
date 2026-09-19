@@ -719,3 +719,8 @@ metafile = true
 file = "mods/treechop.pw.toml"
 hash = "6e8ed5b81be4accaacf74514cc85e901912009b3fa4192dc9a958cd3f178c452"
 metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "5ed7e23e9606b8316a56ce83d3330462153a22ab7570996335ff878549060769"
+metafile = true
