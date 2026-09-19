@@ -399,3 +399,8 @@ metafile = true
 file = "mods/handcrafted.pw.toml"
 hash = "b9f16ba3ebc00aec1931aa9475eddd9cb48a519b9a1c9f5db549097d8126fbc3"
 metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "84835ea8a5f58fb38694655db8224fc6bd7c541cafa1508f24fafcaf59835041"
+metafile = true
