@@ -194,3 +194,8 @@ metafile = true
 file = "mods/create-cobblestone.pw.toml"
 hash = "f55165b033c620c6c0143d5de4f3f67ffa9c5856a53a49d75cd893c8096948c8"
 metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "bf17de328e6f7e3a5c978599ba50778a48450b6b8ddb0b08e9b3492fca0c5086"
+metafile = true
