@@ -834,3 +834,8 @@ metafile = true
 file = "resourcepacks/icons.pw.toml"
 hash = "16ab02059831337b7f2ca9c381689d2b0d868e9e438d858e565acf87ebb857e0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
+hash = "06ba6e38501b4820355670076b8ec8d0720911b68f9241b8dea6bbba0b33c7dc"
+metafile = true
