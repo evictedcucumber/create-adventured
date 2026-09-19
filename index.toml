@@ -414,3 +414,8 @@ metafile = true
 file = "mods/inventory-interactions.pw.toml"
 hash = "2c8e34d45f8db414bf2fe7f4863408ae81ed584c31f5ad0112f14225ccceee5f"
 metafile = true
+
+[[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "23653ea219d4c5456fd81eadafaca35d320ef75e8be9be52c72b43eb7b8a3a19"
+metafile = true
