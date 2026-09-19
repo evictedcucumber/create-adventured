@@ -84,3 +84,8 @@ metafile = true
 file = "mods/bellsandwhistles.pw.toml"
 hash = "04387a4dc679b695a8759b772a0c8d4fba6f6d9c21cc456d37f41f37709d7762"
 metafile = true
+
+[[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "d256eaddd311967be9b99ebc4a49dfb32bae15b15d6b765cb6669e7ff787e1bc"
+metafile = true
