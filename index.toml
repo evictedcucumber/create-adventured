@@ -599,3 +599,8 @@ metafile = true
 file = "mods/reconnectible-chains.pw.toml"
 hash = "a270427f95341e25ed7aff3193d27944ae7a5065272316da8cad34b135ead7e9"
 metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "e427e2d97cdd503865646a8767f8282d142199b29b76d0bce153bdb808f57905"
+metafile = true
