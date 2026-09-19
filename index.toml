@@ -794,3 +794,8 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a5164598008ee28dbd4f75a4012c5f1c798d161466716bc51ac5e569328bedc2"
 metafile = true
+
+[[files]]
+file = "resourcepacks/blockier-goat-horn.pw.toml"
+hash = "d85fedbe1475b5fffcc51d274ce4debed5a1ccfe4616f3a85e00d7f7d013d6f0"
+metafile = true
