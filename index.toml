@@ -154,3 +154,8 @@ metafile = true
 file = "mods/continuity.pw.toml"
 hash = "9b2b211723785b6ad3742adc92940abb48978e3aa2ffeffcc716327e6814470d"
 metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "47c39067844ee7882db2916c2a12ee0258b76b2ee5eed59e740646dbc83e1be7"
+metafile = true
