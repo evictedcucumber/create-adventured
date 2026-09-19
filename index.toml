@@ -174,3 +174,8 @@ metafile = true
 file = "mods/corpse.pw.toml"
 hash = "b72f4668060dc9dcabee589ca0775723de6aa426b606001cc07ccec578815cfb"
 metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "d88615b8074824f4d6fe188efa55bcb01f03cfb6f378772d2d0c837a815175da"
+metafile = true
