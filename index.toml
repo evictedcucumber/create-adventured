@@ -1,6 +1,202 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "3ca957d6c6531e0fe75b33ab52c58b2c9ebc9a163f5391ef10ff33acd0fe9e76"
+
+[[files]]
+file = "configureddefaults/config/Veinminer/settings.json"
+hash = "37176e1536f8346c33dd0db47e77abeee660748dacc9c1777827d42a58abdab3"
+
+[[files]]
+file = "configureddefaults/config/accessories.json5"
+hash = "f923c3837cbfb165f8387188ce70254fa2238551521b3c10723cd1bb45c013a9"
+
+[[files]]
+file = "configureddefaults/config/amendments-client.toml"
+hash = "7ac00a1f7b11962850588355d83995d8b8f42df1ab979cc920e33e11f418cca6"
+
+[[files]]
+file = "configureddefaults/config/amendments-common.toml"
+hash = "66c80f36824a81c0effde8cc348ded496c00b869f89079c81fe44e49b646ec56"
+
+[[files]]
+file = "configureddefaults/config/camerapture.client.json"
+hash = "e3879fab01f28561ad4d7ccbdf8b547079cd6e31270389dcd91ecc41b9ba5e92"
+
+[[files]]
+file = "configureddefaults/config/carryon-client.toml"
+hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
+
+[[files]]
+file = "configureddefaults/config/corpse-server.toml"
+hash = "5b65d1f1b9bb18380dab9b94e90be7436c61afba6b3b70ac7aa86466d535bca8"
+
+[[files]]
+file = "configureddefaults/config/create-client.toml"
+hash = "1da035914e17c31820fab27fd60525cdcf03041d5adf7029470e733ec758784b"
+
+[[files]]
+file = "configureddefaults/config/create-server.toml"
+hash = "9601686cbeee2193c34c763ac400afd7d17210e8c545bb64c5b30c506ccc1628"
+
+[[files]]
+file = "configureddefaults/config/create_connected-common.toml"
+hash = "2b3fe8f6ae283f04895a70971e0566f947470e2140bb1fe4fd152ab53a3e01e7"
+
+[[files]]
+file = "configureddefaults/config/createcasing-common.toml"
+hash = "5f4a83fc973fa38d1cd8cdce6278495f1aac457ca64a516e3744860eeb5a52f3"
+
+[[files]]
+file = "configureddefaults/config/distraction_free_recipes-client.toml"
+hash = "15ca31a5dff37ed6b411431d60a58870d04c44f92d3bd432f61f4e2b2bab892b"
+
+[[files]]
+file = "configureddefaults/config/easymagic-server.toml"
+hash = "7bce8da066c05fcac99a0a0f084b6e39eb2dfcb400fa4fa004642329328a4d69"
+
+[[files]]
+file = "configureddefaults/config/emi.css"
+hash = "b2fefce8b997851759990d1ec0c71d4be631e435857eb7b19516e4806986ac34"
+
+[[files]]
+file = "configureddefaults/config/everycomp-client.toml"
+hash = "1f6bacc3adccdef1a3038b4b0af09fd912023e22906d0d2cba79c813b8d04986"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/custom_icon-16x16.png"
+hash = "9ed5ba2df27731599745238fe8825f7208cb911dda768c90952a911d1253c82b"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/custom_icon-32x32.png"
+hash = "1c1d2cc8fd6cf6f53eea3402c96976e80b0c48c2d997739cac29b20b6683e435"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/custom_icon.icns"
+hash = "6bfeb560df6e15b294af87e36f53d7f9f339dbb78630cee85cef1ba4dff68475"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/custom_icon.png"
+hash = "b4bf8970a70293d2f5281fcc2a6dc21ca160cc36a97beff8d8ffd10de9c446b0"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/custom_minecraft_title.png"
+hash = "a4fc73fcafa467afcd220f2dd93ed8bb8589b23174ef41ff342b3e9751843030"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customizablemenus.txt"
+hash = "bb23da946059332f51f4b2014071fb2a8dcad6dd41270c622b6c372d3087930e"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/blast_furnace_screen_layout.txt"
+hash = "55a11fbeb0300a724f20a449d01425234ce8b21862a71f89e9c59e46be484922"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/crafting_screen_layout.txt"
+hash = "437239c12deb19ecddd7d8adf35f4e97274ece8acd6d726f2a5e895a0d550308"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/furnace_screen_layout.txt"
+hash = "a63b9d261cfc102836c6e680bb226205fe2cfd4928fce5b44d93e183ee6b4985"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "0c46a157c54f81e68cc42fb7bd1d8f9dfdbee44ac2a5782bd23141065e334fb5"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/options_screen_layout.txt"
+hash = "38bb98080c3930a431ada84d6c77fce2da096c2315f3708830f68ef6984fda95"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/pause_screen_layout.txt"
+hash = "be2ce1a8fc73e2356bba7565ee69632218a848f48a6f19e444c33faed930d2cb"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/smoker_screen_layout.txt"
+hash = "fca6cda54bc34fb9aca0dfe2f62352bcd02e6123b4681a433edbd08cb77261e0"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
+hash = "2b457ffa91487e9ced0c19000285d511567c575237fdb130e73e64ad98007b47"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/options.txt"
+hash = "8f710cf2524bb451c5d94c02fc54ffd63cac8457ebf1d67cda26490681f2ae5f"
+
+[[files]]
+file = "configureddefaults/config/inventory_particles.json5"
+hash = "f4dc525e2f5070e5e55ce0900be71e7710e2791d920eacfde32a7cbd9be5b8b9"
+
+[[files]]
+file = "configureddefaults/config/jei-server.toml"
+hash = "7630d4afb7bb2a11b7fb92705e77e0fcb9f1b3388d8412946fa2f2b98259dd4d"
+
+[[files]]
+file = "configureddefaults/config/lambdynlights.toml"
+hash = "83d1822bc582d0d92011dffc4d50100df0eb2c5d9f349f3a02423fafd04416da"
+
+[[files]]
+file = "configureddefaults/config/measurements-client.toml"
+hash = "33bf99b8407b9bef4fba28db44569dc14831d410258694e31a74990111ae3421"
+
+[[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "45cf8bd59d0f738106d1499a40eb60d77c1667913be53bf77bb9d0c9366ad0b3"
+
+[[files]]
+file = "configureddefaults/config/neoforge-common.toml"
+hash = "9a37b540949c01f7edaeaf947d4226b69f819fa1c095b13c143bb6bb71f5806b"
+
+[[files]]
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
+hash = "4ec35af0921e023672981911e9b8fb67b64d4f574217e7b746bd5ff34b813f7b"
+
+[[files]]
+file = "configureddefaults/config/ponder-client.toml"
+hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
+
+[[files]]
+file = "configureddefaults/config/quark-common.toml"
+hash = "6daf8e58e94633387f572a966a36b86436063cb41beee9c425febcc61a183144"
+
+[[files]]
+file = "configureddefaults/config/railways-client.toml"
+hash = "acb53d1890859db772be80af7a3fea68e5df9caf5250d5aa5894e408077d7e91"
+
+[[files]]
+file = "configureddefaults/config/rightclickharvest.json5"
+hash = "66e1e2f0df40c2cc6e70b4e80eec5df297ac5a11ebb335c318e7a24e1812c0b3"
+
+[[files]]
+file = "configureddefaults/config/sodium-extra-options.json"
+hash = "be1bfe0389caf995e7785a8d7d8dc6085ca168e0dbaf9eb0eb80a0f0e6735e60"
+
+[[files]]
+file = "configureddefaults/config/sodium-options.json"
+hash = "e80887d08bac9c735627481e4c8d2c7dfa0a245246a9307376ee8f8eee2435cc"
+
+[[files]]
+file = "configureddefaults/config/sound_physics_remastered/soundphysics.properties"
+hash = "05b0b800f0cd161ce4a2e375757680cb31335a782f0cd81ae1c10bea98f2df1b"
+
+[[files]]
+file = "configureddefaults/config/supplementaries-client.toml"
+hash = "6e00741488f92ab408d20c241a61c51ff18abfde230a4fa74416471d3dce6ac4"
+
+[[files]]
+file = "configureddefaults/config/supplementaries-common.toml"
+hash = "0d53488362a9dda8bfb9c6d5caf2e5797366fe7bec559b5d0083e7dca203eefe"
+
+[[files]]
+file = "configureddefaults/config/travelerstitles-neoforge-1_21.toml"
+hash = "c65007f55b57a6be9f490ae51408b080c081d44e9b86189269237708c7bc920e"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "6190e09070511bc24641e41ce6f3a3452ed01dbdfab0065129a812bde1d45820"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "513fec3361fa04bccf66a02dc1f2f5ada832100686f02eb937c4c0bc741b75da"
 metafile = true

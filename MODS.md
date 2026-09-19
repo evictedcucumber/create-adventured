@@ -1,0 +1,139 @@
+# Create Adventured
+
+## Mods
+
+- 3D Skin Layers
+- \[EMF\] Entity Model Features
+- \[ESF\] Entity Sound Features
+- \[ETF\] Entity Texture Features
+- Accessories
+- Accessories Compatibility Layer
+- AI Improvements: Performance Tuning
+- Ambient Environment
+- AmbientSounds
+- Amendments
+- Animal Feeding Trough
+- AppleSkin
+- Artifacts
+- AttributeFix
+- Camerapture
+- Carry On
+- Chipped
+- Clavis
+- Clumps
+- Comforts
+- Concurrent Chunk Management Engine (NeoForge)
+- Configured Defaults
+- Continuity
+- Controlling
+- Corpse
+- Corpse x Curios API Compat
+- Crafting Tweaks
+- Create
+- Create Cobblestone
+- Create Cobblestone deepslate generators
+- Create Deco
+- Create Encased
+- Create: Bells & Whistles
+- Create: Blocks & Bogies
+- Create: Central Kitchen
+- Create: Connected
+- Create: Copycats+
+- Create: Deep Dark
+- Create: Design n' Decor
+- Create: Enchantment Industry
+- Create: Integrated Farming
+- Create: Pattern Schematics
+- Create: Stam1o Tweaks
+- Create: Transmission!
+- Create: Vibrant Vaults
+- Critters and Companions
+- Curios API
+- Diagonal Fences
+- Diagonal Walls
+- Diagonal Windows
+- Distant Horizons
+- Distraction Free Recipes (EMI / REI / JEI)
+- Easy Anvils
+- Easy Magic
+- EMI
+- EMI Addon: Extra Mod Integrations
+- EMI++
+- Entity Culling
+- Every Compat (Stone Zone)
+- Every Compat (Wood Good)
+- FancyMenu
+- Farmer's Cutting: Quark
+- Farmer's Delight
+- FerriteCore
+- Geophilic
+- Handcrafted
+- HT's TreeChop
+- Inventory Essentials
+- Inventory Interactions
+- Inventory Particles
+- Item Borders
+- Jade Addons (Neo/Forge)
+- Jade 🔍
+- LambDynamicLights - Dynamic Lights
+- Leaves Be Gone
+- Let Me Despawn
+- Lithium
+- Lootr
+- Measurements
+- Model Gap Fix
+- ModernFix
+- Mouse Tweaks
+- NetherPortalFix
+- Ok Zoomer - It's Zoom!
+- Open Parties and Claims
+- Particle Effects
+- Perception
+- Pick Up Notifier
+- Polymorph
+- Quark
+- Reconnectible Chains
+- Reese's Sodium Options
+- Relics
+- Reliquified Artifacts
+- Repurposed Structures - Farmer's Delight Compat
+- Repurposed Structures - Neoforge/Forge
+- Respackopts
+- RightClickHarvest
+- RightClickHarvest Supplementaries Compat
+- Sawmill
+- Sodium
+- Sodium Extra
+- Sophisticated Backpacks
+- Sophisticated Backpacks Create Integration
+- Sound Physics Remastered
+- Steam 'n' Rails Neoforge
+- Storage Drawers
+- Supplementaries
+- TorchMaster
+- Towns and Towers
+- Trade Cycling
+- Traveler's Titles
+- Vanilla Backport
+- VeinMiner
+- VeinMiner Enchantment
+- Visuality: Reforged
+- Xaero Train Map
+- Xaero's Minimap
+- Xaero's World Map
+- Yeetus Experimentus
+- YUNG's Extras
+- YUNG's Menu Tweaks
+
+## Resource Packs
+
+- (Bee's) Blockier Goat Horn
+- (Bee's) Fancy Crops
+- (Bee's) Fine Armory
+- (Bee's) Fluffy Carpets and Wool
+- Fresh Animations
+- Fresh Animations: Extensions
+- Fresh Animations: Player Extension
+- Icons
+- Mandala's GUI - Add-Ons
+- Mandala's GUI - Dark mode
