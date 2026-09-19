@@ -244,3 +244,8 @@ metafile = true
 file = "mods/create-stam1o-tweaks.pw.toml"
 hash = "fd147c6fea1933e9d8bb6e18af27e21554a5698ad92d24bc7280acea807bd7ba"
 metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "7b16027e44aa184bdfef4d6979e51832f9cbfd214460a0c43a86ca3cbcab88b9"
+metafile = true
