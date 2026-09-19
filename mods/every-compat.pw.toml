@@ -1,0 +1,218 @@
+name = "Every Compat (Wood Good)"
+filename = "everycomp-1.21-2.11.52-neoforge.jar"
+version = "1.21-2.11.52"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/yqVEmpxu/everycomp-1.21-2.11.52-neoforge.jar"
+hash-format = "sha512"
+hash = "27af81ecc75067cad9a2c9c59d19b1c68fd0c8422842639e8c4cb163abcc9c36af80812ff8c1b790a80b24110a8f6b2908ee14c34df875f81526cb4d8cdabf2b"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "yqVEmpxu"
+
+[[dependencies]]
+id = "AXNDNPpm"
+type = "optional"
+
+[[dependencies]]
+id = "twkfQtEc"
+type = "required"
+
+[[dependencies]]
+id = "NSnRfjks"
+type = "optional"
+
+[[dependencies]]
+id = "C7I0BCni"
+type = "optional"
+
+[[dependencies]]
+id = "BOCJKD49"
+type = "optional"
+
+[[dependencies]]
+id = "vt0VyseM"
+type = "optional"
+
+[[dependencies]]
+id = "dtWC90iB"
+type = "optional"
+
+[[dependencies]]
+id = "2raGoXFz"
+type = "optional"
+
+[[dependencies]]
+id = "sTqfznK6"
+type = "optional"
+
+[[dependencies]]
+id = "6uw892ih"
+type = "optional"
+
+[[dependencies]]
+id = "M7N4aD7O"
+type = "optional"
+
+[[dependencies]]
+id = "uYwn8IP5"
+type = "optional"
+
+[[dependencies]]
+id = "aQ7h7gal"
+type = "optional"
+
+[[dependencies]]
+id = "v259p1An"
+type = "optional"
+
+[[dependencies]]
+id = "qmCh2PxS"
+type = "optional"
+
+[[dependencies]]
+id = "AtUSM5mt"
+type = "optional"
+
+[[dependencies]]
+id = "XRnFyRWZ"
+type = "optional"
+
+[[dependencies]]
+id = "R2OftAxM"
+type = "optional"
+
+[[dependencies]]
+id = "2vsx0HYf"
+type = "optional"
+
+[[dependencies]]
+id = "HKKqmr2p"
+type = "optional"
+
+[[dependencies]]
+id = "NTFyR6MX"
+type = "optional"
+
+[[dependencies]]
+id = "eiXYWB7J"
+type = "optional"
+
+[[dependencies]]
+id = "OSDpLd82"
+type = "optional"
+
+[[dependencies]]
+id = "kNxa8z3e"
+type = "optional"
+
+[[dependencies]]
+id = "cO40ZIg3"
+type = "optional"
+
+[[dependencies]]
+id = "aRYbAuWe"
+type = "optional"
+
+[[dependencies]]
+id = "w4an97C2"
+type = "optional"
+
+[[dependencies]]
+id = "RG50cUrX"
+type = "optional"
+
+[[dependencies]]
+id = "jA6GVA7Y"
+type = "optional"
+
+[[dependencies]]
+id = "20zpzIT1"
+type = "optional"
+
+[[dependencies]]
+id = "GmwLse2I"
+type = "optional"
+
+[[dependencies]]
+id = "qnQsVE2z"
+type = "optional"
+
+[[dependencies]]
+id = "sMKSn3I6"
+type = "optional"
+
+[[dependencies]]
+id = "LNytGWDc"
+type = "optional"
+
+[[dependencies]]
+id = "rv1sovni"
+type = "optional"
+
+[[dependencies]]
+id = "wvMc8AJt"
+type = "optional"
+
+[[dependencies]]
+id = "t6BIRVZn"
+type = "optional"
+
+[[dependencies]]
+id = "hevpK888"
+type = "optional"
+
+[[dependencies]]
+id = "ulloLmqG"
+type = "optional"
+
+[[dependencies]]
+id = "n2fvCDlM"
+type = "optional"
+
+[[dependencies]]
+id = "oHGMwNDR"
+type = "optional"
+
+[[dependencies]]
+id = "pJmCFF0p"
+type = "optional"
+
+[[dependencies]]
+id = "BAscRYKm"
+type = "optional"
+
+[[dependencies]]
+id = "VRLhWB91"
+type = "optional"
+
+[[dependencies]]
+id = "X0EQDtMs"
+type = "optional"
+
+[[dependencies]]
+id = "B8jaH3P1"
+type = "optional"
+
+[[dependencies]]
+id = "GURcjz8O"
+type = "optional"
+
+[[dependencies]]
+id = "C341qvJ5"
+type = "optional"
+
+[[dependencies]]
+id = "Nw0MStSd"
+type = "optional"
+
+[[dependencies]]
+id = "Tkikq67H"
+type = "optional"
+
+[[dependencies]]
+id = "xejiztgi"
+type = "optional"
