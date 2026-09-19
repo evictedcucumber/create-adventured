@@ -774,3 +774,8 @@ metafile = true
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "16b22eb41047004f6ffbc8ecdcfb59d74e083a21a07f1e074fe0743c2b90000c"
 metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "949453f9aea038f87945b187bcf95968f0fa815949da9ef7c4755af3e9754120"
+metafile = true
