@@ -584,3 +584,8 @@ metafile = true
 file = "mods/puzzles-lib.pw.toml"
 hash = "d13f7a62c6fcf0771be05fad8a1be2fa477e5686a8eb45c1f4d8521194897b08"
 metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "c7b85fb8ad848c05040a5889f4ce74e3e34a03988f18f4241d3c890d5b8a15e8"
+metafile = true
