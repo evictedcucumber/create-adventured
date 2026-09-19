@@ -119,3 +119,8 @@ metafile = true
 file = "mods/clavis.pw.toml"
 hash = "b8b9cbc8c7ac86234699ff19e77d028ccdd56a5600888de699688b2c5d430784"
 metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7684ebc1ee9853004a158d5abce15a4086a14546244a07b266cfb310b7a71eca"
+metafile = true
