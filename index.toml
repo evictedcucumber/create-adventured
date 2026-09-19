@@ -699,3 +699,8 @@ metafile = true
 file = "mods/torchmaster.pw.toml"
 hash = "46131c2ea48da9201f70c58f46445c2c4b16bee9b973f4d227c875c13299cfc0"
 metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "d01475544f2669610a0cdca41fab658a2b4c557d6306faeea3c65bdc3d86ee9d"
+metafile = true
