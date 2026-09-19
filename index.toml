@@ -14,3 +14,8 @@ metafile = true
 file = "mods/accessories.pw.toml"
 hash = "865644c69edafe04cd2f92e5f334929129959511ecec99cf6e97fe2717417309"
 metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "74208f9e3b3cb3121aa800722bf96371236204d7605361150fc93180eceab7bb"
+metafile = true
