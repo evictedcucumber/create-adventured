@@ -784,3 +784,8 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "47cad10a8c5c16ca9939f8cf87e94627cf4476f2e36b0528bed4cbb3707e6ecf"
 metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "77b4fc37b3147389bcd2d99880447ce5b32fa36456e5475a18ea4cd2da846d2f"
+metafile = true
