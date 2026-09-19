@@ -79,3 +79,8 @@ metafile = true
 file = "mods/balm.pw.toml"
 hash = "e6ae7b9d82c71bffb44421e290501f3be123052520785919e5065ab658411cd7"
 metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "04387a4dc679b695a8759b772a0c8d4fba6f6d9c21cc456d37f41f37709d7762"
+metafile = true
