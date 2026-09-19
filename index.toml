@@ -204,3 +204,8 @@ metafile = true
 file = "mods/create-deco.pw.toml"
 hash = "62c77753d5addb4de7d1043bb7ed92643a53e6d05af4b9a80cae529b8b458294"
 metafile = true
+
+[[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "e7a21571f7da883aff527711f1f7243d1a0be05e7a15ec72d903e3aa08b73cf4"
+metafile = true
