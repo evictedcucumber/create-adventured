@@ -799,3 +799,8 @@ metafile = true
 file = "resourcepacks/blockier-goat-horn.pw.toml"
 hash = "d85fedbe1475b5fffcc51d274ce4debed5a1ccfe4616f3a85e00d7f7d013d6f0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "1ab25e4ed23b233f1a6c3a07e35d1507ae0ac9ff135d1207ca4ff18f95ef6ef1"
+metafile = true
