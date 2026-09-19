@@ -114,3 +114,8 @@ metafile = true
 file = "mods/chipped.pw.toml"
 hash = "9b194446748b6ffacb6d46fff4649c6d893228a60a3a801dc4508fa4bbbc645b"
 metafile = true
+
+[[files]]
+file = "mods/clavis.pw.toml"
+hash = "b8b9cbc8c7ac86234699ff19e77d028ccdd56a5600888de699688b2c5d430784"
+metafile = true
