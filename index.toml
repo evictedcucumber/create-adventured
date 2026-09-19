@@ -714,3 +714,8 @@ metafile = true
 file = "mods/travelers-titles.pw.toml"
 hash = "9b1b4bdc38f672d2f6b974ee42901a12ba2a949f2fb3520cf11db35f757aa6c0"
 metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "6e8ed5b81be4accaacf74514cc85e901912009b3fa4192dc9a958cd3f178c452"
+metafile = true
