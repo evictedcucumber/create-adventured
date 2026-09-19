@@ -259,3 +259,8 @@ metafile = true
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "e81c99bae414960054ac3ca2e342d1bba07e035e035e33332c3007f5b8e01998"
 metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "fa32aa56cf478deeac04ec487661be3ac8c8db6bb8111aa274397534e6678e6b"
+metafile = true
