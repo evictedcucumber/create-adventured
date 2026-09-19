@@ -679,3 +679,8 @@ metafile = true
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f59f482e52ec8066022511a451a6a46c65ec4f22e9914904a623fa949e68038d"
 metafile = true
+
+[[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "bb4a1e241c94188d30047e949b33c4ca1f515dc962d616d556054668d37a0c64"
+metafile = true

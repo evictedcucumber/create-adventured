@@ -1,0 +1,82 @@
+name = "Every Compat (Stone Zone)"
+filename = "stonezone-1.21-2.11.17-neoforge.jar"
+version = "1.21-2.11.17-neoforge"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/kWBnBoqd/stonezone-1.21-2.11.17-neoforge.jar"
+hash-format = "sha512"
+hash = "b92922f7f34fbbfa5e8276b331cf651b2b7a5ff0072a9c6ef0da8eeb2448c8377862fbccd709a2a1ac21782bb9d57427c9f7e182ddd653dd5c0b139a30861743"
+
+[update]
+[update.modrinth]
+mod-id = "uYwn8IP5"
+version = "kWBnBoqd"
+
+[[dependencies]]
+id = "GmwLse2I"
+type = "optional"
+
+[[dependencies]]
+id = "OSDpLd82"
+type = "optional"
+
+[[dependencies]]
+id = "FzyTKtVF"
+type = "optional"
+
+[[dependencies]]
+id = "RG50cUrX"
+type = "optional"
+
+[[dependencies]]
+id = "B8jaH3P1"
+type = "optional"
+
+[[dependencies]]
+id = "v259p1An"
+type = "optional"
+
+[[dependencies]]
+id = "twkfQtEc"
+type = "required"
+
+[[dependencies]]
+id = "iP3wH1ha"
+type = "optional"
+
+[[dependencies]]
+id = "Xbc0uyRg"
+type = "optional"
+
+[[dependencies]]
+id = "GURcjz8O"
+type = "optional"
+
+[[dependencies]]
+id = "zCh7omyG"
+type = "optional"
+
+[[dependencies]]
+id = "B0g2vT6l"
+type = "optional"
+
+[[dependencies]]
+id = "aRYbAuWe"
+type = "optional"
+
+[[dependencies]]
+id = "C341qvJ5"
+type = "optional"
+
+[[dependencies]]
+id = "eiktJyw1"
+type = "required"
+
+[[dependencies]]
+id = "C7I0BCni"
+type = "optional"
+
+[[dependencies]]
+id = "VRLhWB91"
+type = "optional"
