@@ -94,3 +94,8 @@ metafile = true
 file = "mods/bookshelf-lib.pw.toml"
 hash = "afecf0ff0b0082844674db20d6c6ff50c6f0305dd88be7b0e31f37f0661542c6"
 metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "baf15eb3892ceee9c7dcd4bddf4fb06521b890d4bffa3175cef3aea7ea47a9a0"
+metafile = true
