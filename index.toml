@@ -89,3 +89,8 @@ metafile = true
 file = "mods/blocks-bogies.pw.toml"
 hash = "d256eaddd311967be9b99ebc4a49dfb32bae15b15d6b765cb6669e7ff787e1bc"
 metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "afecf0ff0b0082844674db20d6c6ff50c6f0305dd88be7b0e31f37f0661542c6"
+metafile = true
