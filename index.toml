@@ -9,3 +9,8 @@ metafile = true
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "11ffdca5a6a210e3397257547e4e23b9f09b6fbf352ea9854cbcd1d6fe2e0506"
 metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "865644c69edafe04cd2f92e5f334929129959511ecec99cf6e97fe2717417309"
+metafile = true
