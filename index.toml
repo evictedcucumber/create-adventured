@@ -229,3 +229,8 @@ metafile = true
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "6f2dc329ef9d4e6e602076225d07af66faa82d3a883029b2b5f4198f6cd623dc"
 metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "c340ba9aa0473b6aee42608676d954dd08491e3de27cd4b300563d1b3172bf11"
+metafile = true
