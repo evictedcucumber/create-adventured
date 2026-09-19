@@ -739,3 +739,8 @@ metafile = true
 file = "mods/veinminer-enchantment.pw.toml"
 hash = "a31281d4cb38ce8e20d6b975af3607f4063589b5fb110e571954fea9240b1c92"
 metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "8bfdbfc9164276ea521f1407ee2e21f7a2b9f6b7835556efef49cd09ef7d25b0"
+metafile = true
