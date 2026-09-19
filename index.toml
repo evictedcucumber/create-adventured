@@ -544,3 +544,8 @@ metafile = true
 file = "mods/owo-lib.pw.toml"
 hash = "14337fc29e567c14ebaa9cad53224b34d49366eb219a4550a1c871e46faf6fbb"
 metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "3a611306fc8083db88abb68b14675beec00867b9e116a746594af7a84375750f"
+metafile = true
