@@ -439,3 +439,8 @@ metafile = true
 file = "mods/jamlib.pw.toml"
 hash = "766ac95d51a0739d170239d79e60aa9be46a445aa88c5a28e104d5d882b2fb92"
 metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5d957696df9c35686ed07af7dd7b4743992418bf4d2ebb9277d126465d1ca22b"
+metafile = true
