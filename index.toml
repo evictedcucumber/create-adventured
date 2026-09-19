@@ -594,3 +594,8 @@ metafile = true
 file = "mods/rch-supplementaries-compat.pw.toml"
 hash = "94dfd622de8dce4442b4a76e4f2962b52ad6be94b1a7f6dd4f2993ba3fc8ff5c"
 metafile = true
+
+[[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "a270427f95341e25ed7aff3193d27944ae7a5065272316da8cad34b135ead7e9"
+metafile = true
