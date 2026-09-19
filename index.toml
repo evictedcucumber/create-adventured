@@ -469,3 +469,8 @@ metafile = true
 file = "mods/leaves-be-gone.pw.toml"
 hash = "42395945f6d47473c12153f52f8061c81be75f7f9c772406391bcb79c2055864"
 metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "5903dc0cef439daa02c9a56a6c1dfcd321400f8547ce2bb2a080dd73b0400198"
+metafile = true
