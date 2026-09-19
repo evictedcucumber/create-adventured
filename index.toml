@@ -734,3 +734,8 @@ metafile = true
 file = "mods/vanillabackport.pw.toml"
 hash = "1ee48aefecd795b97153f61be5b77b8e0c60bcbfe0dcc1650b92490f645a553d"
 metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "a31281d4cb38ce8e20d6b975af3607f4063589b5fb110e571954fea9240b1c92"
+metafile = true
