@@ -99,3 +99,8 @@ metafile = true
 file = "mods/c2me-neoforge.pw.toml"
 hash = "baf15eb3892ceee9c7dcd4bddf4fb06521b890d4bffa3175cef3aea7ea47a9a0"
 metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "e4c89840ff504e37aa3f25e35f657fbed1fb10ffc4be7ea7831d2856c8a6dc7e"
+metafile = true
