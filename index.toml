@@ -709,3 +709,8 @@ metafile = true
 file = "mods/trade-cycling.pw.toml"
 hash = "ff53bffe926cd1cccee4cd40fb95fdb534dd18dd0d8bb8dc50348db2a2bb05a2"
 metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "9b1b4bdc38f672d2f6b974ee42901a12ba2a949f2fb3520cf11db35f757aa6c0"
+metafile = true
