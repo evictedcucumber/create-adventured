@@ -629,3 +629,8 @@ metafile = true
 file = "mods/resourceful-lib.pw.toml"
 hash = "d7b82bb2ad7d14276ed0f194ec2db3c16418682880179463c7eca8eb14660d14"
 metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "80a49c9357f4101aa7fe33092f87e7f77484566ff7dc3eb3f6d0800dbab1f0ce"
+metafile = true
