@@ -39,3 +39,8 @@ metafile = true
 file = "mods/amendments.pw.toml"
 hash = "8b97b417094b9b93d66d34fc8b2ea269491ea8cb892c8f39ec812f6b1a3e96b6"
 metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "9d8ed4981d245e13129f9a206fd75a933ea843c204221a8d430173cbc178d6f1"
+metafile = true
