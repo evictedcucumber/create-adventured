@@ -279,3 +279,8 @@ metafile = true
 file = "mods/critters-and-companions.pw.toml"
 hash = "9ce9a3ed6f733628371ea178ae19446da7d61235e5949a70dce20c0fc7bb0acd"
 metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "cacc0057bccf063b967afe8a2791cb8b2da528d0b147f4975865fa15699184fa"
+metafile = true
