@@ -69,3 +69,8 @@ metafile = true
 file = "mods/attributefix.pw.toml"
 hash = "67e7c877a72a25bd07ecca263cd5093d6bec1ea942bc89f1f0aa8f770cfbbb1e"
 metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "b010d1cea82295ea33f77163990ca61021d310ce7c3a52fc420eff7ce65faccf"
+metafile = true
