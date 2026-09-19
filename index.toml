@@ -379,3 +379,8 @@ metafile = true
 file = "mods/ferrite-core.pw.toml"
 hash = "698d790842d41e9107bf807299d6b5db62fa65ac07ab41f0adc79d49d380aa65"
 metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "300d3ed8c6327a46cfb86824965c2ad9565afe5ccf4d6dce2350d4f7bb513a65"
+metafile = true
