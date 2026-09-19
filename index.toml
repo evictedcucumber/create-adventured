@@ -319,3 +319,8 @@ metafile = true
 file = "mods/easy-magic.pw.toml"
 hash = "49587aa493fd47f43b80e45dbf6a8b564e16a6de73248236e9622997826fbd9f"
 metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f74ff27bd32ca1f8282cc2e09f0e3c94ae7777722d5800ac9e7552faa17bd443"
+metafile = true
