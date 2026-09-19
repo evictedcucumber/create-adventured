@@ -494,3 +494,8 @@ metafile = true
 file = "mods/measurements.pw.toml"
 hash = "fc7c47f7cd448b47f0b6f6a532e1b0ecf136ce9adea3d3da108386acc8c2e75e"
 metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "ff55d3636c674f78415a7f754bdc2e18cd743bf63e6c750a66d32f79e34f96c7"
+metafile = true
