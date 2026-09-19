@@ -384,3 +384,8 @@ metafile = true
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "300d3ed8c6327a46cfb86824965c2ad9565afe5ccf4d6dce2350d4f7bb513a65"
 metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "b04f4e0e9894f53b398812d8a7d6ec13fa345d3e928137f13705251561755b5c"
+metafile = true
