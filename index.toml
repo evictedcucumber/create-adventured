@@ -669,3 +669,8 @@ metafile = true
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "9c3c87989c67a68289ce22ab6c768efd55b9a8527e5fd0ef74c1dd435c924279"
 metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b94fec3d0098b9e98eeee226eef90afc4f6cde28c5be14b1eac472a52381b113"
+metafile = true
