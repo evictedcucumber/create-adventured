@@ -359,3 +359,8 @@ metafile = true
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "21091ccdb90bc8a8efe31cac6356eb44a71617b7f84e5c6862012fb9627229fb"
 metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "a2b1038c625b77f8b30f513349f8a6ca6831aa762c147089e4b6aec9b048272f"
+metafile = true
