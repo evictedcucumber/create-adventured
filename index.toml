@@ -749,3 +749,8 @@ metafile = true
 file = "mods/visuality-forge.pw.toml"
 hash = "6cffc82e72b365937bf1428bed7d32b2f9101ce8c67bef1a2e1d6183ae637261"
 metafile = true
+
+[[files]]
+file = "mods/xaero-train-map.pw.toml"
+hash = "b4f3ff6af2a3b3066fea9d46a4ac07e71910e361c7f0d31025e301f6cc9cd9ee"
+metafile = true
