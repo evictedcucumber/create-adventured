@@ -179,3 +179,8 @@ metafile = true
 file = "mods/crafting-tweaks.pw.toml"
 hash = "d88615b8074824f4d6fe188efa55bcb01f03cfb6f378772d2d0c837a815175da"
 metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "9a060c14aee839c0c27e644d2d7377699f6a75b36b15991e240216179a466b6b"
+metafile = true
