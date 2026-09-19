@@ -534,3 +534,8 @@ metafile = true
 file = "mods/ok-zoomer.pw.toml"
 hash = "a55e37cda0cea012334790fc9a8ba6b2b641a4e3e1e1da5382cf9181280c0e28"
 metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "c3280b339229dd0ac3e44ebcf02cfefbd602faf340f584b7a31d7d766cfb73d4"
+metafile = true
