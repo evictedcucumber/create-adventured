@@ -504,3 +504,8 @@ metafile = true
 file = "mods/modelfix.pw.toml"
 hash = "1ad9982f83740ecb490c31420d6e78bd89a7dac49d1339223bba8ad3089b0f0a"
 metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ce617722b9b1ef53125b24bf7fbe45e080d70e3b74e074a67b0cf60289c7e5c7"
+metafile = true
