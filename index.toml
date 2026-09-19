@@ -564,3 +564,8 @@ metafile = true
 file = "mods/platform.pw.toml"
 hash = "5a3fb9761aa9d3d5b1439b9081a938278a55f19877593d19ecf2d2d637be0c83"
 metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "abd61bf123210e968a9f52202741f2ab302b1cf6e1b321dbb627edea82a9e4d9"
+metafile = true
