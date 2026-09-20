@@ -1,0 +1,83 @@
+name: Bug report
+description: Something in the pack isn't working as expected.
+title: "[Bug]: "
+labels: ["Bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. Please search existing issues first to avoid duplicates.
+  - type: dropdown
+    id: side
+    attributes:
+      label: Where does it happen?
+      description: |
+        - **Client**: only affects the client (rendering, UI, sounds, etc.)
+        - **Server**: only affects a dedicated server
+        - **Singleplayer**: affects a singleplayer world (client and integrated server)
+      options:
+        - Client
+        - Server
+        - Singleplayer
+    validations:
+      required: true
+  - type: input
+    id: pack-version
+    attributes:
+      label: Pack version
+      description: The Create Adventured version you are running.
+      placeholder: "2.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the bug and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. See error
+    validations:
+      required: true
+  - type: input
+    id: mods
+    attributes:
+      label: Suspected mod(s)
+      description: If you know or suspect which mod is responsible, list it here.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / crash report
+      description: |
+        Upload `latest.log` and any crash report, or paste a [mclo.gs](https://mclo.gs) link. Please do not paste large logs directly.
+    validations:
+      required: false
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Anything else relevant about your setup.
+      placeholder: |
+        - Launcher (Prism, CurseForge, ...):
+        - OS:
+        - Java version:
+        - Allocated RAM:
+        - Extra mods/resource packs/shaders added:
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Screenshots, videos or anything else that helps.
+    validations:
+      required: false

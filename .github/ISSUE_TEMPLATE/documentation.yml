@@ -1,0 +1,20 @@
+name: Documentation
+description: Something in the README, changelog, mod list or other docs is missing or incorrect.
+title: "[Docs]: "
+labels: ["Documentation"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where?
+      description: The file or page the issue relates to.
+      placeholder: "README.md, MODS.md, CHANGELOG.md, ..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What needs to change?
+      description: Describe what is missing, unclear or wrong, and what it should say instead.
+    validations:
+      required: true

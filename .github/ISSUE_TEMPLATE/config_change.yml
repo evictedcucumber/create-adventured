@@ -1,0 +1,57 @@
+name: Config change
+description: Propose adding, updating or removing a config file or config key.
+title: "[Config]: "
+labels: ["Config"]
+body:
+  - type: dropdown
+    id: side
+    attributes:
+      label: Which side does it affect?
+      options:
+        - Client
+        - Server
+        - Singleplayer
+    validations:
+      required: true
+  - type: dropdown
+    id: change-type
+    attributes:
+      label: Type of change
+      options:
+        - Add a config file / key
+        - Update a config value
+        - Remove a config file / key
+    validations:
+      required: true
+  - type: input
+    id: mod
+    attributes:
+      label: Mod
+      description: The mod the config belongs to.
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: Config file and key
+      description: Path relative to the instance and the key(s) involved.
+      placeholder: "config/example-common.toml → some.key"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Current and proposed value
+      description: What is it now, and what should it be?
+      placeholder: |
+        Current: `some.key = true`
+        Proposed: `some.key = false`
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Why should this change be made? Link any related issues.
+    validations:
+      required: true

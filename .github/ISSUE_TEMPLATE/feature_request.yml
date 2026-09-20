@@ -1,0 +1,51 @@
+name: Feature request
+description: Suggest a new mod, recipe, mechanic or other addition to the pack.
+title: "[Feature]: "
+labels: ["Feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggestions are welcome. Please search existing issues first, and remember the pack targets **Minecraft 1.21.1 (NeoForge)**.
+  - type: dropdown
+    id: side
+    attributes:
+      label: Which side does it affect?
+      description: |
+        - **Client**: client-only addition (visuals, UI, sounds, etc.)
+        - **Server**: server-only addition
+        - **Singleplayer**: needs to be on both client and server
+      options:
+        - Client
+        - Server
+        - Singleplayer
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like added?
+      description: If this is a mod, include a link (Modrinth/CurseForge) and confirm it supports NeoForge 1.21.1.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why is it a good fit?
+      description: How does it fit the Create + adventuring theme of the pack?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other mods or approaches that could achieve the same thing.
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Screenshots, mockups or anything else that helps.
+    validations:
+      required: false
