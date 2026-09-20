@@ -267,6 +267,11 @@ hash = "67e7c877a72a25bd07ecca263cd5093d6bec1ea942bc89f1f0aa8f770cfbbb1e"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "8234ed308543233cd3eefdf1c920d6a2f5a5a0e5885220d37cfecc76e6eeb30d"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "b010d1cea82295ea33f77163990ca61021d310ce7c3a52fc420eff7ce65faccf"
 metafile = true
