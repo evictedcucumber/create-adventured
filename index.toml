@@ -602,6 +602,11 @@ hash = "a07575368fdbd9b026667f0034a711fcc9a2f57538ffcf4ecaf13dd1c4842135"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "41aecfa2b86a4d95d3adcbc9e6854cf936584767f068d1cdd3c05f3cb3c1cd3c"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9f16ba3ebc00aec1931aa9475eddd9cb48a519b9a1c9f5db549097d8126fbc3"
 metafile = true
