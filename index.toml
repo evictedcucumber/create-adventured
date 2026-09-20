@@ -617,6 +617,11 @@ hash = "84835ea8a5f58fb38694655db8224fc6bd7c541cafa1508f24fafcaf59835041"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0d6516351119b34ee0404be1845b455fe3199938227a0c6b59900a1327b9b3e2"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "8e55a11a4f28178145de40be346a05cf647765fb124daac81c327dd17eb79c94"
 metafile = true
