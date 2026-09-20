@@ -1,6 +1,6 @@
 name = "Create Adventured"
 author = "evictedcucumber"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "evictedcucumber-packwiz:1.0.0"
 
 [index]

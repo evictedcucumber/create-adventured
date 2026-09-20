@@ -1382,3 +1382,79 @@ path = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 name = "Mandala's GUI - Dark mode"
 side = "client"
 to = "2.1"
+
+[[release]]
+version = "2.0.0"
+date = "2026-09-20"
+bump = "major"
+commit = "e394e4b94243fd8dbeafbd929b83b568e7ea164e"
+
+[[release.change]]
+kind = "mod-added"
+name = "BadOptimizations"
+side = "client"
+to = "2.4.1"
+
+[[release.change]]
+kind = "mod-updated"
+name = "Distant Horizons"
+side = "both"
+from = "3.2.0-b-1.21.1"
+to = "3.3.1-1.21.1"
+
+[[release.change]]
+kind = "mod-updated"
+name = "Entity Culling"
+side = "client"
+from = "1.10.5"
+to = "1.11.1"
+
+[[release.change]]
+kind = "mod-added"
+name = "Fzzy Config"
+side = "both"
+to = "0.7.7+1.21+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+name = "GlitchCore"
+side = "both"
+to = "2.1.0.2"
+
+[[release.change]]
+kind = "mod-added"
+name = "ImmediatelyFast"
+side = "client"
+to = "1.6.14+1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-updated"
+name = "Lootr"
+side = "both"
+from = "1.21.1-1.11.38.125"
+to = "1.21.1-1.11.38.126"
+
+[[release.change]]
+kind = "mod-added"
+name = "Particle Core"
+side = "client"
+to = "0.3.3+1.21+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+name = "ScalableLux"
+side = "both"
+to = "0.1.0.1+neoforge.1cb1e91"
+
+[[release.change]]
+kind = "mod-added"
+name = "Serene Seasons"
+side = "both"
+to = "10.1.0.9"
+
+[[release.change]]
+kind = "mod-updated"
+name = "Trade Cycling"
+side = "both"
+from = "neoforge-1.21.1-1.0.18"
+to = "neoforge-1.21.1-1.0.22"
