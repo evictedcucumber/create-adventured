@@ -938,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "ff53bffe926cd1cccee4cd40fb95fdb534dd18dd0d8bb8dc50348db2a2bb05a2"
+hash = "28634cfbb487c555118ca4af3c16b0c4386507bdb66c7a5150b2073312e08324"
 metafile = true
 
 [[files]]
