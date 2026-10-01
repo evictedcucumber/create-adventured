@@ -69,3 +69,8 @@ metafile = true
 file = "mods/athena-ctm.pw.toml"
 hash = "94c31212a2c2f358d8c67f6d640af4c95efb8450bf3aed198967d461e00eb341"
 metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "903ab1130488d2bafc5308c0be96a26e66eb1c30da51d1ef4135035ba7701b9c"
+metafile = true
