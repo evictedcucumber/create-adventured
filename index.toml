@@ -377,6 +377,10 @@ file = "configureddefaults/config/create_integrated_farming-server.toml"
 hash = "d50ea9b17b72cb65ecfca1760a2431447d1da831a695e872c806ecc4199d2e26"
 
 [[files]]
+file = "configureddefaults/config/create_jetpack-client.toml"
+hash = "89094f05746ba946d303ca7fd7888094c34165b4af507317e081b6c9b5f7ecc3"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
