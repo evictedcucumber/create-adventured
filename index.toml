@@ -477,6 +477,10 @@ file = "configureddefaults/config/easymagic-server.toml"
 hash = "7bce8da066c05fcac99a0a0f084b6e39eb2dfcb400fa4fa004642329328a4d69"
 
 [[files]]
+file = "configureddefaults/config/emi.css"
+hash = "b2fefce8b997851759990d1ec0c71d4be631e435857eb7b19516e4806986ac34"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
