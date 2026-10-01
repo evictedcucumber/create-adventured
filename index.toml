@@ -34,3 +34,8 @@ metafile = true
 file = "mods/ambient-environment.pw.toml"
 hash = "c42b7ba3ff8659a28cfce44b634253e628fa3db47801310be55e49b665ecbfba"
 metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "fe3b5b50813f5446f141c13d5867d96f5aee609dadeaa4b4549bac51c3f3314b"
+metafile = true
