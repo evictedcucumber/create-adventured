@@ -224,3 +224,8 @@ metafile = true
 file = "mods/create-design-n-decor.pw.toml"
 hash = "85f56de60ddc63a88fe879b7341ae0dd654c565b7442a597c8ddc9645fd82255"
 metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "ff59d0d25319565f8d030ecaee07dc9534b7a81f7521b667df6b887597d1332d"
+metafile = true
