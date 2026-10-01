@@ -437,6 +437,10 @@ file = "configureddefaults/config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
 [[files]]
+file = "configureddefaults/config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
