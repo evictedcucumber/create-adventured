@@ -924,3 +924,8 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "f56b70672bb1843bf721ba86bfe08a6ef7cdb00f8134a08d37343f07a042e5f3"
 metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "90a58f398a37215439b602bab627a64de2ca4b5066f6fa5186acf1d81e59867f"
+metafile = true
