@@ -834,3 +834,8 @@ metafile = true
 file = "mods/trashslot.pw.toml"
 hash = "4f15ec1897d3ec0957bf84b7010a829074d9c13ea99841da95c67941caf0f83e"
 metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "28c897d9e54c67725000b522c8bcff6344907c50f313564d48817135e5bf621d"
+metafile = true
