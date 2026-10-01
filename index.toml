@@ -509,3 +509,8 @@ metafile = true
 file = "mods/legacyfreecam.pw.toml"
 hash = "489c3a4a632460b2ebd7a03a0f8a2b49683b5bb2a153096b963254cdc2dd5304"
 metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "959a0306903f77a663432522781c7a2eb3e64d1d6a17ccc1bd40f4930dd4bb57"
+metafile = true
