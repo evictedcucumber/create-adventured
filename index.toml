@@ -369,3 +369,8 @@ metafile = true
 file = "mods/esf.pw.toml"
 hash = "0112c1d8b114a905d74aafd7d32eb8d0288bc59bf7eb711a62716744e9da8f8c"
 metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "649564ee1d12765230ce898715ca8401b367c960559d12159ed20963b0aed98f"
+metafile = true
