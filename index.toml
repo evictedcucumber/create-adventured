@@ -29,3 +29,8 @@ metafile = true
 file = "mods/almanac.pw.toml"
 hash = "e57e3739e3db5073f328a2013672188589a8c7591876d46295cc4f5c0e8870db"
 metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "c42b7ba3ff8659a28cfce44b634253e628fa3db47801310be55e49b665ecbfba"
+metafile = true
