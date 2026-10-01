@@ -394,3 +394,8 @@ metafile = true
 file = "mods/farmers-delight.pw.toml"
 hash = "6448bb59a16266d94917c7a24fdc6669201d6a68b5fceedec1f883bab5c762b7"
 metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "de860487f5f2255a6a690f4804b1c66af5908aef7db36c420a2deb8444f9ebbe"
+metafile = true
