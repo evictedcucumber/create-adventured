@@ -1,0 +1,15 @@
+name = "Immersive Interfaces - Mod Support Unofficial"
+filename = "§6Immersive_Interfaces_Modded.zip"
+version = "2.0.2"
+side = "client"
+config-files = []
+
+[download]
+url = "https://cdn.modrinth.com/data/zW0OkthM/versions/eixfoIBm/%C2%A76Immersive_Interfaces_Modded.zip"
+hash-format = "sha512"
+hash = "c0a7e1fa7da2b9a7fa318ea0b538080fdffeb31acbdf211cd724762935148e00035e9013f0a09e6bd8cf440ad3fe02c7cb56b7e8455a415c54bea43daf966ff6"
+
+[update]
+[update.modrinth]
+mod-id = "zW0OkthM"
+version = "eixfoIBm"

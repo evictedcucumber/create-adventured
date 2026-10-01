@@ -969,3 +969,8 @@ metafile = true
 file = "resourcepacks/icons.pw.toml"
 hash = "1b904cc297abbd0669470c42666304c6113434d834da38791473dd89d05b4535"
 metafile = true
+
+[[files]]
+file = "resourcepacks/immersive-interfaces-mod-support-unofficial.pw.toml"
+hash = "3d9bb6d1ac31705fc8e35b3e1568342f3e74cd888b9b45db9d65a71d34527d9c"
+metafile = true
