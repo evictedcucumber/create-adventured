@@ -729,3 +729,8 @@ metafile = true
 file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
 hash = "cdcb14927972d6cf1336b17e327c78719b24c9ae00806cea9deaa1ad920db712"
 metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "980a8f9cc78e1293dad87d90e4209c58c2ca2fcf904fd912e6da981434f14a74"
+metafile = true
