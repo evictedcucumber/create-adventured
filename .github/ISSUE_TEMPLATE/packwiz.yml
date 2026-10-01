@@ -1,0 +1,43 @@
+name: Packwiz / mod management
+description: Add, update, remove or fix a mod entry, or an issue with the packwiz setup itself.
+title: "[Packwiz]: "
+labels: ["Packwiz"]
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: What is this about?
+      options:
+        - Add a mod
+        - Update a mod
+        - Remove a mod
+        - Fix a mod entry (wrong side, hash, download, etc.)
+        - Pack metadata / index / tooling
+    validations:
+      required: true
+  - type: dropdown
+    id: side
+    attributes:
+      label: Side
+      description: Which side the mod (or change) applies to. Ignore for tooling changes.
+      options:
+        - Client
+        - Server
+        - Singleplayer
+        - Not applicable
+    validations:
+      required: true
+  - type: input
+    id: mod
+    attributes:
+      label: Mod
+      description: Mod name and a Modrinth/CurseForge link, if applicable.
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Details
+      description: Describe the change. For updates, include the current and target versions. For removals, say why.
+    validations:
+      required: true
