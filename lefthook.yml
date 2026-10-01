@@ -1,0 +1,6 @@
+---
+pre-commit:
+  commands:
+    lefthook-validate:
+      glob: lefthook.yml
+      run: lefthook validate
