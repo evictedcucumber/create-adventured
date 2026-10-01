@@ -801,6 +801,10 @@ file = "configureddefaults/config/openpartiesandclaims-server.toml"
 hash = "41a4fc67ee0ec07e4c4aad86f4786e42012787dc6fc8a92768e6d44dd84a4c22"
 
 [[files]]
+file = "configureddefaults/config/particle_core_config.toml"
+hash = "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
