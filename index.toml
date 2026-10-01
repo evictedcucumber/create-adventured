@@ -144,3 +144,8 @@ metafile = true
 file = "mods/comforts.pw.toml"
 hash = "63fcec99d14ea6282fd0ffc15e0685dc71e8bf8fb57d93501e4125fa1e3f0779"
 metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "3a116c3dd195e0d2d83023f0dac54d952ec12ca32430783fa1910a87d5227bc5"
+metafile = true
