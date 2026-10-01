@@ -879,3 +879,8 @@ metafile = true
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "77b7d67e91a6a3220edf4233f18c8320146940cdf04ebb193d27e747125af006"
 metafile = true
+
+[[files]]
+file = "mods/xaero-train-map.pw.toml"
+hash = "9fd3ed73ae41e933909388383c785fd7d652ddf19bdc548b7918f17ebe2ad935"
+metafile = true
