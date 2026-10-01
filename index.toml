@@ -619,3 +619,8 @@ metafile = true
 file = "mods/moonlight.pw.toml"
 hash = "3c5b342a7bc5df028e5dc3a1715ca2d2672091c41ca4d09c36597be08012dd58"
 metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "1b035720ee749bd7e1cf88ac4b1e0bf8ea5552b32107a74f1596db032164b01d"
+metafile = true
