@@ -769,3 +769,8 @@ metafile = true
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "18a6653fa069a437b32cbf1d1e8df298e00ebe1aee7eceb4da5d97750c639dc7"
 metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "9b63c78c6eab109bb65344d30470556ae38b4501059938bb4502f1037b8a07b3"
+metafile = true
