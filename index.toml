@@ -381,6 +381,10 @@ file = "configureddefaults/config/create_jetpack-client.toml"
 hash = "89094f05746ba946d303ca7fd7888094c34165b4af507317e081b6c9b5f7ecc3"
 
 [[files]]
+file = "configureddefaults/config/create_jetpack-common.toml"
+hash = "bce3e041f9d13dc8b35ce61bf5726088da2a243b9d6c9e9509036977a415a0a1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
