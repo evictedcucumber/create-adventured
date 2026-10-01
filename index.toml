@@ -654,3 +654,8 @@ metafile = true
 file = "mods/particle-core.pw.toml"
 hash = "540a47185b018ba633e020eef7b6439d9ca21b67ca983a4bc098c81891fc6c4b"
 metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "e4f72c7ebd6a544da13784ace41347e93471c1e8e05b99819192deddf175668b"
+metafile = true
