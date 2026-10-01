@@ -794,3 +794,8 @@ metafile = true
 file = "mods/sophisticated-core.pw.toml"
 hash = "561b7d428e3b649d9691ac5368390c9386194a9aac2ce8b6e63a4cd4ba729d54"
 metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b84bcdaf726692c04f73d5f5a5b3d19f88fd1181ea32d94e78706faa6124c869"
+metafile = true
