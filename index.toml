@@ -939,3 +939,8 @@ metafile = true
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "2e4dad2d7aa57917574460a05abef0e4a60d27adfe4ccf7845f49d0741d7c984"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "c380cde068e24e6f39ab248b609a406abeeda25ae269842e5d4db440aa155b60"
+metafile = true
