@@ -809,3 +809,8 @@ metafile = true
 file = "mods/storagedrawers.pw.toml"
 hash = "3381e336f39276d991a9cbc7aab4b3e228196bbf22e80bb3671123eed5bc0692"
 metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "febdcb9c3f53ea6ae0417e0082c90bcdd01f60fd6bac8e42cb32ffab83ff621e"
+metafile = true
