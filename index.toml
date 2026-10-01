@@ -754,3 +754,8 @@ metafile = true
 file = "mods/scalablelux.pw.toml"
 hash = "8fbf724fdd9fcc0461df900fd6d0fe66787697e0e1c965c0222ef697007d2361"
 metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "483ec33799fa68f80a21d13d772f95d40574074ed1688e0995221c72f6305e1a"
+metafile = true
