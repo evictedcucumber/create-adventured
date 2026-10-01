@@ -784,3 +784,8 @@ metafile = true
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
 hash = "a449e7ed5b622e6e9d9525f7614082c98dbaacb9d7d5ea5958c99deb77884d11"
 metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "e00dac07a259da0ec43b6953a34af9fab334435bf4745829bc776e94f04b257f"
+metafile = true
