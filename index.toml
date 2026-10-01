@@ -869,3 +869,8 @@ metafile = true
 file = "mods/veinminer.pw.toml"
 hash = "30dc9f9af13148e72cfd70402a3324882c6686a35bff7a7731cc6089e3643bb7"
 metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "31a450f54c6d9af7756716da0de3663d3968ebcdf2e486f9eadd434edd3acca6"
+metafile = true
