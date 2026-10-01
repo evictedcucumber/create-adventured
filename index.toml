@@ -814,3 +814,8 @@ metafile = true
 file = "mods/supplementaries.pw.toml"
 hash = "febdcb9c3f53ea6ae0417e0082c90bcdd01f60fd6bac8e42cb32ffab83ff621e"
 metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "a093b16c6850b188d5f520a054046eb885e8e9d6956350c731faa3513c6d3023"
+metafile = true
