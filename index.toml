@@ -917,6 +917,10 @@ file = "configureddefaults/config/sound_physics_remastered/reflectivity.properti
 hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
+file = "configureddefaults/config/sound_physics_remastered/sound_rates.properties"
+hash = "afe3baec21ef493bfe34c24a7a52b6128862914ab2def667131e815512295ce4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
