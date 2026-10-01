@@ -1109,6 +1109,10 @@ file = "configureddefaults/config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "configureddefaults/config/yungsmenutweaks-neoforge-1_21.toml"
+hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
