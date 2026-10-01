@@ -345,6 +345,10 @@ file = "configureddefaults/config/create_connected-server.toml"
 hash = "e2459ed5488a8abe79b0987c7527655c6fcc4677b15231fb5b630298b0119d4b"
 
 [[files]]
+file = "configureddefaults/config/create_deep_dark-common.toml"
+hash = "2f004290be6150ae3d5dfcb9674ebb2c407a4ca69e4e546f0e86dff9e2c2da16"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
