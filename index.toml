@@ -1033,6 +1033,10 @@ file = "configureddefaults/config/watut-common.toml"
 hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
 
 [[files]]
+file = "configureddefaults/config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
