@@ -701,6 +701,10 @@ file = "configureddefaults/config/jei/jei-client.ini"
 hash = "3691319148dbb9c0f07e18682bdb911279d36e25708ad644db24fbd5cdd7c516"
 
 [[files]]
+file = "configureddefaults/config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
