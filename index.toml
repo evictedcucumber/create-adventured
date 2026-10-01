@@ -1005,6 +1005,10 @@ file = "configureddefaults/config/vanillabackport-common.toml"
 hash = "15c887868f49ecd06f43c62a6a98fcc1503908470f317f5a257cead14b1c4d38"
 
 [[files]]
+file = "configureddefaults/config/visuality/config.toml"
+hash = "56a48921d0cd2a5726aa9dbfc8e0ffd2b0b3a044b3e4b7f3503bacb834cf4480"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
