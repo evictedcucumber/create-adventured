@@ -594,3 +594,8 @@ metafile = true
 file = "mods/macaws-windows.pw.toml"
 hash = "6e70a7ba266a0e6f83ec7bb2718ffafe9419d6d95381db235de4a16a1a294fff"
 metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+hash = "be659760043bd6255fa4edc9fc282f39fd129651597b60e5efcf7addd1fd0c0d"
+metafile = true
