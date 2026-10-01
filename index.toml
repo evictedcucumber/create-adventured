@@ -813,6 +813,10 @@ file = "configureddefaults/config/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
+file = "configureddefaults/config/perception.yaml"
+hash = "702e454a2e6ecd1dad92a907b58fd00b23d7c59d3c7deca94c6beeef45bc757e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
