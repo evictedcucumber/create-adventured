@@ -421,6 +421,10 @@ file = "configureddefaults/config/cristellib/repurposed_structures/structure_tog
 hash = "f3588cdfe77994e838692839567968f569312d77488d8e239ae2ab91c456a913"
 
 [[files]]
+file = "configureddefaults/config/cristellib/supplementaries/structure_placement_config.json5"
+hash = "5bf7dd3121a172ab0209680d384a08008d5a2469f59e40178c8db110c5ce52f0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
