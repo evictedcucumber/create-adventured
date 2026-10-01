@@ -249,3 +249,8 @@ metafile = true
 file = "mods/create-jetpack.pw.toml"
 hash = "aabe2c51dcb216bdea23f61e2b4a0f73e78e0916498f9bf7141ec8cf0c5d3b8d"
 metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "3268a92b995feba8ba60a5abc1dd3a1aea29e2df01e3ca8b68e81678b35e2a58"
+metafile = true
