@@ -981,6 +981,10 @@ file = "configureddefaults/config/treechop-client.toml"
 hash = "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
 
 [[files]]
+file = "configureddefaults/config/treechop-common.toml"
+hash = "1ab671e18fba6c422ea0e103914e0d912b25ea4e13341c3d88e292bb5d459498"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
