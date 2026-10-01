@@ -514,3 +514,8 @@ metafile = true
 file = "mods/legendary-tooltips.pw.toml"
 hash = "959a0306903f77a663432522781c7a2eb3e64d1d6a17ccc1bd40f4930dd4bb57"
 metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "6d9e631e7ab5178cb700d56bebec43d6498d5bc36f601ec6f9c8a586c31ca561"
+metafile = true
