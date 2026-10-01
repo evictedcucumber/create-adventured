@@ -1,0 +1,8 @@
+[categories]
+dev = [
+  ".envrc",
+  ".github/ISSUE_TEMPLATE",
+  "flake.lock",
+  "flake.nix",
+  "lefthook.yml",
+]
