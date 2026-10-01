@@ -525,6 +525,10 @@ file = "configureddefaults/config/fancymenu/assets/custom_icon-16x16.png"
 hash = "9ed5ba2df27731599745238fe8825f7208cb911dda768c90952a911d1253c82b"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/assets/custom_icon-32x32.png"
+hash = "1c1d2cc8fd6cf6f53eea3402c96976e80b0c48c2d997739cac29b20b6683e435"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
