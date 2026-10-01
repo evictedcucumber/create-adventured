@@ -119,3 +119,8 @@ metafile = true
 file = "mods/carry-on.pw.toml"
 hash = "7e8968c10138020747ba61af8b9e2579040d5c65c624947e01635aad8d9941ab"
 metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "4f50ca355d70127570c55e29435feb360879fd39f69ac2401815b1c5506a50a2"
+metafile = true
