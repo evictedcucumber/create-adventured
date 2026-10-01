@@ -964,3 +964,8 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "912d63293e5999bb6bbbf834883d46c52447419b9eb6b08125c5df98adb3a20f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "1b904cc297abbd0669470c42666304c6113434d834da38791473dd89d05b4535"
+metafile = true
