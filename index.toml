@@ -624,3 +624,8 @@ metafile = true
 file = "mods/mossylib.pw.toml"
 hash = "1b035720ee749bd7e1cf88ac4b1e0bf8ea5552b32107a74f1596db032164b01d"
 metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9ac89190c028c71a0b0cafa0076175465c37f962bdc1dcc47f4e46f30e7b33c9"
+metafile = true
