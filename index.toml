@@ -384,3 +384,8 @@ metafile = true
 file = "mods/fancymenu.pw.toml"
 hash = "8f77e86090483f5ecb91bdea53156015ce09bed8851d7085959ff1236df9beee"
 metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-quark.pw.toml"
+hash = "282113cef49445133cce87a1d00f55159cf158e8f3b6925032a5ca2df4a3108c"
+metafile = true
