@@ -479,3 +479,8 @@ metafile = true
 file = "mods/jei.pw.toml"
 hash = "6bcf58dbf2333f1f5a8ec385982c73f585a672aa054219a46550d4c0fd8528cb"
 metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "fccf497fd0faa7c00bb881c83a0e3b823451244dda8821e0f381e1ddc151b44b"
+metafile = true
