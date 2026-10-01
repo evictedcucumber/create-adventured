@@ -757,6 +757,10 @@ file = "configureddefaults/config/measurements-client.toml"
 hash = "33bf99b8407b9bef4fba28db44569dc14831d410258694e31a74990111ae3421"
 
 [[files]]
+file = "configureddefaults/config/modelfix-client.toml"
+hash = "ae36e7199d4138e363e1565fbb8059984ca0b4f037a3cda7cfc4c15443862db0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
