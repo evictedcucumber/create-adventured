@@ -929,3 +929,8 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "90a58f398a37215439b602bab627a64de2ca4b5066f6fa5186acf1d81e59867f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/blockier-goat-horn.pw.toml"
+hash = "b9cc5643d9b3a7b2aa42a1609ce9663d9326ffaa59b1d1a3051c598418033b31"
+metafile = true
