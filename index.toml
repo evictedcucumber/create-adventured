@@ -689,3 +689,8 @@ metafile = true
 file = "mods/prism-lib.pw.toml"
 hash = "0ef0ff58ec43b53fed9d442a4fd7f16cbdc3fb9eb329a92bfeb1ec1d8dd64bd3"
 metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "17103ddb178995898cf24c4eb6ba399a1608273f031f3b67e42e4c22f9af764c"
+metafile = true
