@@ -229,3 +229,8 @@ metafile = true
 file = "mods/create-dragons-plus.pw.toml"
 hash = "ff59d0d25319565f8d030ecaee07dc9534b7a81f7521b667df6b887597d1332d"
 metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "71ee40d4d447cb0c07c654261b7f6774edbd81ca32c52d4fa96f31b321f9989d"
+metafile = true
