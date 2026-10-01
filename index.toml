@@ -284,3 +284,8 @@ metafile = true
 file = "mods/creativecore.pw.toml"
 hash = "8d1fc8ec80be8383abb9bfcd6cdfb4ec151bae5f4dd2e4ebf9216766c4a851ab"
 metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "813c8ef9c54026239a135a88e73536ade3cb1670ca605b0a36343ca352297eb8"
+metafile = true
