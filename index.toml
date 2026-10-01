@@ -974,3 +974,8 @@ metafile = true
 file = "resourcepacks/immersive-interfaces-mod-support-unofficial.pw.toml"
 hash = "3d9bb6d1ac31705fc8e35b3e1568342f3e74cd888b9b45db9d65a71d34527d9c"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
+hash = "647e665687358153fa742a2e92ae77cbd95606a2c42317995394bb445ed9234f"
+metafile = true
