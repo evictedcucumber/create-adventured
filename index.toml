@@ -749,3 +749,8 @@ metafile = true
 file = "mods/rightclickharvest.pw.toml"
 hash = "1c51b00e885052e461b27a44e069ca2298135b3fe720ec18b28dee45e1480bcb"
 metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8fbf724fdd9fcc0461df900fd6d0fe66787697e0e1c965c0222ef697007d2361"
+metafile = true
