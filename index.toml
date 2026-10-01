@@ -779,3 +779,8 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "26c51f2ed348e2fa8fa95d250826e282023183f48cca3706fd4beab9b28b25bd"
 metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "a449e7ed5b622e6e9d9525f7614082c98dbaacb9d7d5ea5958c99deb77884d11"
+metafile = true
