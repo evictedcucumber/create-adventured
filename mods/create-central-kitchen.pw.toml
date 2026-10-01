@@ -1,0 +1,39 @@
+name = "Create: Central Kitchen"
+filename = "create-central-kitchen-2.6.2.jar"
+version = "2.6.2"
+side = "both"
+config-files = ["config/create_central_kitchen-client.toml", "config/create_central_kitchen-common.toml"]
+
+[download]
+url = "https://cdn.modrinth.com/data/btq68HMO/versions/whbguqT1/create-central-kitchen-2.6.2.jar"
+hash-format = "sha512"
+hash = "187d8d86217825e5812a112b7922603af498427f7a4ba1c71cf5c651d12e7ef2ca046597d72743f61ebd497c82e7f1c79e28c853cd643d1d680093e086354f7f"
+
+[update]
+[update.modrinth]
+mod-id = "btq68HMO"
+version = "whbguqT1"
+
+[[dependencies]]
+id = "foa4fGIH"
+type = "optional"
+
+[[dependencies]]
+id = "AsUUCoXX"
+type = "optional"
+
+[[dependencies]]
+id = "8EEEXOzj"
+type = "optional"
+
+[[dependencies]]
+id = "LNytGWDc"
+type = "required"
+
+[[dependencies]]
+id = "YttyNOFA"
+type = "optional"
+
+[[dependencies]]
+id = "dzb1a5WV"
+type = "required"

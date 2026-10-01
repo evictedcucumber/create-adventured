@@ -189,3 +189,8 @@ metafile = true
 file = "mods/corpse.pw.toml"
 hash = "451eccf09cdcc620949935132199fcf5410de05950fd284220993e2f84a3ab43"
 metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "8e16770c90c5959d0e5aee8f333293bec4e5fa429d7a5ff59dc10db74e6ebe1c"
+metafile = true
