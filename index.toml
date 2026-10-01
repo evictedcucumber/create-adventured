@@ -884,3 +884,8 @@ metafile = true
 file = "mods/xaero-train-map.pw.toml"
 hash = "9fd3ed73ae41e933909388383c785fd7d652ddf19bdc548b7918f17ebe2ad935"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "ac18e65cb323551ff29c8a2876b9aac5a5e3b5dab785062f60a1cb5416794350"
+metafile = true
