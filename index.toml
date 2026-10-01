@@ -517,6 +517,10 @@ file = "configureddefaults/config/everycomp-hazardous.toml"
 hash = "ee0a62a6343886f8c93798e6507e66020f2925844057c4d116f793ae6fb3e062"
 
 [[files]]
+file = "configureddefaults/config/exmi/enable_config.json"
+hash = "f28783b274567b84d2c96351636c4291a1235c3a76c1b6b97af2aae53830908d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
