@@ -393,6 +393,10 @@ file = "configureddefaults/config/createcobblestone-common.toml"
 hash = "fb6404fe8966e66184f64dd115d0f8eeec3dabc091d1b2ed5fca2f35a7db5517"
 
 [[files]]
+file = "configureddefaults/config/createtransmission-server.toml"
+hash = "f05f18b98c32fae988fb028da22e2c0af13845ac991e638e13860aa0cade8803"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
