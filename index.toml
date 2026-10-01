@@ -653,6 +653,10 @@ file = "configureddefaults/config/immediatelyfast.json"
 hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
 [[files]]
+file = "configureddefaults/config/inventory_interactions.json5"
+hash = "bbbb5ea226170096ee3ef5fa3cf2f61401d9b686dd61540b007d68aefd6cd156"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
