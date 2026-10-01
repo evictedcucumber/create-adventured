@@ -229,6 +229,10 @@ file = "configureddefaults/config/attributefix/minecraft/player.submerged_mining
 hash = "f874427dd6754eff702ef41fd35649493094ddd0c79e01623a2cc9ccfe8ce8d7"
 
 [[files]]
+file = "configureddefaults/config/attributefix/minecraft/player.sweeping_damage_ratio.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
