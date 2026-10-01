@@ -341,6 +341,10 @@ file = "configureddefaults/config/create_connected-common.toml"
 hash = "2b3fe8f6ae283f04895a70971e0566f947470e2140bb1fe4fd152ab53a3e01e7"
 
 [[files]]
+file = "configureddefaults/config/create_connected-server.toml"
+hash = "e2459ed5488a8abe79b0987c7527655c6fcc4677b15231fb5b630298b0119d4b"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
