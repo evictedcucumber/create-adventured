@@ -365,6 +365,10 @@ file = "configureddefaults/config/create_enchantment_industry-client.toml"
 hash = "f1c6a25f81ec0f112e431b9064088e641c37b33a1aa16eed2bc4d03884c2b39c"
 
 [[files]]
+file = "configureddefaults/config/create_enchantment_industry-common.toml"
+hash = "ba7ae48de21489764763fbcfa70a0751114cec08af0d0dfebee03af1f5892ca1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
