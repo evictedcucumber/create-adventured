@@ -254,3 +254,8 @@ metafile = true
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "3268a92b995feba8ba60a5abc1dd3a1aea29e2df01e3ca8b68e81678b35e2a58"
 metafile = true
+
+[[files]]
+file = "mods/create-stam1o-tweaks.pw.toml"
+hash = "4ce0a79824c679b50dc7b5b50a4f19cdeb0e2f1409689e361fa300e0dc3ff561"
+metafile = true
