@@ -984,3 +984,8 @@ metafile = true
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "d80973ea5502e178c6d3c917e449e0698f7b0d49bcc6e74bc868165e91e80fb9"
 metafile = true
+
+[[files]]
+file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+hash = "a484be6492161a6c3b584ba3cc7a8cce3344329a43118e7e72a1dfdeea8690b1"
+metafile = true
