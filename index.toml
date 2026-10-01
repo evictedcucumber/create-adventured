@@ -821,6 +821,10 @@ file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "4ec35af0921e023672981911e9b8fb67b64d4f574217e7b746bd5ff34b813f7b"
 
 [[files]]
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
+hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
