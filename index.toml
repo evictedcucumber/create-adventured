@@ -337,6 +337,10 @@ file = "configureddefaults/config/create_central_kitchen-common.toml"
 hash = "e211c5226a565d1affc5d6c2f752cc5856369a6118ca2fef3a2b61f3fa36a5a8"
 
 [[files]]
+file = "configureddefaults/config/create_connected-common.toml"
+hash = "2b3fe8f6ae283f04895a70971e0566f947470e2140bb1fe4fd152ab53a3e01e7"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
