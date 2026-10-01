@@ -829,3 +829,8 @@ metafile = true
 file = "mods/trade-cycling.pw.toml"
 hash = "b2ade5f5d502704b5fc7bb66d70bc2c645be927b0f519370d49280f8573292ce"
 metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "4f15ec1897d3ec0957bf84b7010a829074d9c13ea99841da95c67941caf0f83e"
+metafile = true
