@@ -764,3 +764,8 @@ metafile = true
 file = "mods/serene-seasons.pw.toml"
 hash = "26186b47ea95935fc2251c69fef0d244f9af18cf51555880d3b1906140bee621"
 metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "18a6653fa069a437b32cbf1d1e8df298e00ebe1aee7eceb4da5d97750c639dc7"
+metafile = true
