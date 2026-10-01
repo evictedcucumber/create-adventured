@@ -364,3 +364,8 @@ metafile = true
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d2c5fb1603ec61dfac16f40bfd0455ba47486a23d47469cc7057022b7078e970"
 metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "0112c1d8b114a905d74aafd7d32eb8d0288bc59bf7eb711a62716744e9da8f8c"
+metafile = true
