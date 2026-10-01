@@ -324,3 +324,8 @@ metafile = true
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "d12e76cfd945a3af2c344de141c835a94c487be06f6385c1923d49f33d19dc7c"
 metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "048b64661f7048d4631d4c4a0116ccdc294c45a7869e42015712c569c4ec6ab2"
+metafile = true
