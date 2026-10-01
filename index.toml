@@ -549,3 +549,8 @@ metafile = true
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "7581b999375e610a1ee039d951722e52d9fc525576341008fbee70755902d07e"
 metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "a06c3f29be3b956dc5b27088e73d1fab114b602c4438682fcb9a90541b69c0dc"
+metafile = true
