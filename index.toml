@@ -165,6 +165,10 @@ file = "configureddefaults/config/attributefix/minecraft/generic.knockback_resis
 hash = "a103b8b62d3f94cc5e16f2157f16f737532a3a77e961d4d6023e60f4bc04b9aa"
 
 [[files]]
+file = "configureddefaults/config/attributefix/minecraft/generic.luck.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
