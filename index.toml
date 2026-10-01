@@ -909,6 +909,10 @@ file = "configureddefaults/config/sophisticatedcore-common.toml"
 hash = "3a3880119b65a4f80f57c635a02c48e9cd16ba74aa206da8869c6067c42c5488"
 
 [[files]]
+file = "configureddefaults/config/sound_physics_remastered/occlusion.properties"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
