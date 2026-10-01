@@ -41,6 +41,10 @@ file = "configureddefaults/config/ambientsounds-client.json"
 hash = "c98f572839ace55b0792042fa4b984311e7d876abdaccfc8a4694f5bebad766c"
 
 [[files]]
+file = "configureddefaults/config/amendments-client.toml"
+hash = "ef99987768b007aeff6f3505c9d193eccef83a9d6f24c0ce9d4f0f74fc7f76f3"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
