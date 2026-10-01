@@ -1,0 +1,17 @@
+name = "Create Adventured"
+author = "evictedcucumber"
+version = "1.0.0"
+pack-format = "evictedcucumber-packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
+
+[config-files]
+neoforge = ["config/fml.toml", "config/neoforge-client.toml", "config/neoforge-common.toml", "config/neoforge-server.toml"]
+pack = ["options.txt"]
