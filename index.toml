@@ -719,3 +719,8 @@ metafile = true
 file = "mods/relics-mod.pw.toml"
 hash = "1d6e7d797dc638ec977a765b79ccd6f1d620d54ef52e17d10f71c9549d37efbf"
 metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "7ad1ab8c485f006ad87996f09a068a4fb3c524b1195575534bbf4929a967e788"
+metafile = true
