@@ -444,3 +444,8 @@ metafile = true
 file = "mods/inventory-essentials.pw.toml"
 hash = "69c021dcbad959275911989d4ee761b04e7ab702035bb72c19bb58c5e6f62a58"
 metafile = true
+
+[[files]]
+file = "mods/inventory-interactions.pw.toml"
+hash = "c29f530ddcb9ea77c12eba30f0f2a23e6910ca9be84fcb808c8cf0fe8ff30c9c"
+metafile = true
