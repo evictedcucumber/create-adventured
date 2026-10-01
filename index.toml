@@ -714,3 +714,8 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d9e1d71307ed0e4b03cdadb97726e8291586c6b98e18527b0a1289ba6f046272"
 metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "1d6e7d797dc638ec977a765b79ccd6f1d620d54ef52e17d10f71c9549d37efbf"
+metafile = true
