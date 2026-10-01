@@ -944,3 +944,8 @@ metafile = true
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "c380cde068e24e6f39ab248b609a406abeeda25ae269842e5d4db440aa155b60"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fine-armoury.pw.toml"
+hash = "50151287344380cc73ba22787b1ef9ab07c574a8d3d6702517dd04b315a2e38a"
+metafile = true
