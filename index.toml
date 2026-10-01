@@ -554,3 +554,8 @@ metafile = true
 file = "mods/macaws-furniture.pw.toml"
 hash = "a06c3f29be3b956dc5b27088e73d1fab114b602c4438682fcb9a90541b69c0dc"
 metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "8b76dfd92ae0c11c90f5d63cc8eecafe1afbf4b141c8bcbe956fd21236422edb"
+metafile = true
