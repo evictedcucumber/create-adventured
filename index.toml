@@ -389,3 +389,8 @@ metafile = true
 file = "mods/farmers-cutting-quark.pw.toml"
 hash = "282113cef49445133cce87a1d00f55159cf158e8f3b6925032a5ca2df4a3108c"
 metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "6448bb59a16266d94917c7a24fdc6669201d6a68b5fceedec1f883bab5c762b7"
+metafile = true
