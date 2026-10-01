@@ -604,3 +604,8 @@ metafile = true
 file = "mods/melody.pw.toml"
 hash = "8eb370f65b4c958e98593298cd26847dee491efd243d2a96a40f0780868be8d0"
 metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "3734cce012d53b87a93c552e404a505d95a1be1a0a187958fe677cc257bff169"
+metafile = true
