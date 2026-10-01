@@ -61,6 +61,10 @@ file = "configureddefaults/config/attributefix/artifacts/generic.drinking_speed.
 hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
 
 [[files]]
+file = "configureddefaults/config/attributefix/artifacts/generic.eating_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
