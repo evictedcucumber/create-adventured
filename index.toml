@@ -484,3 +484,8 @@ metafile = true
 file = "mods/konkrete.pw.toml"
 hash = "fccf497fd0faa7c00bb881c83a0e3b823451244dda8821e0f381e1ddc151b44b"
 metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "77b34797e9bd4006e46f0538e4b3804ff0ff4112b7f76b52e52e069d78425cb8"
+metafile = true
