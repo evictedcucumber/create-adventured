@@ -139,3 +139,8 @@ metafile = true
 file = "mods/clumps.pw.toml"
 hash = "74c3d48dcd5d5d8e249ddc93b2f0831867fa1dd556440470e0302b77b6d5c45e"
 metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "63fcec99d14ea6282fd0ffc15e0685dc71e8bf8fb57d93501e4125fa1e3f0779"
+metafile = true
