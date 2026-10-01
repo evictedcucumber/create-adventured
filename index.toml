@@ -899,3 +899,8 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "8a781235135142d06d6276d036d92d06d2ddc3f9b36ce0b2bd33b495e983d486"
 metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "97f2647d96abfca98342ebf0ecba81aa4f21a1ec5615fe4268710d21c68c44aa"
+metafile = true
