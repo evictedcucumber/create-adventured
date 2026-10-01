@@ -249,6 +249,10 @@ file = "configureddefaults/config/badoptimizations.txt"
 hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
 [[files]]
+file = "configureddefaults/config/c2me.toml"
+hash = "493afe1b302c10d0095b70596ed3dbdcad15e48b7a3f066d17d453372df7a35b"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
