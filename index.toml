@@ -681,6 +681,10 @@ file = "configureddefaults/config/jade/jade.json"
 hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
+file = "configureddefaults/config/jade/plugins.json"
+hash = "06cacf3b648a48b5885aa1fdc19710ab2d4d93d97a1e15e99f1f197e6ba3a7eb"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
