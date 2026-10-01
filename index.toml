@@ -194,3 +194,8 @@ metafile = true
 file = "mods/create-central-kitchen.pw.toml"
 hash = "8e16770c90c5959d0e5aee8f333293bec4e5fa429d7a5ff59dc10db74e6ebe1c"
 metafile = true
+
+[[files]]
+file = "mods/create-cobblestone-deepslate-generators.pw.toml"
+hash = "65a5ca5ebe57b163deb3e9390a0f7d29d6ccea727dd97985dfa628103ce564c3"
+metafile = true
