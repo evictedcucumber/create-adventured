@@ -414,3 +414,8 @@ metafile = true
 file = "mods/geckolib.pw.toml"
 hash = "ff824efaf5f5121171f9b9fba96694be449be11f7abfdca1b8898289555704f3"
 metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "2fddd1369f32ded3ddb6d5c6a90a77a74e6ae4b3db2f96651e1e344365b9fb16"
+metafile = true
