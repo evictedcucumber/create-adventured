@@ -397,6 +397,10 @@ file = "configureddefaults/config/createtransmission-server.toml"
 hash = "f05f18b98c32fae988fb028da22e2c0af13845ac991e638e13860aa0cade8803"
 
 [[files]]
+file = "configureddefaults/config/creativecore-client.json"
+hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
