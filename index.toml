@@ -79,3 +79,8 @@ metafile = true
 file = "mods/badoptimizations.pw.toml"
 hash = "41611a06c60a9f1a2e63730a792b72902fb2e3608d8b76729470998229267104"
 metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "e267e086799a5ff3ba227c5235a2fc734c824808dadf3728f1ed62bf92f0ee5d"
+metafile = true
