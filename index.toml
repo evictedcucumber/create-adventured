@@ -19,3 +19,8 @@ metafile = true
 file = "mods/addonslib.pw.toml"
 hash = "1d630bceeec83e3c35c837ad6a73a55f4d5d286733cffd2d5341c61041dc69ba"
 metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "6bd20fe236860a4397e1cac69abacaa83e8a7cd8a9b1319d52089a9957f5891b"
+metafile = true
