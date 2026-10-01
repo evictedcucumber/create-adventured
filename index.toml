@@ -409,3 +409,8 @@ metafile = true
 file = "mods/fzzy-config.pw.toml"
 hash = "527290ffd9734dc3a2d6ab89fd764773f8b8f33c3c22555815556bff6d9e5418"
 metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ff824efaf5f5121171f9b9fba96694be449be11f7abfdca1b8898289555704f3"
+metafile = true
