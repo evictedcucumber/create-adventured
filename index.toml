@@ -209,3 +209,8 @@ metafile = true
 file = "mods/create-connected.pw.toml"
 hash = "d52d6ca86627105a4512a55067fd3b4c320fff2d45ae55339dc6c7bbd7485db6"
 metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "35606b94830510d4fdb422a0bbbe029390183e2b9284b89acb2dbec3b387557e"
+metafile = true
