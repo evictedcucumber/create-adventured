@@ -861,6 +861,10 @@ file = "configureddefaults/config/rightclickharvest.json5"
 hash = "66e1e2f0df40c2cc6e70b4e80eec5df297ac5a11ebb335c318e7a24e1812c0b3"
 
 [[files]]
+file = "configureddefaults/config/sawmill-common.toml"
+hash = "7fd1d021d8fab9c4b495cc9f62febced1411e819059ffa5b379d87b51a08270c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
