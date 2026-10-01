@@ -684,3 +684,8 @@ metafile = true
 file = "mods/prickle.pw.toml"
 hash = "c5964ea08b7bc4fdc50ce1b2b55f8d66791f89615be29c97a462f22f221421d7"
 metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "0ef0ff58ec43b53fed9d442a4fd7f16cbdc3fb9eb329a92bfeb1ec1d8dd64bd3"
+metafile = true
