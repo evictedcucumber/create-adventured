@@ -569,3 +569,8 @@ metafile = true
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "169a169290c34c7633717856a9a6710c6bf737812ab2b249e1eb409b42426e08"
 metafile = true
+
+[[files]]
+file = "mods/macaws-quark.pw.toml"
+hash = "b5502bedec2cea065455bb2e7128945897cb9d919ba18cb3cf50755790aeab4f"
+metafile = true
