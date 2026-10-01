@@ -644,3 +644,8 @@ metafile = true
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "9d3680fa7b4f1201e2b2e10594e52236e21ab4047c4b214787ad63bd660a077d"
 metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "9c61fba0bee601127ba4b6675ff3ecdaf2c67e2bed72d653dff7cce17fdb23ea"
+metafile = true
