@@ -59,3 +59,8 @@ metafile = true
 file = "mods/architectury-api.pw.toml"
 hash = "6e038644695161d9b35a2fc8db57b22e7b4542497f62d3008b0c81a81350c767"
 metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "c96870a707633785f51791cda845372de77e69653a59146cc96a1121547c1955"
+metafile = true
