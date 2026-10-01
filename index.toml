@@ -374,3 +374,8 @@ metafile = true
 file = "mods/every-compat.pw.toml"
 hash = "649564ee1d12765230ce898715ca8401b367c960559d12159ed20963b0aed98f"
 metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "85b44fc604b56ba37096520978ef12224cd30fe68a2e1fb5e539e58c13ca82e5"
+metafile = true
