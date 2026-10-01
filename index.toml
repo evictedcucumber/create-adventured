@@ -614,3 +614,8 @@ metafile = true
 file = "mods/modernfix.pw.toml"
 hash = "a34918bc3bb0a1fa5271702624d6fd34c2d3979d96eb4f7060f3f863e21c81a2"
 metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3c5b342a7bc5df028e5dc3a1715ca2d2672091c41ca4d09c36597be08012dd58"
+metafile = true
