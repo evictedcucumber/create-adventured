@@ -299,3 +299,8 @@ metafile = true
 file = "mods/curios.pw.toml"
 hash = "be6e5b1ed420b994a15a84d97c02eece41cf1fe3cad178b82156e1ed226deb70"
 metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "a34d4283bb1bd3430bdbec2e3a95c18df706e701dc8b943f05f62209c76680cd"
+metafile = true
