@@ -6,7 +6,7 @@ pack-format = "evictedcucumber-packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "55316a7c5daf0168dbfc93a23a5c9fd1d46dca7a08245676ff27ffc0ea71454f"
+hash = "9c3a481c0e24d64234dc4a5dfe3e4533d8e402204d0d738bfe04f602207fc19b"
 
 [versions]
 minecraft = "1.21.1"
