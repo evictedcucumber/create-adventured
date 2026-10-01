@@ -154,3 +154,8 @@ metafile = true
 file = "mods/connector-extras.pw.toml"
 hash = "69073ed1b686be072bc8fd4585c3bd8abeb3e42daa44b6bfb241c0385e0e6026"
 metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "40d1b15dbd4c20a14935ee78e600839e9dfd186af59317c7c65d6999b3654f3f"
+metafile = true
