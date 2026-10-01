@@ -804,3 +804,8 @@ metafile = true
 file = "mods/stone-zone.pw.toml"
 hash = "0a86fc02e367be82572d023e33bba96cfcacceb133b9ca1418ca40aa017d7418"
 metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "3381e336f39276d991a9cbc7aab4b3e228196bbf22e80bb3671123eed5bc0692"
+metafile = true
