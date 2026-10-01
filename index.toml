@@ -579,3 +579,8 @@ metafile = true
 file = "mods/macaws-roofs.pw.toml"
 hash = "5c5d455366df043b4236d9e71a792e135e8a0047dc730bf255b1786be0847075"
 metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "bb3209f49d6a112e8fcb134e1d9ff686aa5d9662009df9fcc7c465f6300b2ed2"
+metafile = true
