@@ -634,3 +634,8 @@ metafile = true
 file = "mods/netherportalfix.pw.toml"
 hash = "18f7cd8c4456d4dc264d7faea253feccccb659d213c41d4436c5db1a4a9115cd"
 metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "2d6856c356f232c162808caba0bb8f6b7dc4ac615d506bc8064d1bf9fe60ebef"
+metafile = true
