@@ -1,0 +1,26 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+net.minecraft.client.gui.screens.options.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.CraftingScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.FurnaceScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.SmokerScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.BlastFurnaceScreen {
+}
+

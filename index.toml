@@ -545,6 +545,10 @@ file = "configureddefaults/config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/customizablemenus.txt"
+hash = "bb23da946059332f51f4b2014071fb2a8dcad6dd41270c622b6c372d3087930e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
