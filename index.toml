@@ -329,3 +329,8 @@ metafile = true
 file = "mods/easy-anvils.pw.toml"
 hash = "048b64661f7048d4631d4c4a0116ccdc294c45a7869e42015712c569c4ec6ab2"
 metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "77c8038148fcc67ce4938cfc0bbdb8da9ea14de7ea46411878e8f775488f1f93"
+metafile = true
