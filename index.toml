@@ -699,3 +699,8 @@ metafile = true
 file = "mods/quark.pw.toml"
 hash = "4387b6e4edaa0a8bd799a53157e1a00e35f0d8cbc366cce8c3135950ab0307e5"
 metafile = true
+
+[[files]]
+file = "mods/rch-supplementaries-compat.pw.toml"
+hash = "0e379ab6cad1f2c1185d3b89f5baa25a084db11688be593cb6006d7d5052daab"
+metafile = true
