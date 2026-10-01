@@ -269,3 +269,8 @@ metafile = true
 file = "mods/create-transmission!.pw.toml"
 hash = "b807d3af5261c96899513ee3e55fb58dbca46e8e05c4dff30206b09c1a62810c"
 metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "1e0dbf7161b87d1e3a8ffabcb5ce9bd2123005d0ba0654ff03938a8ad3c9bbb7"
+metafile = true
