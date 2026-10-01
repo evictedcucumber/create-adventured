@@ -874,3 +874,8 @@ metafile = true
 file = "mods/visuality-forge.pw.toml"
 hash = "31a450f54c6d9af7756716da0de3663d3968ebcdf2e486f9eadd434edd3acca6"
 metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "77b7d67e91a6a3220edf4233f18c8320146940cdf04ebb193d27e747125af006"
+metafile = true
