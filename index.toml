@@ -234,3 +234,8 @@ metafile = true
 file = "mods/create-encased.pw.toml"
 hash = "71ee40d4d447cb0c07c654261b7f6774edbd81ca32c52d4fa96f31b321f9989d"
 metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "ff3eb5aef1ebd05db43f4d344cac33d7c2d9610a44d66df0e3196ae2ad504b1e"
+metafile = true
