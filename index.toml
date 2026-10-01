@@ -979,3 +979,8 @@ metafile = true
 file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
 hash = "647e665687358153fa742a2e92ae77cbd95606a2c42317995394bb445ed9234f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "d80973ea5502e178c6d3c917e449e0698f7b0d49bcc6e74bc868165e91e80fb9"
+metafile = true
