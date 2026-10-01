@@ -464,3 +464,8 @@ metafile = true
 file = "mods/jade-addons-forge.pw.toml"
 hash = "228e4402d4a613fd58ef38619daf418194c27dd1a7e6a54750fa78ed9961f265"
 metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "cd2b7875af85788b23481c980605909f03af29ba844fad44dd2c2436ed83b0d9"
+metafile = true
