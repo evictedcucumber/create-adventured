@@ -289,3 +289,8 @@ metafile = true
 file = "mods/cristel-lib.pw.toml"
 hash = "813c8ef9c54026239a135a88e73536ade3cb1670ca605b0a36343ca352297eb8"
 metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "be865fbd59555f2d63374048805cc6990fa0e0497f0bcd4a1fcbf0a3edba91de"
+metafile = true
