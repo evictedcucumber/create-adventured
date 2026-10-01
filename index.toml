@@ -459,3 +459,8 @@ metafile = true
 file = "mods/item-borders.pw.toml"
 hash = "55d26fd1d583348cdfca903179702f953e419029e58f294fd667ffad013c2794"
 metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "228e4402d4a613fd58ef38619daf418194c27dd1a7e6a54750fa78ed9961f265"
+metafile = true
