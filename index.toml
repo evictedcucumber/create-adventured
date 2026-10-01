@@ -169,3 +169,8 @@ metafile = true
 file = "mods/controlling.pw.toml"
 hash = "ae67b94e4d925e8e074a83628e292c2d2a0e5939b0235522184b2f4ebfb3243d"
 metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "763be1c264383c217128572408e0abdfdba65d38b5016a0c93c795e25208ff4e"
+metafile = true
