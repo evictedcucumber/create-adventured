@@ -519,3 +519,8 @@ metafile = true
 file = "mods/libjf.pw.toml"
 hash = "6d9e631e7ab5178cb700d56bebec43d6498d5bc36f601ec6f9c8a586c31ca561"
 metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8eed7cb2dd5d1aa39a6ba800ac385f43769750860bee96cae55850b77e174202"
+metafile = true
