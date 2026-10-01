@@ -933,6 +933,10 @@ file = "configureddefaults/config/stonezone-hazardous.toml"
 hash = "eb075cff33bddd4dea5727f79e6aff1d137c961dca8813f0394b27b967566ff0"
 
 [[files]]
+file = "configureddefaults/config/storagedrawers-client.toml"
+hash = "ecc9c067701d3fa9a12f95e0a88ba061d7c0fead8eb3a720eccc873086a80ed1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
