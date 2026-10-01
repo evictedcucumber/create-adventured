@@ -404,3 +404,8 @@ metafile = true
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "754e8031b62171909d022af84f968c508549564b6d59b0236ac69fd9057b0168"
 metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "527290ffd9734dc3a2d6ab89fd764773f8b8f33c3c22555815556bff6d9e5418"
+metafile = true
