@@ -573,6 +573,10 @@ file = "configureddefaults/config/fancymenu/customization/pause_screen_layout.tx
 hash = "be2ce1a8fc73e2356bba7565ee69632218a848f48a6f19e444c33faed930d2cb"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/customization/smoker_screen_layout.txt"
+hash = "fca6cda54bc34fb9aca0dfe2f62352bcd02e6123b4681a433edbd08cb77261e0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
