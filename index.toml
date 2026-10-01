@@ -74,3 +74,8 @@ metafile = true
 file = "mods/attributefix.pw.toml"
 hash = "903ab1130488d2bafc5308c0be96a26e66eb1c30da51d1ef4135035ba7701b9c"
 metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "41611a06c60a9f1a2e63730a792b72902fb2e3608d8b76729470998229267104"
+metafile = true
