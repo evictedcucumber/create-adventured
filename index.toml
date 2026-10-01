@@ -1113,6 +1113,10 @@ file = "configureddefaults/config/yungsmenutweaks-neoforge-1_21.toml"
 hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
 
 [[files]]
+file = "configureddefaults/config/zeta-common.toml"
+hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3d839f30d808dacbca554e3c462935132f7a964cd53ea7071b7fae8c15a937a6"
 metafile = true
