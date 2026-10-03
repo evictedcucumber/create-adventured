@@ -25,4 +25,6 @@ Use the [issue templates](.github/ISSUE_TEMPLATE) for bug reports, config change
 
 ## License
 
-See [LICENSE](LICENSE).
+All mods, assets, and other third-party content referenced or distributed by this modpack belong to their respective owners and remain under their original licenses. Nothing in this repository changes or overrides those licenses.
+
+The [LICENSE](LICENSE) (MIT) applies only to the original work in this repository that is specific to the modpack itself, such as the packwiz files (`pack.toml`, `index.toml`, `mods/*.pw.toml`), configuration, scripts, and documentation.
