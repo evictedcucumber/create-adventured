@@ -1666,11 +1666,6 @@ hash = "306cb3f7ab3f341500753247e2311f3ff855ea73c4d671194eb07f8d2de740a6"
 metafile = true
 
 [[files]]
-file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "8b76dfd92ae0c11c90f5d63cc8eecafe1afbf4b141c8bcbe956fd21236422edb"
-metafile = true
-
-[[files]]
 file = "mods/macaws-paintings.pw.toml"
 hash = "969720cd6ba6ae05b6de4ff4dd1baa94c16cf239a7cfe3cfe00bfe52295f8cf2"
 metafile = true
