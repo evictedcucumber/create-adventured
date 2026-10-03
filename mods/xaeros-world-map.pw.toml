@@ -2,7 +2,12 @@ name = "Xaero's World Map"
 filename = "xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
 version = "neoforge-1.21.1-1.46.0"
 side = "both"
-config-files = ["config/xaerohud.txt", "config/xaero/world-map/", "config/xaero/lib/", "config/xaero/"]
+config-files = [
+  "config/xaerohud.txt",
+  "config/xaero/world-map/",
+  "config/xaero/lib/",
+  "config/xaero/",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/9Ckiihkz/xaeroworldmap-neoforge-1.21.1-1.46.0.jar"

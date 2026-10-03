@@ -2,7 +2,11 @@ name = "Steam 'n' Rails Neoforge"
 filename = "railways-0.2.1+neoforge-mc1.21.1.jar"
 version = "0.2.1+neoforge-mc1.21.1"
 side = "both"
-config-files = ["config/railways-client.toml", "config/railways-common.toml", "config/railways-server.toml"]
+config-files = [
+  "config/railways-client.toml",
+  "config/railways-common.toml",
+  "config/railways-server.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/L3Jv0QZI/versions/HOPX5oro/railways-0.2.1%2Bneoforge-mc1.21.1.jar"

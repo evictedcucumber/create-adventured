@@ -2,7 +2,11 @@ name = "Create: Enchantment Industry"
 filename = "create-enchantment-industry-2.4.2.jar"
 version = "2.4.2"
 side = "both"
-config-files = ["config/create_enchantment_industry-client.toml", "config/create_enchantment_industry-common.toml", "config/create_enchantment_industry-server.toml"]
+config-files = [
+  "config/create_enchantment_industry-client.toml",
+  "config/create_enchantment_industry-common.toml",
+  "config/create_enchantment_industry-server.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar"

@@ -3,7 +3,11 @@ filename = "CreateDragonsPlus-1.11.9.jar"
 version = "1.11.9"
 side = "both"
 added-as-dependency = true
-config-files = ["config/create_dragons_plus-client.toml", "config/create_dragons_plus-common.toml", "config/create_dragons_plus-server.toml"]
+config-files = [
+  "config/create_dragons_plus-client.toml",
+  "config/create_dragons_plus-common.toml",
+  "config/create_dragons_plus-server.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar"

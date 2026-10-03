@@ -2,7 +2,10 @@ name = "Freecam (Fair Play)"
 filename = "legacyfreecam-neoforge-2.0.0+mc1.21.1.jar"
 version = "2.0.0"
 side = "client"
-config-files = ["config/freecam.json5", "config/legacyfreecam-server.properties"]
+config-files = [
+  "config/freecam.json5",
+  "config/legacyfreecam-server.properties",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/tWqI1yhH/versions/rorOQhfz/legacyfreecam-neoforge-2.0.0%2Bmc1.21.1.jar"

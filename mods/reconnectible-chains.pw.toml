@@ -2,7 +2,10 @@ name = "Reconnectible Chains"
 filename = "connectiblechains-2.4.4+1.21.1-neoforge.jar"
 version = "2.4.4+1.21.1-neoforge"
 side = "both"
-config-files = ["config/connectiblechains.json", "config/connectiblechains.toml"]
+config-files = [
+  "config/connectiblechains.json",
+  "config/connectiblechains.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/e4yVoAvP/connectiblechains-2.4.4%2B1.21.1-neoforge.jar"

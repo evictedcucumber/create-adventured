@@ -2,7 +2,11 @@ name = "Curios API"
 filename = "curios-neoforge-9.5.1+1.21.1.jar"
 version = "9.5.1+1.21.1"
 side = "both"
-config-files = ["config/curios-client.toml", "config/curios-common.toml", "config/curios-server.toml"]
+config-files = [
+  "config/curios-client.toml",
+  "config/curios-common.toml",
+  "config/curios-server.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"

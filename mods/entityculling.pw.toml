@@ -2,7 +2,11 @@ name = "Entity Culling"
 filename = "entityculling-neoforge-1.11.2-mc1.21.1.jar"
 version = "1.11.2"
 side = "client"
-config-files = ["config/entityculling.json", "config/trender.json", "config/transition.json"]
+config-files = [
+  "config/entityculling.json",
+  "config/trender.json",
+  "config/transition.json",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar"

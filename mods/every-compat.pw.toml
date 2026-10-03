@@ -2,7 +2,12 @@ name = "Every Compat (Wood Good)"
 filename = "everycomp-1.21-2.11.52-neoforge.jar"
 version = "1.21-2.11.52"
 side = "both"
-config-files = ["config/everycomp-client.toml", "config/everycomp-common.toml", "config/everycomp-entries.toml", "config/everycomp-hazardous.toml"]
+config-files = [
+  "config/everycomp-client.toml",
+  "config/everycomp-common.toml",
+  "config/everycomp-entries.toml",
+  "config/everycomp-hazardous.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/eiktJyw1/versions/yqVEmpxu/everycomp-1.21-2.11.52-neoforge.jar"

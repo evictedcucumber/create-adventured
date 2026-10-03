@@ -3,7 +3,10 @@ filename = "sophisticatedcore-1.21.1-1.5.5.2363.jar"
 version = "1.21.1-1.5.5.2363"
 side = "both"
 added-as-dependency = true
-config-files = ["config/sophisticatedcore-client.toml", "config/sophisticatedcore-common.toml"]
+config-files = [
+  "config/sophisticatedcore-client.toml",
+  "config/sophisticatedcore-common.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/nmoqTijg/versions/nSoNwJfm/sophisticatedcore-1.21.1-1.5.5.2363.jar"

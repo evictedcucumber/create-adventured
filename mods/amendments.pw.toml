@@ -2,7 +2,10 @@ name = "Amendments"
 filename = "amendments-1.21-2.1.10-neoforge.jar"
 version = "1.21-2.1.10"
 side = "both"
-config-files = ["config/amendments-client.toml", "config/amendments-common.toml"]
+config-files = [
+  "config/amendments-client.toml",
+  "config/amendments-common.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/6iTJugQR/versions/OYfMeeUK/amendments-1.21-2.1.10-neoforge.jar"

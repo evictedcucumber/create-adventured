@@ -3,7 +3,11 @@ filename = "libjf-3.17.7+forge.jar"
 version = "3.17.7+forge"
 side = "both"
 added-as-dependency = true
-config-files = ["config/libjf_config_core_v2.json5", "config/libjf_translate_v1.json5", "config/libjf_web_v1.json5"]
+config-files = [
+  "config/libjf_config_core_v2.json5",
+  "config/libjf_translate_v1.json5",
+  "config/libjf_web_v1.json5",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/WKwQAwke/versions/kCSwQJ9C/libjf-3.17.7%2Bforge.jar"

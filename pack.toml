@@ -6,11 +6,11 @@ pack-format = "evictedcucumber-packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9ce1f4bfcbd9179dfbaac0c668dc55cfea34a342de8438c6032265816938e703"
+hash = "b7e83fbe3b34641404df9cee09f1fc88a79fc456c030290168d5239755d2b690"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.250"
+neoforge = "21.1.252"
 
 [config-files]
 neoforge = ["config/fml.toml", "config/neoforge-client.toml", "config/neoforge-common.toml", "config/neoforge-server.toml"]

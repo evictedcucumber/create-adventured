@@ -2,7 +2,11 @@ name = "Towns and Towers"
 filename = "t_and_t-fabric-neoforge-1.13.11.jar"
 version = "1.13.11"
 side = "both"
-config-files = ["config/towns_and_towers/", "config/vanilla_structures/placement_structure_config.json5", "config/vanilla_structures/toggle_structure_config.json5"]
+config-files = [
+  "config/towns_and_towers/",
+  "config/vanilla_structures/placement_structure_config.json5",
+  "config/vanilla_structures/toggle_structure_config.json5",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/DjLobEOy/versions/DZxwgj6V/t_and_t-fabric-neoforge-1.13.11.jar"

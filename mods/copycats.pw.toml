@@ -2,7 +2,11 @@ name = "Create: Copycats+"
 filename = "copycats-3.0.9+mc.1.21.1-neoforge.jar"
 version = "3.0.9+mc.1.21.1-neoforge"
 side = "both"
-config-files = ["config/copycats-client.toml", "config/copycats-common.toml", "config/copycats-server.toml"]
+config-files = [
+  "config/copycats-client.toml",
+  "config/copycats-common.toml",
+  "config/copycats-server.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar"

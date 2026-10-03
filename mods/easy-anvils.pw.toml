@@ -2,7 +2,11 @@ name = "Easy Anvils"
 filename = "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
 version = "v21.1.0-1.21.1-NeoForge"
 side = "both"
-config-files = ["config/easyanvils-client.toml", "config/easyanvils-common.toml", "config/easyanvils-server.toml"]
+config-files = [
+  "config/easyanvils-client.toml",
+  "config/easyanvils-common.toml",
+  "config/easyanvils-server.toml",
+]
 
 [download]
 url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/fSQSKhdF/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
