@@ -1666,11 +1666,6 @@ hash = "306cb3f7ab3f341500753247e2311f3ff855ea73c4d671194eb07f8d2de740a6"
 metafile = true
 
 [[files]]
-file = "mods/macaws-trapdoors.pw.toml"
-hash = "1a4207fe3888cd4ffcc748395af604aeb7b269807c7ce044550c552a17e18f8a"
-metafile = true
-
-[[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "6e70a7ba266a0e6f83ec7bb2718ffafe9419d6d95381db235de4a16a1a294fff"
 metafile = true
