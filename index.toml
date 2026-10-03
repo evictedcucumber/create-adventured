@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/BBEConfig.json"
+hash = "00c128e340c14039d40865804171667e8a1e924705de47f167291699d309dd11"
+
+[[files]]
 file = "configureddefaults/config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
