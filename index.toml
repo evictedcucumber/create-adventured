@@ -1621,6 +1621,11 @@ hash = "c888446cd283dedaaf2b94e2b669b23bdb341402476479f122169b7088a05278"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "217860a11594ecb199486cf3f91e9f7fa73ad8d35be100418cbd0f8ced3dd7d3"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a8ede18e9362130e8ebe7ecf521fd25738c595c8dfd47975a812b4b9ef3261f1"
 metafile = true
