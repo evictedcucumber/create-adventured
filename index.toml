@@ -1221,6 +1221,11 @@ hash = "08ab418c34e1ae9aab6488832a1aafb131d95b8ecc7f21a7488d113cf5199098"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "e3303876f7b497db72ddfc6e00eb5ea7c9d9bb4676ae341b63b71980f5e44287"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "d56a468d35299664918967a7fb0ae806812f64ec0329bb6e7096c0a6562d67d8"
 metafile = true
