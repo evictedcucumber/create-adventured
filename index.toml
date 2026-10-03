@@ -1186,6 +1186,11 @@ hash = "c96870a707633785f51791cda845372de77e69653a59146cc96a1121547c1955"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "78ea1ef32f4f00ac4cbbfbc5229b3fdc0ea5d6ef0ff4c19fd1b65f8472c8f17b"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "94c31212a2c2f358d8c67f6d640af4c95efb8450bf3aed198967d461e00eb341"
 metafile = true
