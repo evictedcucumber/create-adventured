@@ -10,13 +10,15 @@
 - [Accessories Compatibility Layer](https://modrinth.com/project/ySnjMzLg) — 0.1.12
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/DSVgwcji) — 0.5.3
 - [Ambient Environment](https://modrinth.com/project/DyTvM1dv) — 18.0.0.2
-- [AmbientSounds](https://modrinth.com/project/fM515JnW) — 6.3.8
+- [AmbientSounds](https://modrinth.com/project/fM515JnW) — 6.3.9
 - [Amendments](https://modrinth.com/project/6iTJugQR) — 1.21-2.1.10
 - [Animal Feeding Trough](https://modrinth.com/project/bRFWnJ87) — 1.1.2+1.21(.1)-neoforge
 - [AppleSkin](https://modrinth.com/project/EsAfCjCV) — 3.0.9+mc1.21
 - [Artifacts](https://modrinth.com/project/P0Mu4wcQ) — 13.2.5
+- [AsyncParticles](https://modrinth.com/project/c3onkd5k) — 21.1.4.5
 - [AttributeFix](https://modrinth.com/project/lOOpEntO) — 21.1.3
 - [BadOptimizations](https://modrinth.com/project/g96Z4WVZ) — 2.4.1
+- [Better Block Entities](https://modrinth.com/project/ONZm0H7Y) — 1.3.4+mc1.21.1
 - [Camerapture](https://modrinth.com/project/9dzLWnmZ) — 1.10.12+mc1.21.1-neoforge
 - [Carry On](https://modrinth.com/project/joEfVgkn) — 2.2.6
 - [Chipped](https://modrinth.com/project/BAscRYKm) — 4.0.2
@@ -60,7 +62,6 @@
 - [EMI](https://modrinth.com/project/fRiHVvU7) — 1.1.24+1.21.1+neoforge
 - [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/bpRHnWUb) — 1.0.3+1.21.1.neoforge
 - [EMI++](https://modrinth.com/project/AWMWYMwC) — 2.1.0
-- [Enhanced Block Entities Reloaded](https://modrinth.com/project/vpenrdOI) — neoforge-0.13.2+1.21
 - [Entity Culling](https://modrinth.com/project/NNAgCjsB) — 1.11.2
 - [Every Compat (Stone Zone)](https://modrinth.com/project/uYwn8IP5) — 1.21-2.11.17-neoforge
 - [Every Compat (Wood Good)](https://modrinth.com/project/eiktJyw1) — 1.21-2.11.52
@@ -75,33 +76,23 @@
 - [Handcrafted](https://modrinth.com/project/pJmCFF0p) — 4.0.3
 - [HT's TreeChop](https://modrinth.com/project/gHoB7SHO) — 0.19.3
 - [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci) — 1.6.14+1.21.1-neoforge
-- [Inventory Essentials](https://modrinth.com/project/Boon8xwi) — 21.1.19+neoforge-1.21.1
+- [Inventory Essentials](https://modrinth.com/project/Boon8xwi) — 21.1.20+neoforge-1.21.1
 - [Inventory Interactions](https://modrinth.com/project/FCzmUKBr) — 2.2.0+1.21.1+neoforge
 - [Inventory Particles](https://modrinth.com/project/XYnKrsxH) — 3.2.0+1.21.1+neoforge
 - [Item Borders](https://modrinth.com/project/b1fMg6sH) — 1.2.5
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/xuDOzCLy) — 6.1.1+neoforge
 - [Jade 🔍](https://modrinth.com/project/nvQzSEkH) — 15.10.6+neoforge
+- [Krypton Reno](https://modrinth.com/project/JkxWVYwU) — 0.2.28.1-1.21.1
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/yBW8D80W) — 4.8.11+1.21.1
 - [Leaves Be Gone](https://modrinth.com/project/AVq17PqV) — v21.1.1-1.21.1-NeoForge
 - [Legendary Tooltips](https://modrinth.com/project/atHH8NyV) — 1.5.5
 - [Let Me Despawn](https://modrinth.com/project/vE2FN5qn) — 1.5.0
 - [Lithium](https://modrinth.com/project/gvQqBUqZ) — mc1.21.1-0.15.4-neoforge
 - [Lootr](https://modrinth.com/project/EltpO5cN) — 1.21.1-1.11.38.127
-- [Macaw's Bridges](https://modrinth.com/project/GURcjz8O) — 3.1.2
-- [Macaw's Doors](https://modrinth.com/project/kNxa8z3e) — 1.1.5
-- [Macaw's Fences and Walls](https://modrinth.com/project/GmwLse2I) — 1.2.1
-- [Macaw's Furniture](https://modrinth.com/project/dtWC90iB) — 3.4.1
-- [Macaw's Lights and Lamps](https://modrinth.com/project/w4an97C2) — 1.1.5
-- [Macaw's Paintings](https://modrinth.com/project/okE6QVAY) — 1.1.0
-- [Macaw's Paths and Pavings](https://modrinth.com/project/VRLhWB91) — 1.1.1
-- [Macaw's Quark](https://modrinth.com/project/uLtxXFVm) — 1.21.1-1.6.1
-- [Macaw's Roofs](https://modrinth.com/project/B8jaH3P1) — 2.3.2
-- [Macaw's Stairs](https://modrinth.com/project/iP3wH1ha) — 1.0.2
-- [Macaw's Trapdoors](https://modrinth.com/project/n2fvCDlM) — 1.1.5
-- [Macaw's Windows](https://modrinth.com/project/C7I0BCni) — 2.4.2
 - [Measurements](https://modrinth.com/project/wLINU2AB) — 3.0.3
 - [Model Gap Fix](https://modrinth.com/project/QdG47OkI) — 1.21-1.10
 - [ModernFix](https://modrinth.com/project/nmDcB62a) — 5.27.24+mc1.21.1
+- [More Culling](https://modrinth.com/project/51shyZVL) — 1.0.10
 - [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq) — 1.21-2.26.1-neoforge
 - [NetherPortalFix](https://modrinth.com/project/nPZr02ET) — 21.1.1+neoforge-1.21.1
 - [Ok Zoomer - It's Zoom!](https://modrinth.com/project/aXf2OSFU) — 10.0.0-beta.13+neo
@@ -111,7 +102,7 @@
 - [Perception](https://modrinth.com/project/P8STLvzB) — 0.2.1
 - [Pick Up Notifier](https://modrinth.com/project/ZX66K16c) — v21.1.1-1.21.1-NeoForge
 - [Polymorph](https://modrinth.com/project/tagwiZkJ) — 1.1.0+1.21.1
-- [Quark](https://modrinth.com/project/qnQsVE2z) — 4.1-485
+- [Quark](https://modrinth.com/project/qnQsVE2z) — 4.1-486
 - [Reconnectible Chains](https://modrinth.com/project/5pzBXDS3) — 2.4.4+1.21.1-neoforge
 - [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy) — mc1.21.1-2.2.4+neoforge
 - [Relics](https://modrinth.com/project/OCJRPujW) — 0.10.7.8
@@ -124,9 +115,10 @@
 - [Sawmill](https://modrinth.com/project/WRaRZdTd) — 1.21-1.8.1
 - [ScalableLux](https://modrinth.com/project/Ps1zyz6x) — 0.1.0.1+neoforge.1cb1e91
 - [Serene Seasons](https://modrinth.com/project/e0bNACJD) — 10.1.0.9
+- [ServerCore](https://modrinth.com/project/4WWQxlQP) — 1.5.19+1.21.1
 - [Sodium](https://modrinth.com/project/AANobbMI) — mc1.21.1-0.8.13-neoforge
 - [Sodium Extra](https://modrinth.com/project/PtjYWJkn) — mc1.21.1-0.9.4+neoforge
-- [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b) — 1.21.1-3.26.6.2174
+- [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b) — 1.21.1-3.26.7.2182
 - [Sophisticated Backpacks Create Integration](https://modrinth.com/project/s85zLEDe) — 1.21.1-0.2.1.171
 - [Sound Physics Remastered](https://modrinth.com/project/qyVF9oeo) — neoforge-1.21.1-1.5.1
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/L3Jv0QZI) — 0.2.1+neoforge-mc1.21.1
@@ -160,6 +152,6 @@
 - [Fresh Animations: Player Extension](https://modrinth.com/project/TAIMVZCL) — 1.1.0
 - [Icons](https://modrinth.com/project/O7z3QKAG) — 1.14
 - [Immersive Interfaces](https://modrinth.com/project/3sV1gvyJ) — 0.8.2
-- [Immersive Interfaces - Mod Support Unofficial](https://modrinth.com/project/zW0OkthM) — 2.0.2
+- [Immersive Interfaces - Mod Support Unofficial](https://modrinth.com/project/zW0OkthM) — 2.1
 - [Mandala's GUI - Add-Ons](https://modrinth.com/project/9pOcPPyd) — 5.0
 - [Mandala's GUI - Dark mode](https://modrinth.com/project/h6zxsNVF) — 2.1
