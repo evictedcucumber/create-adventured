@@ -1841,6 +1841,11 @@ hash = "26186b47ea95935fc2251c69fef0d244f9af18cf51555880d3b1906140bee621"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "6e54e9bc3b496f9519aa7df82f0d0394737a29a56eab188b6616981ac41d9dc0"
+metafile = true
+
+[[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "18a6653fa069a437b32cbf1d1e8df298e00ebe1aee7eceb4da5d97750c639dc7"
 metafile = true
