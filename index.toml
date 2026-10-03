@@ -514,7 +514,7 @@ hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
 
 [[files]]
 file = "configureddefaults/config/everycomp-entries.toml"
-hash = "ff35ad021c5d39c451d8954b85ad5d37387217e9962c5f78cc0e46df8d6c6fd6"
+hash = "61f9dbaa73095364c9af77bea43b047225f852422819dc06d3379652815588b1"
 
 [[files]]
 file = "configureddefaults/config/everycomp-hazardous.toml"
