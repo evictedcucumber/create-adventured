@@ -1466,11 +1466,6 @@ hash = "77c8038148fcc67ce4938cfc0bbdb8da9ea14de7ea46411878e8f775488f1f93"
 metafile = true
 
 [[files]]
-file = "mods/ebe-reloaded.pw.toml"
-hash = "8e525a7a7f6fcb3e154bf5b4a2c12220b5061604c8f49b45cad59c78585ddf96"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "7ea3e5647d023d87c95fad46271bbeffd15b4a72fdda100a97ad04392968633f"
 metafile = true
