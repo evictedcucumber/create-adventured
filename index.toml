@@ -1666,11 +1666,6 @@ hash = "306cb3f7ab3f341500753247e2311f3ff855ea73c4d671194eb07f8d2de740a6"
 metafile = true
 
 [[files]]
-file = "mods/macaws-stairs.pw.toml"
-hash = "bb3209f49d6a112e8fcb134e1d9ff686aa5d9662009df9fcc7c465f6300b2ed2"
-metafile = true
-
-[[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "1a4207fe3888cd4ffcc748395af604aeb7b269807c7ce044550c552a17e18f8a"
 metafile = true
