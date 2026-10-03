@@ -84,7 +84,6 @@
 - [Jade 🔍](https://modrinth.com/project/nvQzSEkH) — 15.10.6+neoforge
 - [Krypton Reno](https://modrinth.com/project/JkxWVYwU) — 0.2.28.1-1.21.1
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/yBW8D80W) — 4.8.11+1.21.1
-- [Leaves Be Gone](https://modrinth.com/project/AVq17PqV) — v21.1.1-1.21.1-NeoForge
 - [Legendary Tooltips](https://modrinth.com/project/atHH8NyV) — 1.5.5
 - [Let Me Despawn](https://modrinth.com/project/vE2FN5qn) — 1.5.0
 - [Lithium](https://modrinth.com/project/gvQqBUqZ) — mc1.21.1-0.15.4-neoforge
