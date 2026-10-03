@@ -1567,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "69c021dcbad959275911989d4ee761b04e7ab702035bb72c19bb58c5e6f62a58"
+hash = "58e81d2aef46bea134026d2934bf895f62195ef5f39bead139203766a45bbaf6"
 metafile = true
 
 [[files]]
