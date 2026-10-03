@@ -1651,11 +1651,6 @@ hash = "a8ede18e9362130e8ebe7ecf521fd25738c595c8dfd47975a812b4b9ef3261f1"
 metafile = true
 
 [[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "374e01a44dbc6ca3d2251ed3af20eb6fdee54fdf3f1de5a031690d384ebcb42b"
-metafile = true
-
-[[files]]
 file = "mods/legacyfreecam.pw.toml"
 hash = "489c3a4a632460b2ebd7a03a0f8a2b49683b5bb2a153096b963254cdc2dd5304"
 metafile = true
