@@ -889,6 +889,10 @@ file = "configureddefaults/config/servercore/config.yml"
 hash = "d2d02ed29be121564e2ac0ca9b9b45733974bc9aef7d3e5c2238df431ea651ed"
 
 [[files]]
+file = "configureddefaults/config/servercore/optimizations.yml"
+hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+
+[[files]]
 file = "configureddefaults/config/skinlayers.json"
 hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 
