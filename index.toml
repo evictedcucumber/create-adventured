@@ -57,6 +57,10 @@ file = "configureddefaults/config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
+file = "configureddefaults/config/asyncparticles/asyncparticles.json"
+hash = "b6e37d8e8f0e47b030296c528e0875b5f1a609cc26766ae110144bec151155e3"
+
+[[files]]
 file = "configureddefaults/config/attributefix/artifacts/generic.attack_burning_duration.json"
 hash = "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5"
 
