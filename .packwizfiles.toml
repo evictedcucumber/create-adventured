@@ -6,3 +6,4 @@ dev = [
   "flake.nix",
   "lefthook.yml",
 ]
+docs = ["docs"]
