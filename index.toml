@@ -489,10 +489,6 @@ file = "configureddefaults/config/emi.css"
 hash = "b2fefce8b997851759990d1ec0c71d4be631e435857eb7b19516e4806986ac34"
 
 [[files]]
-file = "configureddefaults/config/enhanced_bes.properties"
-hash = "1709dad8ceb365de501dffbbfbaea0019abe478b26b741dda57db6c1629f8081"
-
-[[files]]
 file = "configureddefaults/config/entity_model_features.json"
 hash = "4d13dfd4a71e0f9b0e6f673233856185f10bc2465916d7e43ace4e3621334067"
 
