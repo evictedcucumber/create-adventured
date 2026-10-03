@@ -721,6 +721,10 @@ file = "configureddefaults/config/jei/recipe-category-sort-order.ini"
 hash = "d64751110126c59cf12637cb69072f90405e82957e27f9297ed29bc9cc04032d"
 
 [[files]]
+file = "configureddefaults/config/krypton_fnp.yaml"
+hash = "7637131dbf6d97f0edca39274fa1afdf43260052c0b62649faf51283c5a1f0be"
+
+[[files]]
 file = "configureddefaults/config/lambdynlights.toml"
 hash = "83d1822bc582d0d92011dffc4d50100df0eb2c5d9f349f3a02423fafd04416da"
 
