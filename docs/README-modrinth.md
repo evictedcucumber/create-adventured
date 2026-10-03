@@ -4,9 +4,6 @@ A [Create](https://modrinth.com/project/LNytGWDc) inspired modpack with elements
 
 Build factories, lay down railways, and then pack your backpack and head out to explore new structures, loot, and dungeons.
 
-- **Minecraft:** 1.21.1
-- **Loader:** NeoForge 21.1.250
-
 ## Features
 
 - **Automation & Engineering** — Create plus a large set of addons for decor, trains, farming, kitchens, and more.
@@ -91,14 +88,10 @@ Build factories, lay down railways, and then pack your backpack and head out to 
 
 </details>
 
-The full mod list with versions is available in [MODS.md](MODS.md).
+The full mod list with versions is available in [MODS.md](https://github.com/evictedcucumber/create-adventured/blob/main/MODS.md).
 
 ## Setup
 
 ### Client
 
 Install the pack through the Modrinth App, or import the `.mrpack` from the [Versions](https://modrinth.com/modpack/create-adventured/versions) page into any launcher that supports Modrinth packs.
-
-### Server
-
-Install NeoForge 21.1.250 for Minecraft 1.21.1, then use [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap) with `-s server` against the pack's `pack.toml` to download the server-side mods. The pack is managed with the [evictedcucumber/packwiz](https://github.com/evictedcucumber/packwiz) fork.
