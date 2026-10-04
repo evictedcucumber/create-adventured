@@ -3,9 +3,9 @@
 ## Mods
 
 - [3D Skin Layers](https://modrinth.com/project/zV5r3pPn) — 1.11.3
-- [\[EMF\] Entity Model Features](https://modrinth.com/project/4I1XuqiY) — 3.3.9-neoforge-1.21
+- [\[EMF\] Entity Model Features](https://modrinth.com/project/4I1XuqiY) — 3.3.10-neoforge-1.21
 - [\[ESF\] Entity Sound Features](https://modrinth.com/project/IMuO8COj) — 0.8.2-neoforge-1.21
-- [\[ETF\] Entity Texture Features](https://modrinth.com/project/BVzZfTc1) — 7.2.4-neoforge-1.21
+- [\[ETF\] Entity Texture Features](https://modrinth.com/project/BVzZfTc1) — 7.2.5-neoforge-1.21
 - [Accessories](https://modrinth.com/project/jtmvUHXj) — 1.1.0-beta.53+1.21.1
 - [Accessories Compatibility Layer](https://modrinth.com/project/ySnjMzLg) — 0.1.12
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/DSVgwcji) — 0.5.3
@@ -80,7 +80,7 @@
 - [Inventory Interactions](https://modrinth.com/project/FCzmUKBr) — 2.2.0+1.21.1+neoforge
 - [Inventory Particles](https://modrinth.com/project/XYnKrsxH) — 3.2.0+1.21.1+neoforge
 - [Item Borders](https://modrinth.com/project/b1fMg6sH) — 1.2.5
-- [Jade Addons (Neo/Forge)](https://modrinth.com/project/xuDOzCLy) — 6.1.1+neoforge
+- [Jade Addons (Neo/Forge)](https://modrinth.com/project/xuDOzCLy) — 6.1.2+neoforge
 - [Jade 🔍](https://modrinth.com/project/nvQzSEkH) — 15.10.6+neoforge
 - [Krypton Reno](https://modrinth.com/project/JkxWVYwU) — 0.2.28.1-1.21.1
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/yBW8D80W) — 4.8.11+1.21.1
