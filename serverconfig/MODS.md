@@ -1,0 +1,140 @@
+# Create Adventured
+
+## Mods
+
+- [Accessories](https://modrinth.com/project/jtmvUHXj) — 1.1.0-beta.53+1.21.1
+- [Accessories Compatibility Layer](https://modrinth.com/project/ySnjMzLg) — 0.1.12
+- [AddonsLib](https://modrinth.com/project/cl5ec0Qm) — 1.21.1-1.14
+- [AI Improvements: Performance Tuning](https://modrinth.com/project/DSVgwcji) — 0.5.3
+- [Almanac](https://modrinth.com/project/Gi02250Z) — 1.5.2
+- [Amendments](https://modrinth.com/project/6iTJugQR) — 1.21-2.1.10
+- [Animal Feeding Trough](https://modrinth.com/project/bRFWnJ87) — 1.1.2+1.21(.1)-neoforge
+- [AppleSkin](https://modrinth.com/project/EsAfCjCV) — 3.0.9+mc1.21
+- [Architectury API](https://modrinth.com/project/lhGA9TYQ) — 13.0.11+neoforge
+- [Artifacts](https://modrinth.com/project/P0Mu4wcQ) — 13.2.5
+- [AttributeFix](https://modrinth.com/project/lOOpEntO) — 21.1.3
+- [BaguetteLib](https://modrinth.com/project/OfKzpbRU) — 2.0.7
+- [Balm](https://modrinth.com/project/MBAkmtvl) — 21.0.66+neoforge-1.21.1
+- [Bookshelf](https://modrinth.com/project/uy4Cnpcm) — 21.1.81
+- [Camerapture](https://modrinth.com/project/9dzLWnmZ) — 1.10.12+mc1.21.1-neoforge
+- [Carry On](https://modrinth.com/project/joEfVgkn) — 2.2.6
+- [Chipped](https://modrinth.com/project/BAscRYKm) — 4.0.2
+- [Clavis](https://modrinth.com/project/y9Xnig6p) — 0.2.13
+- [Cloth Config API](https://modrinth.com/project/9s6osm5g) — 15.0.140+neoforge
+- [Clumps](https://modrinth.com/project/Wnxd13zP) — 19.0.0.1
+- [Comforts](https://modrinth.com/project/SaCpeal4) — 9.0.5+1.21.1
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/COlSi5iR) — 0.4.0-alpha.0.122+1.21.1
+- [Configured Defaults](https://modrinth.com/project/SISoSFPP) — v21.1.3-1.21.1-NeoForge
+- [Connector Extras](https://modrinth.com/project/FYpiwiBR) — 1.12.1+1.21.1
+- [CoroUtil](https://modrinth.com/project/rLLJ1OZM) — 1.21.0-1.3.8
+- [Corpse](https://modrinth.com/project/WrpuIfhw) — neoforge-1.21.1-1.1.13
+- [Corpse x Curios API Compat](https://modrinth.com/project/pJGcKPh1) — 3.1.3
+- [Create](https://modrinth.com/project/LNytGWDc) — 6.0.10+mc1.21.1
+- [Create Cobblestone](https://modrinth.com/project/ihpnEd80) — 1.5.0+neoforge-1.21.1-153
+- [Create Cobblestone deepslate generators](https://modrinth.com/project/F2XXc3ws) — 1.4.6-neoforge+1.21.1+mod
+- [Create Deco](https://modrinth.com/project/sMvUb4Rb) — 2.1.3
+- [Create Encased](https://modrinth.com/project/hSSqdyU1) — 1.21.1-1.9.0-ht3
+- [Create Jetpack](https://modrinth.com/project/UbFnAd4l) — 5.2.1
+- [Create: Bells & Whistles](https://modrinth.com/project/gJ5afkVv) — v0.4.7-1.21.1
+- [Create: Blocks & Bogies](https://modrinth.com/project/j4ARnQwY) — 1.0.8-1.21.1
+- [Create: Central Kitchen](https://modrinth.com/project/btq68HMO) — 2.6.2
+- [Create: Connected](https://modrinth.com/project/Vg5TIO6d) — 1.3.3-mc1.21.1
+- [Create: Copycats+](https://modrinth.com/project/UT2M39wf) — 3.0.9+mc.1.21.1-neoforge
+- [Create: Deep Dark](https://modrinth.com/project/knrLSB8n) — 3.0.2
+- [Create: Design n' Decor](https://modrinth.com/project/x49wilh8) — 2.2b
+- [Create: Dragons Plus](https://modrinth.com/project/dzb1a5WV) — 1.11.9
+- [Create: Enchantment Industry](https://modrinth.com/project/JWGBpFUP) — 2.4.2
+- [Create: Integrated Farming](https://modrinth.com/project/9k1pAsfR) — 1.4.3
+- [Create: Pattern Schematics](https://modrinth.com/project/cpqKG67r) — 2.0.10
+- [Create: Stam1o Tweaks](https://modrinth.com/project/46RgF8H2) — 1.0.8+1.21.1-neo
+- [Create: Transmission!](https://modrinth.com/project/QFCkBuIh) — 1.2.2+neoforge-create6-1.21.1
+- [Create: Vibrant Vaults](https://modrinth.com/project/hddN8ksR) — 0.3.2
+- [CreativeCore](https://modrinth.com/project/OsZiaDHq) — 2.13.50
+- [Cristel Lib](https://modrinth.com/project/cl223EMc) — neoforge-1.21.1-3.1.7
+- [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ) — 2.7.0
+- [Curios API](https://modrinth.com/project/vvuO3ImH) — 9.5.1+1.21.1
+- [Diagonal Fences](https://modrinth.com/project/IKARgflD) — v21.1.1-1.21.1-NeoForge
+- [Diagonal Walls](https://modrinth.com/project/FQgc8dib) — v21.1.2-1.21.1-NeoForge
+- [Diagonal Windows](https://modrinth.com/project/oOi0CKes) — v21.1.1-1.21.1-NeoForge
+- [Distant Horizons](https://modrinth.com/project/uCdwusMi) — 3.3.3-1.21.1
+- [Easy Anvils](https://modrinth.com/project/OZBR5JT5) — v21.1.0-1.21.1-NeoForge
+- [Easy Magic](https://modrinth.com/project/9hx3AbJM) — v21.1.4-1.21.1-NeoForge
+- [EMI](https://modrinth.com/project/fRiHVvU7) — 1.1.24+1.21.1+neoforge
+- [Every Compat (Stone Zone)](https://modrinth.com/project/uYwn8IP5) — 1.21-2.11.17-neoforge
+- [Every Compat (Wood Good)](https://modrinth.com/project/eiktJyw1) — 1.21-2.11.52
+- [FancyMenu](https://modrinth.com/project/Wq5SjeWM) — 3.9.14-1.21.1-neoforge
+- [Farmer's Cutting: Quark](https://modrinth.com/project/rH2QzhPh) — 1.21.1-1.0+mod
+- [Farmer's Delight](https://modrinth.com/project/R2OftAxM) — 1.21.1-1.3.4
+- [Fast Noise](https://modrinth.com/project/OnlVIpq5) — 1.0.13+1.21.1+neoforge
+- [FerriteCore](https://modrinth.com/project/uXXizFIs) — 7.0.3-neoforge
+- [Forgified Fabric API](https://modrinth.com/project/Aqlf1Shp) — 0.116.15+2.3.5+1.21.1
+- [Fzzy Config](https://modrinth.com/project/hYykXjDp) — 0.7.7+1.21+neoforge
+- [Geckolib](https://modrinth.com/project/8BmcQJ2H) — 4.9.3
+- [Geophilic](https://modrinth.com/project/hl5OLM95) — 3.7
+- [GlitchCore](https://modrinth.com/project/s3dmwKy5) — 2.1.0.2
+- [Handcrafted](https://modrinth.com/project/pJmCFF0p) — 4.0.3
+- [HT's TreeChop](https://modrinth.com/project/gHoB7SHO) — 0.19.3
+- [Iceberg](https://modrinth.com/project/5faXoLqX) — 1.3.2
+- [Inventory Essentials](https://modrinth.com/project/Boon8xwi) — 21.1.20+neoforge-1.21.1
+- [Jade Addons (Neo/Forge)](https://modrinth.com/project/xuDOzCLy) — 6.1.2+neoforge
+- [Jade 🔍](https://modrinth.com/project/nvQzSEkH) — 15.10.6+neoforge
+- [JamLib](https://modrinth.com/project/IYY9Siz8) — 1.3.6+1.21.1
+- [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ) — 19.51.0.418
+- [Konkrete](https://modrinth.com/project/J81TRJWm) — 1.9.9-1.21-neoforge
+- [Kotlin for Forge](https://modrinth.com/project/ordsPcFz) — 5.12.0
+- [KotlinLangForge](https://modrinth.com/project/1vrSzlao) — 2.14.1-k2.4.20-3.0+neoforge
+- [Krypton Reno](https://modrinth.com/project/JkxWVYwU) — 0.2.28.1-1.21.1
+- [Let Me Despawn](https://modrinth.com/project/vE2FN5qn) — 1.5.0
+- [LibJF](https://modrinth.com/project/WKwQAwke) — 3.17.7+forge
+- [Lithium](https://modrinth.com/project/gvQqBUqZ) — mc1.21.1-0.15.4-neoforge
+- [Lootr](https://modrinth.com/project/EltpO5cN) — 1.21.1-1.11.38.127
+- [Measurements](https://modrinth.com/project/wLINU2AB) — 3.0.3
+- [Melody](https://modrinth.com/project/CVT4pFB2) — 1.0.10-1.21-neoforge
+- [ModernFix](https://modrinth.com/project/nmDcB62a) — 5.27.24+mc1.21.1
+- [Moonlight Lib](https://modrinth.com/project/twkfQtEc) — 1.21.1-3.7.0
+- [NetherPortalFix](https://modrinth.com/project/nPZr02ET) — 21.1.1+neoforge-1.21.1
+- [Open Parties and Claims](https://modrinth.com/project/gF3BGWvG) — neoforge-1.21.1-0.31.6
+- [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs) — 0.12.15.5-beta.1+1.21
+- [Pick Up Notifier](https://modrinth.com/project/ZX66K16c) — v21.1.1-1.21.1-NeoForge
+- [Platform](https://modrinth.com/project/i6fiqm5y) — 1.3.3
+- [Polymorph](https://modrinth.com/project/tagwiZkJ) — 1.1.0+1.21.1
+- [Prickle](https://modrinth.com/project/aaRl8GiW) — 21.1.11
+- [Puzzles Lib](https://modrinth.com/project/QAGBst4M) — 21.1.62
+- [Quark](https://modrinth.com/project/qnQsVE2z) — 4.1-486
+- [Reconnectible Chains](https://modrinth.com/project/5pzBXDS3) — 2.4.4+1.21.1-neoforge
+- [Relics](https://modrinth.com/project/OCJRPujW) — 0.10.7.8
+- [Reliquified Artifacts](https://modrinth.com/project/GnU07giL) — 0.9.7
+- [Repurposed Structures - Farmer's Delight Compat](https://modrinth.com/project/P5wB88AS) — 7
+- [Repurposed Structures - Neoforge/Forge](https://modrinth.com/project/QDNS5oAT) — 7.5.22+1.21.1-neoforge
+- [Resourceful Lib](https://modrinth.com/project/G1hIVOrD) — 3.0.12
+- [Respackopts](https://modrinth.com/project/TiF5QWZY) — 4.14.0+1.21.1.forge.4
+- [RightClickHarvest](https://modrinth.com/project/Cnejf5xM) — 4.6.1+1.21.1
+- [RightClickHarvest Supplementaries Compat](https://modrinth.com/project/1UdKJCjq) — 2.0.0+1.21
+- [Sawmill](https://modrinth.com/project/WRaRZdTd) — 1.21-1.8.1
+- [ScalableLux](https://modrinth.com/project/Ps1zyz6x) — 0.1.0.1+neoforge.1cb1e91
+- [Serene Seasons](https://modrinth.com/project/e0bNACJD) — 10.1.0.9
+- [ServerCore](https://modrinth.com/project/4WWQxlQP) — 1.5.19+1.21.1
+- [ShatterLib | OctoLib](https://modrinth.com/project/RH2KUdKJ) — 0.6.2
+- [Sinytra Connector](https://modrinth.com/project/u58R1TMW) — 2.0.0-beta.17+1.21.1
+- [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b) — 1.21.1-3.26.7.2182
+- [Sophisticated Backpacks Create Integration](https://modrinth.com/project/s85zLEDe) — 1.21.1-0.2.1.171
+- [Sophisticated Core](https://modrinth.com/project/nmoqTijg) — 1.21.1-1.5.5.2363
+- [Sound Physics Remastered](https://modrinth.com/project/qyVF9oeo) — neoforge-1.21.1-1.5.1
+- [Steam 'n' Rails Neoforge](https://modrinth.com/project/L3Jv0QZI) — 0.2.1+neoforge-mc1.21.1
+- [Storage Drawers](https://modrinth.com/project/guitPqEi) — 1.21.1-13.11.4
+- [Supplementaries](https://modrinth.com/project/fFEIiSDQ) — 1.21.1-3.9.9
+- [TorchMaster](https://modrinth.com/project/Tl8ESrhX) — 21.1.13-release
+- [Towns and Towers](https://modrinth.com/project/DjLobEOy) — 1.13.11
+- [Trade Cycling](https://modrinth.com/project/qpPoAL6m) — neoforge-1.21.1-1.0.22
+- [TrashSlot](https://modrinth.com/project/vRYk0bv7) — 21.1.11+neoforge-1.21.1
+- [TxniLib](https://modrinth.com/project/vBbPDuOs) — neoforge-1.21.1-1.0.24
+- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf) — 1.1.7.10
+- [VeinMiner](https://modrinth.com/project/OhduvhIc) — 2.11.2
+- [VeinMiner Enchantment](https://modrinth.com/project/4sP0LXxp) — 2.11.2
+- [What Are They Up To (Watut)](https://modrinth.com/project/AtB5mHky) — 1.21.0-1.2.7
+- [Xaero's Minimap](https://modrinth.com/project/1bokaNcj) — neoforge-1.21.1-26.5.0
+- [Xaero's World Map](https://modrinth.com/project/NcUtCpym) — neoforge-1.21.1-1.46.0
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR) — 3.8.2+1.21.1-neoforge
+- [YUNG's API](https://modrinth.com/project/Ua7DFN59) — 1.21.1-NeoForge-5.1.9
+- [YUNG's Extras](https://modrinth.com/project/ZYgyPyfq) — 1.21.1-NeoForge-5.1.1
+- [Zeta](https://modrinth.com/project/MVARlG2f) — 1.1-40
