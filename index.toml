@@ -810,7 +810,7 @@ hash = "32b13b2ce8cab76c065b5da73e392a0ab4117987e1e1af95899421af25c15d0d"
 
 [[files]]
 file = "configureddefaults/config/openpartiesandclaims-server.toml"
-hash = "41a4fc67ee0ec07e4c4aad86f4786e42012787dc6fc8a92768e6d44dd84a4c22"
+hash = "921937a7544fcf9b2966a37397a97f8ae6f3e4d83345102089a8ee773b0710e6"
 
 [[files]]
 file = "configureddefaults/config/particle_core_config.toml"
