@@ -750,7 +750,7 @@ hash = "6c7de51e596b00580b5734179da3511a60e8be6e43c86dae4765e70abdbe0fdf"
 
 [[files]]
 file = "configureddefaults/config/lithium.properties"
-hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+hash = "25224499976f5628e5f013cb2ba540b90cab7cb6586ac4bcf5c3c204cb9226e1"
 
 [[files]]
 file = "configureddefaults/config/lootr-client.toml"
