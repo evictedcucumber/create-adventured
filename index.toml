@@ -938,7 +938,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "configureddefaults/config/sound_physics_remastered/sound_rates.properties"
-hash = "afe3baec21ef493bfe34c24a7a52b6128862914ab2def667131e815512295ce4"
+hash = "25c13e6aa4a13e9036c752173ec1e22b9a6a20898a09747e078a7cdc8ce49657"
 
 [[files]]
 file = "configureddefaults/config/sound_physics_remastered/soundphysics.properties"
