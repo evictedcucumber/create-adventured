@@ -1,0 +1,2468 @@
+[[release]]
+version = "1.0.0"
+date = "2026-10-07"
+bump = "none"
+commit = "8e0e00ab612cd3bee5b12ed5ff4172d418a08be3"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/BBEConfig.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/CoroUtil/General.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/DistantHorizons.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/MouseTweaks.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/Veinminer/blocks.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/Veinminer/groups.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/Veinminer/settings.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/accessories.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/accessories_compat.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/addonslib-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/ambientsounds-client.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/amendments-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/amendments-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/appleskin-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/asyncparticles/asyncparticles.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.attack_burning_duration.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.drinking_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.eating_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.flatulence.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.invincibility_ticks.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.mount_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.movement_speed_on_snow.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.slip_resistance.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.sprinting_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/generic.sprinting_step_height.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/player.entity_experience.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/artifacts/player.villager_reputation.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/air_drag_modifier.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/bounciness.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/friction_modifier.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.armor.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.armor_toughness.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.attack_damage.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.attack_knockback.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.attack_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.burning_time.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.explosion_knockback_resistance.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.fall_damage_multiplier.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.flying_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.follow_range.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.gravity.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.jump_strength.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.knockback_resistance.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.luck.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.max_absorption.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.max_health.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.movement_efficiency.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.movement_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.oxygen_bonus.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.safe_fall_distance.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.scale.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.step_height.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/generic.water_movement_efficiency.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/player.block_break_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/player.block_interaction_range.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/player.entity_interaction_range.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/player.mining_efficiency.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/player.sneaking_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/player.submerged_mining_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/player.sweeping_damage_ratio.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/minecraft/zombie.spawn_reinforcements.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/neoforge/nametag_distance.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/attributefix/neoforge/swim_speed.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/badoptimizations.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/c2me.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/camerapture.client.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/camerapture.server.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/carryon-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/carryon-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/clavis.yaml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/comforts-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/comforts-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/connectiblechains.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/connectiblechains.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/connector.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/connectorextras_energy_bridge-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/continuity.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/copycats-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/copycats-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/copycats-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/corpse-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_central_kitchen-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_central_kitchen-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_connected-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_connected-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_deep_dark-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_dragons_plus-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_dragons_plus-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_dragons_plus-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_enchantment_industry-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_enchantment_industry-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_enchantment_industry-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_integrated_farming-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_jetpack-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/create_jetpack-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/createcasing-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/createcobblestone-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/createtransmission-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/creativecore-client.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/creativecore.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/cristellib/auto_config_settings.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/cristellib/built_in_packs.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/cristellib/repurposed_structures/structure_placement_config.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/cristellib/repurposed_structures/structure_toggle_config.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/cristellib/supplementaries/structure_placement_config.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/cristellib/supplementaries/structure_toggle_config.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/crittersandcompanions-common.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/curios-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/curios-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/curios-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/distraction_free_recipes-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/dndecor-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/easyanvils-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/easyanvils-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/easyanvils-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/easymagic-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/easymagic-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/easymagic-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/emi.css"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/entity_model_features.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/entity_sound_features.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/entity_texture_features.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/entityculling.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/everycomp-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/everycomp-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/everycomp-entries.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/everycomp-hazardous.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/exmi/enable_config.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/assets/custom_icon-16x16.png"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/assets/custom_icon-32x32.png"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/assets/custom_icon.icns"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/assets/custom_icon.png"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/assets/custom_minecraft_title.png"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/custom_gui_screens.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customizablemenus.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/blast_furnace_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/crafting_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/furnace_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/inventory_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/options_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/pause_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/smoker_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/options.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/cherry_blossom.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/cozy_campfire.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/dark.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/dark_high_contrast.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/light.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/light_high_contrast.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/pumpkin_soup.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/purple_void.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fancymenu/ui_themes/spooky_season.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/farmersdelight-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/farmersdelight-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/ferritecore-mixin.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/flywheel-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fml.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/freecam.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/fzzy_config/keybinds.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/immediatelyfast.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/inventory_interactions.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/inventory_particles.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/inventoryessentials-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/itemborders.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jade/hide-blocks.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jade/hide-entities.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jade/jade.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jade/plugins.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jade/sort-order.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jei-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jei/blacklist.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jei/jei-client.ini"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jei/jei-colors.ini"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jei/jei-debug.ini"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jei/jei-mod-id-format.ini"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/jei/recipe-category-sort-order.ini"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/krypton_fnp.yaml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/lambdynlights.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/legacyfreecam-server.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/legendarytooltips.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/libjf_config_core_v2.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/libjf_translate_v1.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/libjf_web_v1.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/lithium.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/lootr-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/lootr-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/measurements-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/modelfix-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/modernfix-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/modernfix-mixins.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/moonlight-client-1.toml.bak"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/moonlight-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/moonlight-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/moreculling.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/neoforge-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/neoforge-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/neoforge-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/ok_zoomer/config.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/openpartiesandclaims-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/particle_core_config.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/particle_core_disabled_optimizations_v2.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/particle_effects.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/perception.yaml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/ponder-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/quark-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/railways-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/railways-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/railways-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/relics.yaml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/repurposed_structures-neoforge/modded_loot.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/respackopts/_respackopts.conf"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/rightclickharvest.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sawmill-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sereneseasons/fertility.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sereneseasons/seasons.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/servercore/config.yml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/servercore/optimizations.yml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/skinlayers.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sodium-extra-options.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sodium-extra.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sodium-mixins.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sodium-options.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sophisticatedbackpacks-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sophisticatedbackpacks-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sophisticatedcore-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sophisticatedcore-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sound_physics_remastered/occlusion.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sound_physics_remastered/reflectivity.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sound_physics_remastered/sound_rates.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/sound_physics_remastered/soundphysics.properties"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/stonezone-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/stonezone-hazardous.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/storagedrawers-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/storagedrawers-common.v2.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/supplementaries-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/supplementaries-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/torchmaster.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/towns_and_towers/structure_enable_or_disable_new.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/towns_and_towers/structure_rarity_new.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/trade_cycling-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/transition.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/trashslot-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/travelerstitles-neoforge-1_21.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/treechop-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/treechop-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/trender.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/vanilla_structures/placement_structure_config.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/vanilla_structures/toggle_structure_config.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/vanillabackport-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/vanillabackport-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/visuality/config.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/visuality/particle_emitters/block_ambient.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/visuality/particle_emitters/block_step.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/visuality/particle_emitters/entity_armor.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/visuality/particle_emitters/entity_hit.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/watut-client.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/watut-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/watut-item-arm-adjustments.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/watut-server.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/lib/client.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/lib/common.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/lib/profiles/default.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/lib/server_profiles/default.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/minimap/client.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/minimap/common.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/minimap/default_radar_categories_client.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/minimap/default_radar_categories_server.json"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/minimap/profiles/default.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/minimap/server_profiles/default.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/world-map/client.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/world-map/common.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/world-map/profiles/default.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaero/world-map/server_profiles/default.cfg"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/xaerohud.txt"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/yacl.json5"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/yungsmenutweaks-neoforge-1_21.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/config/zeta-common.toml"
+
+[[release.change]]
+kind = "file-added"
+path = "configureddefaults/options.txt"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/3dskinlayers.pw.toml"
+name = "3D Skin Layers"
+side = "client"
+to = "1.11.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/accessories-compat-layer.pw.toml"
+name = "Accessories Compatibility Layer"
+side = "both"
+to = "0.1.12"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/accessories.pw.toml"
+name = "Accessories"
+side = "both"
+to = "1.1.0-beta.53+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/addonslib.pw.toml"
+name = "AddonsLib"
+side = "both"
+to = "1.21.1-1.14"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/ai-improvements.pw.toml"
+name = "AI Improvements: Performance Tuning"
+side = "server"
+to = "0.5.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/almanac.pw.toml"
+name = "Almanac"
+side = "server"
+to = "1.5.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/ambient-environment.pw.toml"
+name = "Ambient Environment"
+side = "client"
+to = "18.0.0.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/ambientsounds.pw.toml"
+name = "AmbientSounds"
+side = "client"
+to = "6.3.9"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/amendments.pw.toml"
+name = "Amendments"
+side = "both"
+to = "1.21-2.1.10"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/animal_feeding_trough.pw.toml"
+name = "Animal Feeding Trough"
+side = "both"
+to = "1.1.2+1.21(.1)-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/appleskin.pw.toml"
+name = "AppleSkin"
+side = "both"
+to = "3.0.9+mc1.21"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/architectury-api.pw.toml"
+name = "Architectury API"
+side = "both"
+to = "13.0.11+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/artifacts.pw.toml"
+name = "Artifacts"
+side = "both"
+to = "13.2.5"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/asyncparticles.pw.toml"
+name = "AsyncParticles"
+side = "client"
+to = "21.1.4.5"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/athena-ctm.pw.toml"
+name = "Athena"
+side = "client"
+to = "4.0.6"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/attributefix.pw.toml"
+name = "AttributeFix"
+side = "both"
+to = "21.1.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/badoptimizations.pw.toml"
+name = "BadOptimizations"
+side = "client"
+to = "2.4.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/baguettelib.pw.toml"
+name = "BaguetteLib"
+side = "both"
+to = "2.0.7"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/balm.pw.toml"
+name = "Balm"
+side = "both"
+to = "21.0.66+neoforge-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/bellsandwhistles.pw.toml"
+name = "Create: Bells & Whistles"
+side = "both"
+to = "v0.4.7-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/better-block-entities.pw.toml"
+name = "Better Block Entities"
+side = "client"
+to = "1.3.4+mc1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/blocks-bogies.pw.toml"
+name = "Create: Blocks & Bogies"
+side = "both"
+to = "1.0.8-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/bookshelf-lib.pw.toml"
+name = "Bookshelf"
+side = "both"
+to = "21.1.81"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/c2me-neoforge.pw.toml"
+name = "Concurrent Chunk Management Engine (NeoForge)"
+side = "both"
+to = "0.4.0-alpha.0.122+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/camerapture.pw.toml"
+name = "Camerapture"
+side = "both"
+to = "1.10.12+mc1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/carry-on.pw.toml"
+name = "Carry On"
+side = "both"
+to = "2.2.6"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/chipped.pw.toml"
+name = "Chipped"
+side = "both"
+to = "4.0.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/clavis.pw.toml"
+name = "Clavis"
+side = "both"
+to = "0.2.13"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/cloth-config.pw.toml"
+name = "Cloth Config API"
+side = "both"
+to = "15.0.140+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/clumps.pw.toml"
+name = "Clumps"
+side = "both"
+to = "19.0.0.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/comforts.pw.toml"
+name = "Comforts"
+side = "both"
+to = "9.0.5+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/configured-defaults.pw.toml"
+name = "Configured Defaults"
+side = "both"
+to = "v21.1.3-1.21.1-NeoForge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/connector-extras.pw.toml"
+name = "Connector Extras"
+side = "both"
+to = "1.12.1+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/connector.pw.toml"
+name = "Sinytra Connector"
+side = "both"
+to = "2.0.0-beta.17+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/continuity.pw.toml"
+name = "Continuity"
+side = "client"
+to = "3.0.0+1.21.neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/controlling.pw.toml"
+name = "Controlling"
+side = "client"
+to = "19.0.5"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/copycats.pw.toml"
+name = "Create: Copycats+"
+side = "both"
+to = "3.0.9+mc.1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/coroutil.pw.toml"
+name = "CoroUtil"
+side = "both"
+to = "1.21.0-1.3.8"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/corpse-x-curios-api-compat.pw.toml"
+name = "Corpse x Curios API Compat"
+side = "both"
+to = "3.1.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/corpse.pw.toml"
+name = "Corpse"
+side = "both"
+to = "neoforge-1.21.1-1.1.13"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-central-kitchen.pw.toml"
+name = "Create: Central Kitchen"
+side = "both"
+to = "2.6.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-cobblestone-deepslate-generators.pw.toml"
+name = "Create Cobblestone deepslate generators"
+side = "both"
+to = "1.4.6-neoforge+1.21.1+mod"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-cobblestone.pw.toml"
+name = "Create Cobblestone"
+side = "both"
+to = "1.5.0+neoforge-1.21.1-153"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-connected.pw.toml"
+name = "Create: Connected"
+side = "both"
+to = "1.3.3-mc1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-deco.pw.toml"
+name = "Create Deco"
+side = "both"
+to = "2.1.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-deep-dark.pw.toml"
+name = "Create: Deep Dark"
+side = "both"
+to = "3.0.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-design-n-decor.pw.toml"
+name = "Create: Design n' Decor"
+side = "both"
+to = "2.2b"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-dragons-plus.pw.toml"
+name = "Create: Dragons Plus"
+side = "both"
+to = "1.11.9"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-encased.pw.toml"
+name = "Create Encased"
+side = "both"
+to = "1.21.1-1.9.0-ht3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-enchantment-industry.pw.toml"
+name = "Create: Enchantment Industry"
+side = "both"
+to = "2.4.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-integrated-farming.pw.toml"
+name = "Create: Integrated Farming"
+side = "both"
+to = "1.4.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-jetpack.pw.toml"
+name = "Create Jetpack"
+side = "both"
+to = "5.2.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-pattern-schematics.pw.toml"
+name = "Create: Pattern Schematics"
+side = "both"
+to = "2.0.10"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-stam1o-tweaks.pw.toml"
+name = "Create: Stam1o Tweaks"
+side = "server"
+to = "1.0.8+1.21.1-neo"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-steam-n-rails-1.21.1.pw.toml"
+name = "Steam 'n' Rails Neoforge"
+side = "both"
+to = "0.2.1+neoforge-mc1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-transmission!.pw.toml"
+name = "Create: Transmission!"
+side = "both"
+to = "1.2.2+neoforge-create6-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create-vibrant-vaults.pw.toml"
+name = "Create: Vibrant Vaults"
+side = "both"
+to = "0.3.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/create.pw.toml"
+name = "Create"
+side = "both"
+to = "6.0.10+mc1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/creativecore.pw.toml"
+name = "CreativeCore"
+side = "both"
+to = "2.13.50"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/cristel-lib.pw.toml"
+name = "Cristel Lib"
+side = "both"
+to = "neoforge-1.21.1-3.1.7"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/critters-and-companions.pw.toml"
+name = "Critters and Companions"
+side = "both"
+to = "2.7.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/curios.pw.toml"
+name = "Curios API"
+side = "both"
+to = "9.5.1+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/diagonal-fences.pw.toml"
+name = "Diagonal Fences"
+side = "both"
+to = "v21.1.1-1.21.1-NeoForge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/diagonal-walls.pw.toml"
+name = "Diagonal Walls"
+side = "both"
+to = "v21.1.2-1.21.1-NeoForge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/diagonal-windows.pw.toml"
+name = "Diagonal Windows"
+side = "both"
+to = "v21.1.1-1.21.1-NeoForge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/distanthorizons.pw.toml"
+name = "Distant Horizons"
+side = "both"
+to = "3.3.3-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/distraction-free-recipes.pw.toml"
+name = "Distraction Free Recipes (EMI / REI / JEI)"
+side = "client"
+to = "1.2.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/easy-anvils.pw.toml"
+name = "Easy Anvils"
+side = "both"
+to = "v21.1.0-1.21.1-NeoForge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/easy-magic.pw.toml"
+name = "Easy Magic"
+side = "both"
+to = "v21.1.4-1.21.1-NeoForge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/emi.pw.toml"
+name = "EMI"
+side = "both"
+to = "1.1.24+1.21.1+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/emixx.pw.toml"
+name = "EMI++"
+side = "client"
+to = "2.1.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/entity-model-features.pw.toml"
+name = "[EMF] Entity Model Features"
+side = "client"
+to = "3.3.10-neoforge-1.21"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/entityculling.pw.toml"
+name = "Entity Culling"
+side = "client"
+to = "1.11.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/entitytexturefeatures.pw.toml"
+name = "[ETF] Entity Texture Features"
+side = "client"
+to = "7.2.5-neoforge-1.21"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/esf.pw.toml"
+name = "[ESF] Entity Sound Features"
+side = "client"
+to = "0.8.2-neoforge-1.21"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/every-compat.pw.toml"
+name = "Every Compat (Wood Good)"
+side = "both"
+to = "1.21-2.11.52"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/extra-mod-integrations.pw.toml"
+name = "EMI Addon: Extra Mod Integrations"
+side = "client"
+to = "1.0.3+1.21.1.neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/fancymenu.pw.toml"
+name = "FancyMenu"
+side = "both"
+to = "3.9.14-1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/farmers-cutting-quark.pw.toml"
+name = "Farmer's Cutting: Quark"
+side = "both"
+to = "1.21.1-1.0+mod"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/farmers-delight.pw.toml"
+name = "Farmer's Delight"
+side = "both"
+to = "1.21.1-1.3.4"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/ferrite-core.pw.toml"
+name = "FerriteCore"
+side = "both"
+to = "7.0.3-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/forgified-fabric-api.pw.toml"
+name = "Forgified Fabric API"
+side = "both"
+to = "0.116.15+2.3.5+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/fzzy-config.pw.toml"
+name = "Fzzy Config"
+side = "both"
+to = "0.7.7+1.21+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/geckolib.pw.toml"
+name = "Geckolib"
+side = "both"
+to = "4.9.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/geophilic.pw.toml"
+name = "Geophilic"
+side = "both"
+to = "3.7"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/glitchcore.pw.toml"
+name = "GlitchCore"
+side = "both"
+to = "2.1.0.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/handcrafted.pw.toml"
+name = "Handcrafted"
+side = "both"
+to = "4.0.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/iceberg.pw.toml"
+name = "Iceberg"
+side = "both"
+to = "1.3.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/immediatelyfast.pw.toml"
+name = "ImmediatelyFast"
+side = "client"
+to = "1.6.14+1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/inventory-essentials.pw.toml"
+name = "Inventory Essentials"
+side = "both"
+to = "21.1.20+neoforge-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/inventory-interactions.pw.toml"
+name = "Inventory Interactions"
+side = "client"
+to = "2.2.0+1.21.1+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/inventory-particles.pw.toml"
+name = "Inventory Particles"
+side = "client"
+to = "3.2.0+1.21.1+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/item-borders.pw.toml"
+name = "Item Borders"
+side = "client"
+to = "1.2.5"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/jade-addons-forge.pw.toml"
+name = "Jade Addons (Neo/Forge)"
+side = "both"
+to = "6.1.2+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/jade.pw.toml"
+name = "Jade 🔍"
+side = "both"
+to = "15.10.6+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/jamlib.pw.toml"
+name = "JamLib"
+side = "both"
+to = "1.3.6+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/jei.pw.toml"
+name = "Just Enough Items (JEI)"
+side = "both"
+to = "19.51.0.418"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/konkrete.pw.toml"
+name = "Konkrete"
+side = "both"
+to = "1.9.9-1.21-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/kotlin-for-forge.pw.toml"
+name = "Kotlin for Forge"
+side = "both"
+to = "5.12.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/kotlin-lang-forge.pw.toml"
+name = "KotlinLangForge"
+side = "both"
+to = "2.14.1-k2.4.20-3.0+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/krypton-fnp.pw.toml"
+name = "Krypton Reno"
+side = "both"
+to = "0.2.28.1-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/lambdynamiclights.pw.toml"
+name = "LambDynamicLights - Dynamic Lights"
+side = "client"
+to = "4.8.11+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/legacyfreecam.pw.toml"
+name = "Freecam (Fair Play)"
+side = "client"
+to = "2.0.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/legendary-tooltips.pw.toml"
+name = "Legendary Tooltips"
+side = "client"
+to = "1.5.5"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/libjf.pw.toml"
+name = "LibJF"
+side = "both"
+to = "3.17.7+forge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/lithium.pw.toml"
+name = "Lithium"
+side = "both"
+to = "mc1.21.1-0.15.4-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/lmd.pw.toml"
+name = "Let Me Despawn"
+side = "server"
+to = "1.5.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/lootr.pw.toml"
+name = "Lootr"
+side = "both"
+to = "1.21.1-1.11.38.127"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/measurements.pw.toml"
+name = "Measurements"
+side = "both"
+to = "3.0.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/melody.pw.toml"
+name = "Melody"
+side = "both"
+to = "1.0.10-1.21-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/modelfix.pw.toml"
+name = "Model Gap Fix"
+side = "client"
+to = "1.21-1.10"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/modernfix.pw.toml"
+name = "ModernFix"
+side = "both"
+to = "5.27.24+mc1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/moonlight.pw.toml"
+name = "Moonlight Lib"
+side = "both"
+to = "1.21.1-3.7.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/moreculling.pw.toml"
+name = "More Culling"
+side = "client"
+to = "1.0.10"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/mossylib.pw.toml"
+name = "MossyLib"
+side = "client"
+to = "1.6.0+1.21.1+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/mouse-tweaks.pw.toml"
+name = "Mouse Tweaks"
+side = "client"
+to = "1.21-2.26.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/netherportalfix.pw.toml"
+name = "NetherPortalFix"
+side = "server"
+to = "21.1.1+neoforge-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/ok-zoomer.pw.toml"
+name = "Ok Zoomer - It's Zoom!"
+side = "client"
+to = "10.0.0-beta.13+neo"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/open-parties-and-claims.pw.toml"
+name = "Open Parties and Claims"
+side = "both"
+to = "neoforge-1.21.1-0.31.6"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/owo-lib.pw.toml"
+name = "oωo (owo-lib)"
+side = "both"
+to = "0.12.15.5-beta.1+1.21"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/particle-core.pw.toml"
+name = "Particle Core"
+side = "client"
+to = "0.3.3+1.21+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/particle-effects.pw.toml"
+name = "Particle Effects"
+side = "client"
+to = "1.6.0+1.21.1+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/perception.pw.toml"
+name = "Perception"
+side = "client"
+to = "0.2.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/pick-up-notifier.pw.toml"
+name = "Pick Up Notifier"
+side = "both"
+to = "v21.1.1-1.21.1-NeoForge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/platform.pw.toml"
+name = "Platform"
+side = "both"
+to = "1.3.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/polymorph.pw.toml"
+name = "Polymorph"
+side = "both"
+to = "1.1.0+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/prickle.pw.toml"
+name = "Prickle"
+side = "both"
+to = "21.1.11"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/prism-lib.pw.toml"
+name = "Prism"
+side = "client"
+to = "1.0.11"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/puzzles-lib.pw.toml"
+name = "Puzzles Lib"
+side = "both"
+to = "21.1.62"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/quark.pw.toml"
+name = "Quark"
+side = "both"
+to = "4.1-486"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/rch-supplementaries-compat.pw.toml"
+name = "RightClickHarvest Supplementaries Compat"
+side = "server"
+to = "2.0.0+1.21"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/reconnectible-chains.pw.toml"
+name = "Reconnectible Chains"
+side = "both"
+to = "2.4.4+1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/reeses-sodium-options.pw.toml"
+name = "Reese's Sodium Options"
+side = "client"
+to = "mc1.21.1-2.2.4+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/relics-mod.pw.toml"
+name = "Relics"
+side = "both"
+to = "0.10.7.8"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/reliquified-artifacts.pw.toml"
+name = "Reliquified Artifacts"
+side = "both"
+to = "0.9.7"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
+name = "Repurposed Structures - Farmer's Delight Compat"
+side = "both"
+to = "7"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/repurposed-structures-forge.pw.toml"
+name = "Repurposed Structures - Neoforge/Forge"
+side = "both"
+to = "7.5.22+1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/resourceful-lib.pw.toml"
+name = "Resourceful Lib"
+side = "both"
+to = "3.0.12"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/respackopts.pw.toml"
+name = "Respackopts"
+side = "both"
+to = "4.14.0+1.21.1.forge.4"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/rightclickharvest.pw.toml"
+name = "RightClickHarvest"
+side = "server"
+to = "4.6.1+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/scalablelux.pw.toml"
+name = "ScalableLux"
+side = "both"
+to = "0.1.0.1+neoforge.1cb1e91"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/searchables.pw.toml"
+name = "Searchables"
+side = "client"
+to = "1.0.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/serene-seasons.pw.toml"
+name = "Serene Seasons"
+side = "both"
+to = "10.1.0.9"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/servercore.pw.toml"
+name = "ServerCore"
+side = "both"
+to = "1.5.19+1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/shatterbyte-lib.pw.toml"
+name = "ShatterLib | OctoLib"
+side = "both"
+to = "0.6.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/sodium-extra.pw.toml"
+name = "Sodium Extra"
+side = "client"
+to = "mc1.21.1-0.9.4+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/sodium.pw.toml"
+name = "Sodium"
+side = "client"
+to = "mc1.21.1-0.8.13-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/sophisticated-backpacks-create-integration.pw.toml"
+name = "Sophisticated Backpacks Create Integration"
+side = "both"
+to = "1.21.1-0.2.1.171"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/sophisticated-backpacks.pw.toml"
+name = "Sophisticated Backpacks"
+side = "both"
+to = "1.21.1-3.26.7.2182"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/sophisticated-core.pw.toml"
+name = "Sophisticated Core"
+side = "both"
+to = "1.21.1-1.5.5.2363"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/sound-physics-remastered.pw.toml"
+name = "Sound Physics Remastered"
+side = "both"
+to = "neoforge-1.21.1-1.5.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/stone-zone.pw.toml"
+name = "Every Compat (Stone Zone)"
+side = "both"
+to = "1.21-2.11.17-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/storagedrawers.pw.toml"
+name = "Storage Drawers"
+side = "both"
+to = "1.21.1-13.11.4"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/supplementaries.pw.toml"
+name = "Supplementaries"
+side = "both"
+to = "1.21.1-3.9.9"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/torchmaster.pw.toml"
+name = "TorchMaster"
+side = "both"
+to = "21.1.13-release"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/towns-and-towers.pw.toml"
+name = "Towns and Towers"
+side = "both"
+to = "1.13.11"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/trade-cycling.pw.toml"
+name = "Trade Cycling"
+side = "both"
+to = "neoforge-1.21.1-1.0.22"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/trashslot.pw.toml"
+name = "TrashSlot"
+side = "both"
+to = "21.1.11+neoforge-1.21.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/travelers-titles.pw.toml"
+name = "Traveler's Titles"
+side = "client"
+to = "1.21.1-NeoForge-5.1.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/treechop.pw.toml"
+name = "HT's TreeChop"
+side = "both"
+to = "0.19.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/txnilib.pw.toml"
+name = "TxniLib"
+side = "both"
+to = "neoforge-1.21.1-1.0.24"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/universal-sawmill.pw.toml"
+name = "Sawmill"
+side = "both"
+to = "1.21-1.8.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/vanillabackport.pw.toml"
+name = "Vanilla Backport"
+side = "both"
+to = "1.1.7.10"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/veinminer-enchantment.pw.toml"
+name = "VeinMiner Enchantment"
+side = "both"
+to = "2.11.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/veinminer.pw.toml"
+name = "VeinMiner"
+side = "both"
+to = "2.11.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/visuality-forge.pw.toml"
+name = "Visuality: Reforged"
+side = "client"
+to = "3.0.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/what-are-they-up-to.pw.toml"
+name = "What Are They Up To (Watut)"
+side = "both"
+to = "1.21.0-1.2.7"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/xaero-train-map.pw.toml"
+name = "Xaero Train Map"
+side = "client"
+to = "1.0.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/xaeros-minimap.pw.toml"
+name = "Xaero's Minimap"
+side = "both"
+to = "neoforge-1.21.1-26.5.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/xaeros-world-map.pw.toml"
+name = "Xaero's World Map"
+side = "both"
+to = "neoforge-1.21.1-1.46.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/yacl.pw.toml"
+name = "YetAnotherConfigLib (YACL)"
+side = "both"
+to = "3.8.2+1.21.1-neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/yeetus-experimentus.pw.toml"
+name = "Yeetus Experimentus"
+side = "client"
+to = "87.0.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/yungs-api.pw.toml"
+name = "YUNG's API"
+side = "both"
+to = "1.21.1-NeoForge-5.1.9"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/yungs-extras.pw.toml"
+name = "YUNG's Extras"
+side = "server"
+to = "1.21.1-NeoForge-5.1.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/yungs-menu-tweaks.pw.toml"
+name = "YUNG's Menu Tweaks"
+side = "client"
+to = "1.21.1-NeoForge-2.1.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/zeta.pw.toml"
+name = "Zeta"
+side = "both"
+to = "1.1-40"
+
+[[release.change]]
+kind = "mod-added"
+path = "mods/zfastnoise.pw.toml"
+name = "Fast Noise"
+side = "both"
+to = "1.0.13+1.21.1+neoforge"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/blockier-goat-horn.pw.toml"
+name = "(Bee's) Blockier Goat Horn"
+side = "client"
+to = "1.2"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/fa-player-extension.pw.toml"
+name = "Fresh Animations: Player Extension"
+side = "client"
+to = "1.1.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/fancy-crops.pw.toml"
+name = "(Bee's) Fancy Crops"
+side = "client"
+to = "1.3"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/fine-armoury.pw.toml"
+name = "(Bee's) Fine Armory"
+side = "client"
+to = "1.8"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/fluffy-carpets.pw.toml"
+name = "(Bee's) Fluffy Carpets and Wool"
+side = "client"
+to = "1.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/fresh-animations-extensions.pw.toml"
+name = "Fresh Animations: Extensions"
+side = "client"
+to = "1.8.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/fresh-animations.pw.toml"
+name = "Fresh Animations"
+side = "client"
+to = "1.10.4"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/icons.pw.toml"
+name = "Icons"
+side = "client"
+to = "1.14"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/immersive-interfaces-mod-support-unofficial.pw.toml"
+name = "Immersive Interfaces - Mod Support Unofficial"
+side = "client"
+to = "2.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/mandalas-gui-add-ons.pw.toml"
+name = "Mandala's GUI - Add-Ons"
+side = "client"
+to = "5.0"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+name = "Mandala's GUI - Dark mode"
+side = "client"
+to = "2.1"
+
+[[release.change]]
+kind = "mod-added"
+path = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+name = "Immersive Interfaces"
+side = "client"
+to = "0.8.2"
