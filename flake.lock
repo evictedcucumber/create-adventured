@@ -41,11 +41,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1791216372,
-        "narHash": "sha256-HtP+NY0kMaleKUVZGsKE1y7Nt8yvnPy8+abA2XhBt6o=",
+        "lastModified": 1791474629,
+        "narHash": "sha256-R5HSveUwlaLuojv+m8TB5VJDoVN99F2he20txiv5WSg=",
         "owner": "evictedcucumber",
         "repo": "packwiz",
-        "rev": "5ac8c6078833f3e081c6d507a368c5a69e209ab2",
+        "rev": "5625b0f3daecbb9f0043c8bd68950c9370d82ec1",
         "type": "github"
       },
       "original": {
