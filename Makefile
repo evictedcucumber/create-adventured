@@ -14,8 +14,10 @@ changelog:
 
 EXPORT_ARGS := mr export
 EXPORT_SERVER_ARGS := $(EXPORT_ARGS) --server
+EXPORT_BISECT_ARGS := $(EXPORT_ARGS) --bisect
 
 .PHONY: export_
 export_:
 	packwiz $(EXPORT_ARGS)
 	packwiz $(EXPORT_SERVER_ARGS)
+	packwiz $(EXPORT_BISECT_ARGS)
