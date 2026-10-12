@@ -5,7 +5,7 @@
 - [Accessories](https://modrinth.com/project/jtmvUHXj) — 1.1.0-beta.53+1.21.1
 - [Accessories Compatibility Layer](https://modrinth.com/project/ySnjMzLg) — 0.1.12
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/DSVgwcji) — 0.5.3
-- [Amendments](https://modrinth.com/project/6iTJugQR) — 1.21-2.1.10
+- [Amendments](https://modrinth.com/project/6iTJugQR) — 1.21-2.1.11
 - [Animal Feeding Trough](https://modrinth.com/project/bRFWnJ87) — 1.1.2+1.21(.1)-neoforge
 - [AppleSkin](https://modrinth.com/project/EsAfCjCV) — 3.0.9+mc1.21
 - [Artifacts](https://modrinth.com/project/P0Mu4wcQ) — 13.2.5
@@ -16,7 +16,7 @@
 - [Clavis](https://modrinth.com/project/y9Xnig6p) — 0.2.13
 - [Clumps](https://modrinth.com/project/Wnxd13zP) — 19.0.0.1
 - [Comforts](https://modrinth.com/project/SaCpeal4) — 9.0.5+1.21.1
-- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/COlSi5iR) — 0.4.0-alpha.0.122+1.21.1
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/COlSi5iR) — 0.4.0-alpha.0.123+1.21.1
 - [Configured Defaults](https://modrinth.com/project/SISoSFPP) — v21.1.3-1.21.1-NeoForge
 - [Corpse](https://modrinth.com/project/WrpuIfhw) — neoforge-1.21.1-1.1.13
 - [Corpse x Curios API Compat](https://modrinth.com/project/pJGcKPh1) — 3.1.3
@@ -28,7 +28,7 @@
 - [Create Jetpack](https://modrinth.com/project/UbFnAd4l) — 5.2.1
 - [Create: Bells & Whistles](https://modrinth.com/project/gJ5afkVv) — v0.4.7-1.21.1
 - [Create: Blocks & Bogies](https://modrinth.com/project/j4ARnQwY) — 1.0.8-1.21.1
-- [Create: Central Kitchen](https://modrinth.com/project/btq68HMO) — 2.6.2
+- [Create: Central Kitchen](https://modrinth.com/project/btq68HMO) — 2.6.2b
 - [Create: Connected](https://modrinth.com/project/Vg5TIO6d) — 1.3.3-mc1.21.1
 - [Create: Copycats+](https://modrinth.com/project/UT2M39wf) — 3.0.9+mc.1.21.1-neoforge
 - [Create: Deep Dark](https://modrinth.com/project/knrLSB8n) — 3.0.2
@@ -49,7 +49,7 @@
 - [Easy Magic](https://modrinth.com/project/9hx3AbJM) — v21.1.4-1.21.1-NeoForge
 - [EMI](https://modrinth.com/project/fRiHVvU7) — 1.1.24+1.21.1+neoforge
 - [Every Compat (Stone Zone)](https://modrinth.com/project/uYwn8IP5) — 1.21-2.11.17-neoforge
-- [Every Compat (Wood Good)](https://modrinth.com/project/eiktJyw1) — 1.21-2.11.52
+- [Every Compat (Wood Good)](https://modrinth.com/project/eiktJyw1) — 1.21-2.11.53
 - [FancyMenu](https://modrinth.com/project/Wq5SjeWM) — 3.9.14-1.21.1-neoforge
 - [Farmer's Cutting: Quark](https://modrinth.com/project/rH2QzhPh) — 1.21.1-1.0+mod
 - [Farmer's Delight](https://modrinth.com/project/R2OftAxM) — 1.21.1-1.3.4
@@ -67,12 +67,12 @@
 - [Lithium](https://modrinth.com/project/gvQqBUqZ) — mc1.21.1-0.15.4-neoforge
 - [Lootr](https://modrinth.com/project/EltpO5cN) — 1.21.1-1.11.38.127
 - [Measurements](https://modrinth.com/project/wLINU2AB) — 3.0.3
-- [ModernFix](https://modrinth.com/project/nmDcB62a) — 5.27.24+mc1.21.1
+- [ModernFix](https://modrinth.com/project/nmDcB62a) — 5.27.26+mc1.21.1
 - [NetherPortalFix](https://modrinth.com/project/nPZr02ET) — 21.1.1+neoforge-1.21.1
-- [Open Parties and Claims](https://modrinth.com/project/gF3BGWvG) — neoforge-1.21.1-0.31.6
+- [Open Parties and Claims](https://modrinth.com/project/gF3BGWvG) — neoforge-1.21.1-0.32.7
 - [Pick Up Notifier](https://modrinth.com/project/ZX66K16c) — v21.1.1-1.21.1-NeoForge
 - [Polymorph](https://modrinth.com/project/tagwiZkJ) — 1.1.0+1.21.1
-- [Quark](https://modrinth.com/project/qnQsVE2z) — 4.1-486
+- [Quark](https://modrinth.com/project/qnQsVE2z) — 4.1-487
 - [Reconnectible Chains](https://modrinth.com/project/5pzBXDS3) — 2.4.4+1.21.1-neoforge
 - [Relics](https://modrinth.com/project/OCJRPujW) — 0.10.7.8
 - [Reliquified Artifacts](https://modrinth.com/project/GnU07giL) — 0.9.7
@@ -85,12 +85,12 @@
 - [ScalableLux](https://modrinth.com/project/Ps1zyz6x) — 0.1.0.1+neoforge.1cb1e91
 - [Serene Seasons](https://modrinth.com/project/e0bNACJD) — 10.1.0.9
 - [ServerCore](https://modrinth.com/project/4WWQxlQP) — 1.5.19+1.21.1
-- [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b) — 1.21.1-3.26.7.2182
-- [Sophisticated Backpacks Create Integration](https://modrinth.com/project/s85zLEDe) — 1.21.1-0.2.1.171
+- [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b) — 1.21.1-3.26.9.2195
+- [Sophisticated Backpacks Create Integration](https://modrinth.com/project/s85zLEDe) — 1.21.1-0.2.2.188
 - [Sound Physics Remastered](https://modrinth.com/project/qyVF9oeo) — neoforge-1.21.1-1.5.1
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/L3Jv0QZI) — 0.2.1+neoforge-mc1.21.1
 - [Storage Drawers](https://modrinth.com/project/guitPqEi) — 1.21.1-13.11.4
-- [Supplementaries](https://modrinth.com/project/fFEIiSDQ) — 1.21.1-3.9.9
+- [Supplementaries](https://modrinth.com/project/fFEIiSDQ) — 1.21.1-4.0.1
 - [TorchMaster](https://modrinth.com/project/Tl8ESrhX) — 21.1.13-release
 - [Towns and Towers](https://modrinth.com/project/DjLobEOy) — 1.13.11
 - [Trade Cycling](https://modrinth.com/project/qpPoAL6m) — neoforge-1.21.1-1.0.22
@@ -99,6 +99,6 @@
 - [VeinMiner](https://modrinth.com/project/OhduvhIc) — 2.11.2
 - [VeinMiner Enchantment](https://modrinth.com/project/4sP0LXxp) — 2.11.2
 - [What Are They Up To (Watut)](https://modrinth.com/project/AtB5mHky) — 1.21.0-1.2.7
-- [Xaero's Minimap](https://modrinth.com/project/1bokaNcj) — neoforge-1.21.1-26.5.0
-- [Xaero's World Map](https://modrinth.com/project/NcUtCpym) — neoforge-1.21.1-1.46.0
+- [Xaero's Minimap](https://modrinth.com/project/1bokaNcj) — neoforge-1.21.1-26.6.0
+- [Xaero's World Map](https://modrinth.com/project/NcUtCpym) — neoforge-1.21.1-1.47.0
 - [YUNG's Extras](https://modrinth.com/project/ZYgyPyfq) — 1.21.1-NeoForge-5.1.1
