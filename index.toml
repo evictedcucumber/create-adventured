@@ -982,7 +982,7 @@ hash = "6e00741488f92ab408d20c241a61c51ff18abfde230a4fa74416471d3dce6ac4"
 
 [[files]]
 file = "configureddefaults/config/supplementaries-common.toml"
-hash = "0d53488362a9dda8bfb9c6d5caf2e5797366fe7bec559b5d0083e7dca203eefe"
+hash = "df8a87e46aa2bc79fb27a2d63b428a85f969c0c497c811291fa2e6b547f7ebc2"
 
 [[files]]
 file = "configureddefaults/config/torchmaster.toml"
