@@ -266,7 +266,7 @@ hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
 [[files]]
 file = "configureddefaults/config/c2me.toml"
-hash = "62ff5e0aea28d99d0dc95201ea82a3d1ca082e9ba30a1a16e676f1ef07254a06"
+hash = "e1cf42bb06124d805d26105f9fc7fab51276d472fe7acc431a64a9a8a825889a"
 
 [[files]]
 file = "configureddefaults/config/camerapture.client.json"
