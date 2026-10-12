@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "233a4004314a99271d8ecb5ee45042d38ca08f733332ffde289c18a73eb1c73e"
+hash = "b15369e1e757ae649ddcabee12f452306a0c477510aba821971b295f774c3fba"
 metafile = true
 
 [[files]]
