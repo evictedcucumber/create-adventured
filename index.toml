@@ -54,7 +54,7 @@ hash = "c98f572839ace55b0792042fa4b984311e7d876abdaccfc8a4694f5bebad766c"
 
 [[files]]
 file = "configureddefaults/config/amendments-client.toml"
-hash = "ef99987768b007aeff6f3505c9d193eccef83a9d6f24c0ce9d4f0f74fc7f76f3"
+hash = "2dd72a242d35eff43d192dd54f9b53a40b606377a79fbb3e01439de272a9c4a1"
 
 [[files]]
 file = "configureddefaults/config/amendments-common.toml"
