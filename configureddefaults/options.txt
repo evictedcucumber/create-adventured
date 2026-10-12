@@ -126,6 +126,7 @@ key_key.modernfix.config:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
@@ -147,7 +148,6 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.change_hotbar:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
@@ -224,11 +224,11 @@ key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
 key_treechop.key.open_settings_overlay:key.keyboard.unknown
-key_key.inventoryessentials.single_transfer:key.keyboard.unknown
 key_key.trashslot.toggle:key.keyboard.t
+key_key.inventoryessentials.single_transfer:key.keyboard.unknown
 key_key.trashslot.toggle_lock:key.keyboard.unknown
-key_key.trashslot.delete:key.keyboard.delete
-key_key.trashslot.delete_all:key.keyboard.delete:SHIFT
+key_key.trashslot.delete:key.keyboard.unknown
+key_key.trashslot.delete_all:key.keyboard.unknown
 key_key.inventoryessentials.screen_bulk_drop:key.keyboard.unknown
 key_key.inventoryessentials.sort_inventory:key.keyboard.unknown
 key_key.inventoryessentials.restock_container:key.keyboard.unknown
@@ -247,11 +247,11 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.relics.active_abilities_list:key.keyboard.right.alt
 key_key.relics.research_relic:key.keyboard.left.shift
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
