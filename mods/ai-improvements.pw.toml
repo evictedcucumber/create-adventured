@@ -2,7 +2,7 @@ name = "AI Improvements: Performance Tuning"
 filename = "AI-Improvements-1.21-0.5.3.jar"
 version = "0.5.3"
 side = "server"
-config-files = []
+config-files = ["config/aiimprovements-common.toml"]
 
 [download]
 url = "https://cdn.modrinth.com/data/DSVgwcji/versions/dGNP90t0/AI-Improvements-1.21-0.5.3.jar"

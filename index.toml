@@ -1178,12 +1178,12 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "6bd20fe236860a4397e1cac69abacaa83e8a7cd8a9b1319d52089a9957f5891b"
+hash = "792b3dc7f620513989cba8a3d8ad5752c90ecb8002342c82b20c782cb9e61d00"
 metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "e57e3739e3db5073f328a2013672188589a8c7591876d46295cc4f5c0e8870db"
+hash = "ee9e91a420550bbcbad793f27fa2d0cfbf2464de0b253a39b12a3d7edeb3d126"
 metafile = true
 
 [[files]]
@@ -1348,7 +1348,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "020c4d71d8f8c25bf587b42ffa4816da37ebab78bc1113239c31c7eae0a1ed88"
+hash = "91e0d2b33fc8c245699e5e73ad862b79b2b22db96c609f03cb1ba1bc12fedad7"
 metafile = true
 
 [[files]]
@@ -1688,7 +1688,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "5f545120d153b64e2dd929bb8c3dfbdf013f5746ea1c2309d57c7b5bee0af870"
+hash = "21db08a53f7a06992e76d91ac2f2b28a35eb0924950a80ef4f468ce9be702c2d"
 metafile = true
 
 [[files]]
