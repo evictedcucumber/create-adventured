@@ -1887,7 +1887,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7c2bd0c4cbcdb00df72a89bec904a0a8b6bf6d60b28b99d7a1d56f734cfb40e0"
+hash = "b81cf675dcb58cf5c89d4f97ae1e1a5e68ad218acd6dfcd58d1e105c4d26e08e"
 metafile = true
 
 [[files]]
