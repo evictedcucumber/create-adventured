@@ -333,6 +333,10 @@ file = "configureddefaults/config/corpse-server.toml"
 hash = "5b65d1f1b9bb18380dab9b94e90be7436c61afba6b3b70ac7aa86466d535bca8"
 
 [[files]]
+file = "configureddefaults/config/corpsecurioscompat-common.toml"
+hash = "1af8c038af488d4d2f98afc93306cc97a3e7149100c184929980db642abbb89d"
+
+[[files]]
 file = "configureddefaults/config/create-client.toml"
 hash = "1da035914e17c31820fab27fd60525cdcf03041d5adf7029470e733ec758784b"
 
