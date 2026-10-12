@@ -749,6 +749,10 @@ file = "configureddefaults/config/legendarytooltips.toml"
 hash = "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
 
 [[files]]
+file = "configureddefaults/config/letmedespawn.json"
+hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
+
+[[files]]
 file = "configureddefaults/config/libjf_config_core_v2.json5"
 hash = "fd865b43fb98266a3e8cb90ed6cdf2c18ed5f488e17f6844c051802cdc719e6c"
 
