@@ -790,7 +790,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "45cf8bd59d0f738106d1499a40eb60d77c1667913be53bf77bb9d0c9366ad0b3"
+hash = "e4a3e565a845dc3d805371f955453697b386c8bb13215b05e29cbe48592700c4"
 
 [[files]]
 file = "configureddefaults/config/moonlight-client-1.toml.bak"
