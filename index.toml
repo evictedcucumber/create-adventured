@@ -826,7 +826,7 @@ hash = "32b13b2ce8cab76c065b5da73e392a0ab4117987e1e1af95899421af25c15d0d"
 
 [[files]]
 file = "configureddefaults/config/openpartiesandclaims-server.toml"
-hash = "921937a7544fcf9b2966a37397a97f8ae6f3e4d83345102089a8ee773b0710e6"
+hash = "7efe91545f84108ebb5c25530f1eef01691352182203f97b484c0109c27f4fdf"
 
 [[files]]
 file = "configureddefaults/config/particle_core_config.toml"
